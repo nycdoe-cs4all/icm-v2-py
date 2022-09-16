@@ -132,7 +132,7 @@ End class in a way that is meaningful to you and will give you the most data on 
 
 One option is to display the image below:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Sample Robot on p5.js Coordinate Plane</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sample Robot on p5.js Coordinate Plane</p></figcaption></figure>
 
 Ask students to respond to the following questions (you may do this as a whole-class activity or as a collectible on a post-it or notecard):
 
