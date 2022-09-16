@@ -6,18 +6,18 @@ description: How can we break down a robot into basic shapes in p5.js?
 
 ### Teacher Notes and Overview
 
-This lesson is an unplugged activity that has students drawing a robot using shapes and they will then use abstraction to code in your IDE of choice. It is a great way to introduce p5 before coding.
+This lesson is an unplugged activity that has students drawing a robot using shapes and they will then use abstraction to code in your IDE of choice. It is a great way to introduce Processing.py before coding.
 
-In this lesson, students will be introduced to the p5 canvas and coordinate system. It is one of the most important concepts that students will need to master in order to be successful when coding in p5. This lesson is an unplugged activity in which students will draw a robot using shapes and then use abstraction decompose and code in repl.it or a local IDE. It is a great way to introduce p5 before coding. Students will practice abstraction (definition below) when they are decomposing the robots shapes. Abstraction is an important CS practice that is used to reduce complexity and increase efficiency.
+In this lesson, students will be introduced to the Processing.py canvas and coordinate system. It is one of the most important concepts that students will need to master in order to be successful when coding in Processing.py. This lesson is an unplugged activity in which students will draw a robot using shapes and then use abstraction decompose and code in repl.it or a local IDE. It is a great way to introduce Processing.py before coding. Students will practice abstraction (definition below) when they are decomposing the robots shapes. Abstraction is an important CS practice that is used to reduce complexity and increase efficiency.
 
 ### Objectives
 
 **Students will be able to:**
 
-* Create an account on [https://repl.it](https://repl.it)
-* Explain what p5.js is
-* Describe things you can create on p5.js
-* Understand the p5 canvas coordinate system
+* Create an account on [Trinket.io](https://trinket.io/)
+* Explain what Processing.py is
+* Describe things you can create on Processing.py
+* Understand the Processing.py canvas coordinate system
 
 ### Suggested Duration
 
@@ -32,7 +32,7 @@ In this lesson, students will be introduced to the p5 canvas and coordinate syst
 ### Vocabulary
 
 * **Computational Media** - The practice of using programming to build expressive and interactive computer applications and media.
-* **p5.js** - An open-source Javascript library that allows people to make web pages animated and interactive.
+* Processing.py **** - An open-source Python version of Processing that allows people to make web pages animated and interactive.
 * **IDE** - Integrated development area is a software application that provides a place for computer programmers to develop code.
 * **Unplugged Activity** - an activity that can be conducted without the use of computers or electronic equipment.
 * **Abstraction** - Abstraction is the process of taking away or removing characteristics from something in order to reduce it to a set of essential characteristics
@@ -47,9 +47,9 @@ In this lesson, students will be introduced to the p5 canvas and coordinate syst
 
 ### Planning Notes and Materials
 
-|                                                                                                                                                                            Planning Notes                                                                                                                                                                            |                                            Materials                                           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
-| <p>This example is based off of the robot worksheet and example. If you or your class hate robots, plan on making a secondary example.</p><p></p><p>Preview shape functions - be prepared to differentiate between radius &#x26; diameter.</p><p></p><p>You’ll be using the p5 website A LOT - make sure everything linked in the lesson is unblocked and usable</p> | <p>Robot Worksheet Handout (Printed)<br><br>Pens/Pencils<br><br>Rulers<br><br>Highlighters</p> |
+|                                                                                                                                                                                Planning Notes                                                                                                                                                                                |                                            Materials                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+| <p>This example is based off of the robot worksheet and example. If you or your class hate robots, plan on making a secondary example.</p><p></p><p>Preview shape functions - be prepared to differentiate between radius &#x26; diameter.</p><p></p><p>You’ll be using the Processing website A LOT - make sure everything linked in the lesson is unblocked and usable</p> | <p>Robot Worksheet Handout (Printed)<br><br>Pens/Pencils<br><br>Rulers<br><br>Highlighters</p> |
 
 ### Resources
 
@@ -58,9 +58,7 @@ In this lesson, students will be introduced to the p5 canvas and coordinate syst
 * (Optional) [Desmos p5 Coordinate Grid Activity](https://teacher.desmos.com/activitybuilder/custom/5f73248eba4291305a86cf50)
 * (Optional) [Desmos p5 Coordinate Grid Tool](https://www.desmos.com/calculator/o75y8av9jw)
 
-### Assessments
-
-
+**NB:** _Resources may refer to 'p5', which is the JavaScript version of the Processing library. The coordinate systems are the same, even if a few functions are a little different!_
 
 ### Assessments
 
@@ -92,19 +90,17 @@ They can easily create with these options:
 
 After they’re done signing up, ask them to close their laptops or turn around with their attention to you (if in a lab).
 
-### Intro: What is p5? (\~10 minutes)
+### Intro: What is Processing? (\~10 minutes)
 
 Start the lesson by explaining what is the main programming language of this course. After watching the video ask students the following suggested questions: [Video](http://hello.p5js.org)
 
-Note: The video is interactive so move the mouse around when prompted to show students how interactive p5 **** can be.
-
-
+**NB:** _This is made for p5, but p5 is the JavaScript version of Python. Explain to students that they have the same functionality! The video is also interactive so move the mouse around when prompted to show students how interactive p5/Processing **** can be._
 
 1. What did you see in the video?
 2. What things do you think you can make with p5?
 3. How is it similar or different to other programming languages?
 
-Show some final project student examples to give your classroom a sense of what is possible with p5. You may also need to explain to students that p5 originally existed as a JavaScript library - they, however, will be working in Python, and will be using the Python version of the same library. They can make almost all the same outputs, it will just be learning with a different language!&#x20;
+Show some final project student examples to give your classroom a sense of what is possible with Processing.py. You may also need to explain to students that p5 originally existed as a JavaScript library - they, however, will be working in Python, and will be using the Python version of the same library. They can make almost all the same outputs, it will just be learning with a different language!&#x20;
 
 * [Emoji Example](https://alpha.editor.p5js.org/SEP/sketches/HylwiSZXQ)
 * [Paint Tool Example](https://alpha.editor.p5js.org/dcanizares/sketches/HklghoFlf)
@@ -118,7 +114,7 @@ Explain to students that they will be creating robots on their paper using only 
 **During the first part:**
 
 * Distribute Robot Worksheets and ask students to draw their robot consisting of only rectangles and ellipses
-* They can use as many or as few as they want, but should try to use both shape
+* They can use as many or as few as they want, but should try to use both shapes
 * Let them draw! (Having colored drawing implements on hand can be very useful for this step)
 
 **After the drawing**:
@@ -138,7 +134,7 @@ One option is to display the image below:
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Sample Robot on p5.js Coordinate Plane</p></figcaption></figure>
 
-Ask students to respond to the following questions (you may do this as a whole-class activity or as a collectable on a post-it or notecard):
+Ask students to respond to the following questions (you may do this as a whole-class activity or as a collectible on a post-it or notecard):
 
 * How many shapes can you identify?
 * What is the location of the mouth of the robot?
