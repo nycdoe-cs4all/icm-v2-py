@@ -119,7 +119,7 @@ Distribute the [Processing.py Reference Sheet Worksheet](https://docs.google.com
 
 Once they have previewed several functions, ask them to recreate something similar to the following:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Four shapes on grey background, a triangle, a star-esque polygon, a quadrilateral, and a small arc.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Four shapes on grey background, a triangle, a star-esque polygon, a quadrilateral, and a small arc.</p></figcaption></figure>
 
 [Possible Solution](https://trinket.io/python/13becd8fde)
 
