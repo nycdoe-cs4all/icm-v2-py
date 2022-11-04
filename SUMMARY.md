@@ -14,6 +14,7 @@
 * [🤓 EXTRA: Color & Data Storage](unit-1-draw-and-draw-with-functions/extra-color-and-data-storage.md)
 * [🤓 EXTRA: Color Palette Practice](unit-1-draw-and-draw-with-functions/extra-color-palette-practice.md)
 * [✨ U1LA3.1: Introducing Variables](unit-1-draw-and-draw-with-functions/u1la3.1-introducing-variables.md)
+* [✨ U1LA3.2: Creating Custom Variables](unit-1-draw-and-draw-with-functions/u1la3.2-creating-custom-variables.md)
 
 ***
 
