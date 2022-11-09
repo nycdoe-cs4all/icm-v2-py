@@ -125,3 +125,94 @@ run()
 * Why do you think we named our variable above all the other functions? This is your introduction to global variables. Some students will see the visual cue that the variable is declared before we use it and that it’s used in two functions - some will not. It’s okay to explain this a bit more, they will see it again in more detail when they learn about random().
 
 After the variable is added in, give it a few different values, running the program each time to see the change (you might want to make the canvas longer for this).
+
+### Move a Value with One Variable (\~10 - 15 min)
+
+Ask students: we’ve changed the y position, but now I want to move this entire design to the left or right by changing the x, as well. Why is that going to be different from changing the y position?
+
+This should be a nice callback to using `mouseX`/`mouseY` to move triangles and quads in the previous lesson. Hopefully, students will recall that they need a variable and an 'anchor point' that they can base the other points around. As a best practice, consider copy/pasting the original code into a comment so you have reference for where you started and where you are going!
+
+Similar to the previous lesson, we will need a starting point - in this instance, we will use the far left ellipse, but it is important to stress that does not always need to be the case. Using the initial points from the first ellipse, create your starting variables:
+
+```
+from processing import *
+
+circleY = 60
+circleX = 120
+```
+
+We will then replace these in our starting ellipse and continue from there, thinking about how far away each of the other ellipses is from the original starting location. In the second ellipse, the X position is at 140, or +80 units away from our start. So we could code it like so:
+
+```
+def draw():
+    background(220)
+    text(str(mouseX) + ", " + str(mouseY), 20, 20)
+    
+    ellipse(circleX, circleY, 60, 60) #original 120, 60
+    ellipse(circleX + 80, circleY, 60, 60)
+    ellipse(280, circleY, 60, 60)
+    ellipse(360, circleY, 60, 60)
+    ellipse(440, circleY, 60, 60)
+
+
+draw = draw
+run()
+```
+
+Be sure to run the program; students should notice that nothing happened, but that’s a good thing because it means the positions stayed the same even while using a variable. If students have any misconceptions or errors, please feel free to indulge them and run the program to see the results before explaining what's happening.
+
+Once all of the ellipses have been finished, your x values should look like this:
+
+```
+circleX
+circleX+80
+circleX+160
+circleX+240
+circleX+320
+```
+
+Once you're done, demonstrate how you can then adjust the variable value in just one place and maintain the exact design while moving it around the canvas.
+
+### Move a Taijitu with Two Variables (\~10 - 15 min)
+
+After the example, ask students to pair program with their taijitu symbol. (You can have one person duplicate their symbol, or share an exemplar to give everyone a fresh start.) Explain that their goal is to create a variable called `symbolX` and `symbolY` and remake the code so that they can change the value of just those variables and move the entire symbol around the page.
+
+Each partner should be responsible for one variable that they will navigate for while the other drives, and then they will swap.
+
+Time permitting, share student solutions on the board.
+
+### DeltaMath Variable Practice (Optional, 30 - 45 min)
+
+_Likely, this will be the beginning of a new period. You can use the question below as a 'Do Now' activity that launches into the lesson prior to practice. On the_ [_DeltaMath.com_](https://www.deltamath.com) _website, under Computer Science -> Pseudocode Exercises -> Setting Variable Values, there are problems that look like the following. You’ll want an assignment of 10-15 of them._
+
+Determine what is printed by this code:
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Image shows a practice variable assignment question from DeltaMath.com</p></figcaption></figure>
+
+_Sample problem solution: **4**   **5  5**_
+
+DeltaMath uses the pseudocode seen on the AP exam, so it’s not written in any actual language, but it does follow the same logic of running from top to bottom. It’s fairly intuitive, but we don’t want it to confuse any students. Before setting your students free, be sure they are aware of the following:
+
+| DeltaMath Pseudocode |   Python   |
+| :------------------: | :--------: |
+|      **b <-- 4**     |   `b = 4`  |
+|    **DISPLAY(b)**    | `print(b)` |
+
+If students get them wrong, encourage them to use the 'next' feature on DeltaMath to step through the code so they can understand their mistakes.
+
+### Wrap-Up (\~5 minutes)
+
+You may want to bring students together to discuss successes and sticking points from the variable practice. DeltaMath does a roll up of accuracy and completion for each student, so you will have access to their data if you want to give a formative assignment grade or something similar.
+
+### Student Assessment Guiding Questions
+
+* What is a variable? How do you use it in your code?
+* What are the benefits of using variables?
+* How did you use variables in your project and why that way?
+* What was challenging when using variables?
+
+### Extensions
+
+As this lesson is mostly a code-along, it is unlikely that students will race ahead of where the class is. If students are in a place to move forward, have them start trying to create their own designs, or utilize past designs such as their robot, that they can shift using variables for x and y while preserving the design itself. Creating designs that use triangles, quads, or shapes of their own creation are also useful and challenging.
+
+You might also have them start experimenting with using `mouseX` and `mouseY` to move their design around.
