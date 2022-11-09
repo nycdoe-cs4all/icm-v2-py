@@ -8,7 +8,7 @@ description: How can code be used as a creative and expressive medium?
 
 Taijitu is a symbol representing the religious and philosophical tradition of Taoism (also called Daoism). The term means a ‘diagram of the supreme ultimate,’ and it refers to the famous Chinese concept of yin and yang, of opposites existing in complete harmony.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Taijitu Or Yin-Yang Symbol</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Taijitu Or Yin-Yang Symbol</p></figcaption></figure>
 
 The Taijitu symbol consists of two (one black and one white) swirling ‘teardrop’ shapes that fit within each other to form a perfect circle. Each figure contains a part of the other so that there is a black dot in the white half of the circle and a white dot in the black portion. These seemingly opposing, but complementary halves make a whole and thus, are incomplete without each other.
 

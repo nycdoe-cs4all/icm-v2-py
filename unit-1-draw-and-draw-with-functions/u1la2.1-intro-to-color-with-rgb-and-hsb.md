@@ -72,7 +72,7 @@ There are many wonderful examples of color theory at work in our world. A useful
 
 Imagine a computer program is going to draw three, semi-transparent overlapping circles. This means where they cross, the colors will mix and create a new color. What do you think those colors will be?
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Three overlapping circles with '1' between red and green, '2' between red and blue, '3' between blue and green, and 4 between all colors.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Three overlapping circles with '1' between red and green, '2' between red and blue, '3' between blue and green, and 4 between all colors.</p></figcaption></figure>
 
 ### Working with Colors in Processing.py (\~7 - 10 minutes)
 
@@ -145,7 +145,7 @@ HSB stands for **H**ue, **S**aturation, and **B**rightness. (It is sometimes HSV
 
 Explain and demonstrate to students that this method is helpful for choosing colors logically, as in the following examples:
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Slide describing the HSB for a muted red and light, vibrant blue.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Slide describing the HSB for a muted red and light, vibrant blue.</p></figcaption></figure>
 
 When students think about hue, remember that it is 0 to 360 - that means 0 and 360 are at the same place on this color wheel. (Saturation and Brightness are both 0 to 100.) Displaying an image like this can be helpful as students work:
 
