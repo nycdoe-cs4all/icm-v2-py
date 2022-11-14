@@ -85,9 +85,15 @@ For Python, this will most often look like:
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-04 at 1.32.21 PM.png" alt=""><figcaption><p>Image shows a variable being declared, initalized, and used in a Processing.py program.</p></figcaption></figure>
 
+The one difference comes up if we want to use a Processing.py function when giving our variable. Students will not see this quite yet, but it's worth naming - things like the `random()` function cannot be used outside of `setup()` or `draw()`. To get around this, we declare and initialize a variable with no value, and then give the it value in `setup()` to start the program. It would look something like this:
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-14 at 3.21.24 PM.png" alt=""><figcaption></figcaption></figure>
+
 Notice where we placed our lines of code - the variable is way up at the top, before the `setup` function. This is done purposefully to create what we call a _global_ variable. This variable can be seen and used in any of our p5 functions.
 
-If we create a variable inside of setup or draw, it will have a _local_ scope to that function. While this can be useful, and students will see this happen in future programs, it's not incredibly important at this moment or for things they will be immediately building. For this reason, we have prioritized their ability to get started over digging into code rules, best practices, and efficiency which will all build over the course of the curriculum. Please modify if you believe differently!
+If we create a variable inside of setup or draw, it will have a _local_ scope to that function. If we want to change the value of a global variable, we need to use the `global variableName` like what is happening on line 7; that will ensure we change our global variable rather than making a new local one with the same name.
+
+This is important, but will not come up for several more lessons. For this reason, we have prioritized their ability to get started over digging into code rules, best practices, and efficiency which will all build over the course of the curriculum. Please modify if you believe differently!
 
 Once students have the idea of using variables, it's time to code one into the program. Begin by telling students you are going to make a variable that will control the y position because we can see that all the ellipses in our design have the _same_ y position. When code repeats, it is usually an indicator that we can make it more efficient.
 
