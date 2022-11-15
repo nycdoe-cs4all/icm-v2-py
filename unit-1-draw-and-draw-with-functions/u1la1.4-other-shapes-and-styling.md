@@ -148,6 +148,8 @@ In Processing.py, these are radian measurements. If you are comfortable and woul
 
 If your students get overwhelmed, you can take it a notch down, paraphrase everything happening above, and explain that although computers like precise radians, we can either a: use the unit circle to identify the radian measures we need or b: utilize a degree to radian calculator to help us input less precise (read: terminating) values of Pi. If you google **'degree to radian calculator,'** you'll get the easy built-in-to-Google version for your use.
 
+Additionally, Processing.py has a function called `radians()` that will take in a degree measure and return a radian measure. If you wanted, for example, a half circle from 0 to 180, you would write `radians(0)` and `radians(180)` in your arc function.
+
 Either way, displaying a unit circle that also shows degree measurements will be helpful in your cause:
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Unit circle displaying radians and degrees</p></figcaption></figure>
@@ -173,7 +175,7 @@ draw = draw
 run()
 ```
 
-And like this if you wanted to draw a different arc writing out the radians imprecisely:
+And like this if you wanted to draw a different arc that will convert your degrees to radians:
 
 ```
 from processing import *
@@ -185,13 +187,15 @@ def draw():
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
-    arc(200, 200, 100, 100, 179.909, 3.14)
+    arc(200, 200, 100, 100, radians(90), radians(270)
     
 
 
 draw = draw
 run()
 ```
+
+As a note, arcs in Processing.py will only draw if the radians go from lower to higher radians/degrees. You will sometimes want arcs that present differently than say, 0 to 180 - if you wanted to go from 180 to 0, you would instead need to say 180 to 360, as 0 and 360 are the same place on the circle, but 360 is a higher value.
 
 Ask students to try to create a few more arcs before you move on to the next section. Arcs will make the next mini project infinitely easier!
 
