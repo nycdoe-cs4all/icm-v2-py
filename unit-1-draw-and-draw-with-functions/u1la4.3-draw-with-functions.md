@@ -70,13 +70,15 @@ Display link to starter code ([Trinket](https://trinket.io/python/57a789a162)) a
 
 In this code along, you will build a function called **`happyFace()`** that will take the existing code for the happy face and turn it into a function. While the first step in the code along is always the same, subsequent steps can be a choose-your-own-adventure based on how your class has performed on past skills from the transformation lessons.
 
-To begin, explain to students the setup of functions. At the bottom of the starter code, begin by setting up an empty function, explaining each piece, like so:
+To begin, explain to students the setup of functions. At the top of the starter code, begin by setting up an empty function, explaining each piece, like so:
 
 ```
 #Write your functions up here!
 def happyFace():
     #your function here
 ```
+
+In Python, it's important that both variables _and_ functions are declared or defined before they are used. That means it's usually safest to do them at the top of your code to keep things organized - you can even mark in comments where your variables and where your functions are living.
 
 From there, take the code for the happy face - lines roughly 15-21 - and copy/paste them into the function. Remove them from the `draw()` function so you have something that looks like this:
 
