@@ -19,6 +19,7 @@
 * [✨ U1LA4.2: Intro to Functions and Function Calls](unit-1-draw-and-draw-with-functions/u1la4.2-intro-to-functions-and-function-calls.md)
 * [U1LA4.3: Draw with Functions](unit-1-draw-and-draw-with-functions/u1la4.3-draw-with-functions.md)
 * [U1LA4.4: Using the Random Function](unit-1-draw-and-draw-with-functions/u1la4.4-using-the-random-function.md)
+* [🗃 U1LA4 Mini Project: Custom Emoji](unit-1-draw-and-draw-with-functions/u1la4-mini-project-custom-emoji.md)
 
 ***
 

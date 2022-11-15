@@ -92,7 +92,7 @@ Explain that one way we use abstraction in our code is **procedural abstraction*
 
 Even though this seems confusing, they’ve actually been benefitting from procedural abstraction the entire time they’ve been using Processing.py. Show students this example from p5.js:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Slide showing the definition of a p5 function and the short p5 function call side by side</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Slide showing the definition of a p5 function and the short p5 function call side by side</p></figcaption></figure>
 
 And explain that **line()** is an abstraction - a function! - that has been created by a programmer and included in the p5.js library. All the code on the left is the stuff you actually need to do to make a line - and because the computers have been taught that that algorithm in its entirety is a process called ‘line,’ we don’t have to type it over and over every time. We can just say **line()** and feed it numbers - inputs, or arguments - that create the line we want.
 
