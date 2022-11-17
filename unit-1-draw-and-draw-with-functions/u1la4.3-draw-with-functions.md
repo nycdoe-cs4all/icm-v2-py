@@ -142,7 +142,7 @@ This is your chance to choose a code along path that is most sensible to your st
 def happyFace(xPos, yPos):
     strokeWeight(1)
     fill(169, 222, 183)
-    ellipse(xPos,yPos,100) //125, 200
+    ellipse(xPos,yPos,100, 100) #125, 200
     arc(xPos-15,yPos,25,25,radians(180),radians(360))
     arc(xPos+35,yPos,15,25,radians(180),radians(360))
     arc(xPos+11,yPos+26,40,10,radians(0),radians(180))
@@ -163,7 +163,7 @@ def happyFace(xPos, yPos):
     strokeWeight(1)
     stroke(0)
     fill(169, 222, 183)
-    ellipse(0,0,100) //125, 200
+    ellipse(0,0,100, 100) #125, 200
     arc(-15,0,25,25,radians(180),radians(360))
     arc(35,0,15,25,radians(180),radians(360))
     arc(11,26,40,10,radians(0),radians(180))

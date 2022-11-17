@@ -8,6 +8,8 @@ description: How can I create a library to store my custom functions?
 
 In this lesson, students will share what they created in the last mini-project by sharing the code itself for others to use. This is a great skill to learn that collaboration does not need to look like pair programming, and it's also a terrific time for students to get creative!
 
+This will also introduce the idea of having multiple files in one program to keep their code organized. Encourage students to follow this practice as much as possible to stay neat and orderly; their main program file should just be the run of the program, and as much as possible we should hide our (working) functions away so they don't get accidentally messed with and also do not clog up our screen.
+
 ### Objectives
 
 **Students will be able to:**
@@ -67,6 +69,126 @@ Since the start of the year, you've been using functions written by other people
 
 An easy way to do this is to leave a special kind of comment called a docstring at the top of your function. In some code editors, this will auto-generate helper text that explains the function when you start using it! We want to describe not only what our function does, but what the inputs do, as well. And we should add our name for good measure! So if we use the very first `happyFace()` function we wrote, the documentation might look like this:
 
+<pre><code>def happyFace(xPos, yPos):
+    """
+    Draws a happy face emoji.
+    xPos controls x position of emoji.
+    yPos controls y position of emoji.
+    Made by Your Name.
+    """
+    
+<strong>    strokeWeight(1)
+</strong>    fill(169, 222, 183)
+    ellipse(xPos,yPos,100, 100) #125, 200
+    arc(xPos-15,yPos,25,25,radians(180),radians(360))
+    arc(xPos+35,yPos,15,25,radians(180),radians(360))
+    arc(xPos+11,yPos+26,40,10,radians(0),radians(180))</code></pre>
+
+**NB:** _Eventually, they should also describe the return of a function, but that is not necessary yet as their functions do not have return values and it would be a lot to explain!_
+
+Ask students to take a moment to _document_ their function by writing a multi-line comment directly above it. It should include one line to explain what the function does, and then explanations for any and all parameters.
+
+### Sharing Functions && Documentation (\~7 - 12 minutes)
+
+Share students on the [Custom Functions Library Template.](https://docs.google.com/document/d/1MKkSp\_oyJYV0cvdfcATLITd-q-\_YveoK11-QAthf-ps/copy)
+
+Please note that you should just make one per class - in especially large classes, you may have students do this in batches.
+
+Ask students to copy/paste their documentation and function into the document. Remind students not to style the font - it is currently set to a monotype font which generally copy/pastes well into code editors! (Other fonts can do strange things with formatting.) At this point, ask students to change their emoji name _just in this document_ to include their first name before it, such as `courtneyHappyFace()`.
+
+Eventually, students will be creating their own function library, and functions must be uniquely named to work as expected!
+
+From there, have students go to the blank project they opened as part of the do now. They will be creating a new Python file to house their functions and linking it to the project so it's usable. This section is best done as a code-along!
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-17 at 11.45.31 AM.png" alt=""><figcaption><p>Trinket editor screen grab showing buttons to add files.</p></figcaption></figure>
+
+In Trinket, click the **+** button which will say 'Create text file' when you hover over it. Once you do so, you'll create a new file - name it functions.py. Note that it MUST have the .py otherwise the computer will not recognize this as a Python file!
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-17 at 11.46.57 AM.png" alt=""><figcaption><p>Screenshot of Trinket with a new file added called functions.py</p></figcaption></figure>
+
+Now, we need to connect the two files, but first, let's load in some functions. Have students start by copy/pasting their own emoji function into the functions.py document. _(We will have time to add more functions later, but this is enough to get us started and make sure our linked files communicate.)_ Because our functions rely on the Processing.py library, we will also need to add a line at the top:
+
 ```
-def happyFace(xPos, yPos):
+from processing import *
 ```
+
+And now it's time to learn what that means and why it's important! Let's head back to our main.py file.
+
+Python has a lot of libraries - some external, and some internal like our funcitons.py sheet - that we can use in our main programs. There are a few ways to do this. The first is to use `import`, which will allow us to import everything in functions.py.
+
+Using `import` would look something like this:
+
+```
+from processing import *
+import functions
+
+
+def setup():
+    size(400,400)
+
+
+def draw():
+    background(220)
+    text(str(mouseX) + ", " + str(mouseY), 20, 20)
+    functions.happyFace(200,200)
+    
+
+draw = draw
+run()
+```
+
+Now, a few things for us to notice: first, we imported the library at the top of our page. This will always be our practice so we can use the functions for the entire program. When we called our function, we had to write `functions.happyFace()` - this is so the program knows where to find the function definition. As we can imagine, this can get annoying! One way to get around it is to save an instance of a function to an alias, which we don't need to cover now since we have a few other options.
+
+Rather than using `import`, we can use `from`. `from` has two distinct uses. In the first, we use it only import select functions:
+
+```
+from processing import *
+from functions import happyFace
+
+
+def setup():
+    size(400,400)
+
+
+def draw():
+    background(220)
+    text(str(mouseX) + ", " + str(mouseY), 20, 20)
+    happyFace(200,200)
+    
+
+draw = draw
+run()
+```
+
+Now we don't need to use functions. because `happyFace()` has been locally scoped! But what if we have _a lot_ of functions to use? Well, we can look at how processing has been imported as a reference. If we do something like this:
+
+```
+from processing import *
+from functions import *
+
+
+def setup():
+    size(400,400)
+
+
+def draw():
+    background(220)
+    text(str(mouseX) + ", " + str(mouseY), 20, 20)
+    happyFace(200,200)
+    
+
+draw = draw
+run()
+```
+
+...we will have access to _all_ of the functions in functions.py! This is great if you are using most of a library. If you are not, stick with the plain `from` as it will save a little bit of processing room in your program.
+
+But for now, we need to fill up our library with more functions.
+
+### Using Your Custom Function Library (10 - 15 minutes)
+
+Ask students to identify several functions they want to use and copy/paste each into their functions.js file. They should use these to create an interesting composition in their new project. Remember to save to use this as a reference later!
+
+### Wrap-Up (\~5 minutes)
+
+_There are no planned extensions for this lesson. Students should keep creating with the given functions, but they can also modify functions to make their own version!_
