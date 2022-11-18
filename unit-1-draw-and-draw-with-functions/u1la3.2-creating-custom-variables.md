@@ -193,7 +193,7 @@ _Likely, this will be the beginning of a new period. You can use the question be
 
 Determine what is printed by this code:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Image shows a practice variable assignment question from DeltaMath.com</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Image shows a practice variable assignment question from DeltaMath.com</p></figcaption></figure>
 
 _Sample problem solution: **4**   **5  5**_
 
