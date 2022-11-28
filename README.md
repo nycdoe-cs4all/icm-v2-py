@@ -1,7 +1,7 @@
 ---
 description: >-
   A NYS Computing Standard-aligned High School Computing Curriculum in the
-  Python version of p5.
+  Python version of Processing.
 ---
 
 # Curriculum Overview
