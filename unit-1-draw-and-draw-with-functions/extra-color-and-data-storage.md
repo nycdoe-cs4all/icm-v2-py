@@ -89,7 +89,7 @@ Now, let's test that knowledge!
 
 We are going to play a game to see how good we are at intuiting colors _and_ translating - without converting - hexadecimal values. First, let's remember how additive color mixing (what's happening on the screen with light) works:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Additive mixing showing overlapping colors and results</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Additive mixing showing overlapping colors and results</p></figcaption></figure>
 
 Red and green mix to create yellow colors, green and blue create cyan, and red and blue mix to create magenta. This assumes all equal amounts of colors - a green-yellow color might have a lot of green with just some red, and perhaps even a little blue. A maroon probably has a lot of red with only a little blue, etc.
 
