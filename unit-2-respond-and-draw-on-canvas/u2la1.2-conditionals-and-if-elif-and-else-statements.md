@@ -41,7 +41,7 @@ _**7-8.CT.8** Develop or remix a program that reffectively combiens or or more c
 * Else - the second half of a conditional statement covers every outcome not specified in “if”&#x20;
 * Boolean expressions - is a logical statement that is either TRUE or FALSE
 * Expression - is a group of terms (the terms are separated by + or − signs)&#x20;
-* Relational operators - < , > , >=, <=, && (and), || (or)
+* Relational operators - < , > , >=, <=, and, or
 
 ### Planning Notes and Materials
 

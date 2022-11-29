@@ -34,7 +34,7 @@ Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/s
 
 ### Output
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>p5.js Generated Taijitu Symbol on grey background</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>p5.js Generated Taijitu Symbol on grey background</p></figcaption></figure>
 
 ### Culturally Responsive Best Practice
 
