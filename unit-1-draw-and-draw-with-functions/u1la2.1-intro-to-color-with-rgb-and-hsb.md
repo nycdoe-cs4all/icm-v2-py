@@ -18,7 +18,7 @@ Anticipate that many students may struggle with the idea of opacity/transparency
 
 There are many wonderful examples of color theory at work in our world. A useful one to for this topic is Olafur Eliasson’s A Room for One Color, in which the artist uses additive mixing to make every object in the room appear a uniform grey.
 
-<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>This image is not edited in any way! This is from the phenomenology art movement for anyone with curious students</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>This image is not edited in any way! This is from the phenomenology art movement for anyone with curious students</p></figcaption></figure>
 
 ### Objectives
 

@@ -150,3 +150,77 @@ Ask students to identify AND determine fixes for the mistakes before you continu
 
 Review the common mistakes with students and address any misconceptions. Students may need repetition from the first day about boolean expressions, what it means to be true/false, and the fact that you will not always be told 'true' or 'false' - you'll just be getting the coded results! Return to the light switch example as needed.
 
+Bring students back for the code along. In a new project, create a shape on the screen with a variable to hold its color - remind students how to declare, initialize, and use a variable, and then how to change the color variable in a conditional. Create a change so that when the mouse is on one side of the screen, the color changes, and then changes back to the original. Use console.log(mouseX) so that students can see how the condition in the if statement is satisfied. Move the mouse back and forth a few times so that the shape changes color when mouseX increases and decreases: our sketch is now interactive and responsive to the user moving the mouse! At the end of the code along, you should have created something to the effect of:
+
+```
+from processing import *
+
+#VARIABLES
+circColor = None
+
+def setup():
+    size(400,400)
+    #GLOBAL VARIABLES USED IN SETUP
+    global circColor
+    circColor = color(255, 255, 0)
+
+def draw():
+    #GLOBAL VARIABLES USED IN DRAW
+    global circColor
+    
+    background(220)
+    text(str(mouseX) + ", " + str(mouseY), 20, 20)
+
+    fill(circColor)
+    ellipse(200,200,100,100)
+    
+    if mouseX > 200:
+        circColor = color(255, 0, 255)
+    
+    else:
+        circColor = color(255, 255, 0)
+    
+
+draw = draw
+run()
+```
+
+**NOTE**: This builds on what students have been learning about using variables and their scope in Python. At the top of our code, we create a global variable called `circColor` that we intend to use in all of our functions. When we give it a starting value in setup, we need to remind the program that we are using this global variable in the `setup` function first.
+
+Likewise, when we move to draw, we need to remind the `draw` function that it knows about `circColor` and that we intend to make changes. _**These global declarations only happen once per function/until the scope changes, which is why we are not saying it throughout our conditional statement.**_
+
+A best practice is to have labeled, commented areas for these declrations to happen!
+
+Once the code along is completed, ask students to do the following:
+
+* Create a rectangle that will change height based on if the mouse is on the top or bottom of the screen
+* Create a variable to hold the size of the circle. Change the size of the circle only if mouseX is at exactly 200, otherwise keep it the same.
+* Create a variable to hold the color of the rectangle. Change the color of the rectangle only if mouseY is at exactly 200, otherwise keep it the same.
+* Create a conditional that will change the color of the background when a specific condition is met. (You'll need a variable for background color!)
+* Create a conditional that will make a new shape appear only when the mouse is in a certain position. No variables needed for this, as you'll be calling a shape function directly in your conditional statement.
+
+As you code along through the other conditional examples ensure that students are:
+
+* Commenting on their code. (Model examples for students as needed)&#x20;
+* Using variables in the correct scope.&#x20;
+* Using console.log() to debug and test&#x20;
+* Saving their sketches with appropriate and clear titles.
+
+Once they are done, ask students what else they could change about this shape or other things in the sketch, such as the background. Have them create variables and use them to change values of the shape itself when the mouse is in different positions, or create different shapes and variables to change with conditionals.
+
+### Wrap-Up (10 minutes)
+
+Students can submit code via a Google Form or submitting the link through a Google Doc if you would like to collect it. If not, have students come back together for a discussion on what struggles they encountered in this activity.&#x20;
+
+Students can also lead code-alongs or walk through their code with the class.
+
+**Guiding Questions**
+
+* What is a boolean statement?&#x20;
+* What are the two responses I can get from a boolean statement?&#x20;
+* What is a conditional statement and how can I use it in programming?&#x20;
+* What was challenging about creating an interactive sketch with boolean and conditional statements? Why? How did you solve the challenge? What was easy?
+
+### Extensions
+
+Adapt a previous sketch to add interactivity to it.
