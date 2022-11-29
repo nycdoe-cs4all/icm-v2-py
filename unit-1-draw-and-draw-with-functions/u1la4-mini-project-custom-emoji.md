@@ -79,7 +79,7 @@ For this project, each student will be tasked with creating a custom emoji using
 
 **Sample Emoji and Paragraph:**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><strong>Sample emoji and paragraph</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Sample emoji and paragraph</strong></p></figcaption></figure>
 
 Please note that your program, while it should house the function that draws your emoji, should have _several_ displaying on the canvas because you have called your function several times. Your emoji should also utilize color!
 

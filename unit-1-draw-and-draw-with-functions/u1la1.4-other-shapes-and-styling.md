@@ -241,4 +241,4 @@ Ask students to create and style some more advanced, specific shapes, such as:
 
 <figure><img src="https://460882682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6CpkJAKaYOwA5TCz4W7l%2Fuploads%2FRV9Yxt8eVmD7pNeRM2un%2Fimage.png?alt=media&#x26;token=e5a0beca-ec36-4e1b-89f6-ad4aa8a027ec" alt=""><figcaption><p>Traditional outline of a house using the beginShape() function</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>3/4 circle using arc function</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>3/4 circle using arc function</p></figcaption></figure>
