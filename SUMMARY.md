@@ -29,4 +29,4 @@
 
 ## Unit 2: Respond and Draw On Canvas
 
-* [U2LA1.1: Conditionals and If Statements](unit-2-respond-and-draw-on-canvas/u2la1.1-conditionals-and-if-statements.md)
+* [✨ U2LA1.1: Conditionals and If Statements](unit-2-respond-and-draw-on-canvas/u2la1.1-conditionals-and-if-statements.md)
