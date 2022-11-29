@@ -6,6 +6,8 @@ description: How can we add conditional statements to make our programs more int
 
 ### Teacher Notes and Overview
 
+**NB:** _This lesson technically covers NYS Standard **7-8.CT.8**_ _Develop or remix a program that effectively combines one or more control structures for creative expression or to solve a problem. However, we know not all schools can guarantee a middle school sequence prior to this course. This lesson can be significantly abbreviated or skipped entirely based on the knowledge your students come in with!_
+
 This learning activity introduces booleans and conditional statements. Before students begin making conditionals to control visual parts of the canvas, they take a moment to think about the logic of coding off-canvas. Students will then create an interactive sketch that includes a visual element that changes based on a condition.
 
 This is one of the first lessons that takes a trip off the canvas for students to practice Python syntax and logic. While it may be frustrating or seem dull to not be making creative coding pieces, it is useful for long-term student understanding for them to have the practice without the stress of getting everything to look just right. If you are teaching this curriculum to students with significant coding experience, please feel free to skip or speed up these sections as needed.

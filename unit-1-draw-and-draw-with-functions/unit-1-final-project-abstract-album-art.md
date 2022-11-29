@@ -47,7 +47,7 @@ _This is all quite subjective; in early projects, you should adjust the pace to 
 
 ### Project Launch  (12 - 20 minutes)
 
-<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Table comparing realistic images to abstract representations</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Table comparing realistic images to abstract representations</p></figcaption></figure>
 
 Students have already talked about abstraction, so this is a review of the core concept. Display the table of images above. Ask students: based on these images and our prior conversations, what do you think it means to be less or more abstract?
 
