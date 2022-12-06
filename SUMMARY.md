@@ -32,3 +32,5 @@
 * [✨ U2LA1.1: Conditionals and If Statements](unit-2-respond-and-draw-on-canvas/u2la1.1-conditionals-and-if-statements.md)
 * [✨ U2LA1.2: Conditionals and if, elif, and else statements](unit-2-respond-and-draw-on-canvas/u2la1.2-conditionals-and-if-elif-and-else-statements.md)
 * [✨ U2LA1.3: Logical Operators And/Or](unit-2-respond-and-draw-on-canvas/u2la1.3-logical-operators-and-or.md)
+* [🗃 U2LA1 Mini Project: Make a Traffic Light](unit-2-respond-and-draw-on-canvas/u2la1-mini-project-make-a-traffic-light.md)
+* [U2LA1.2: Draw with Mouse](unit-2-respond-and-draw-on-canvas/u2la1.2-draw-with-mouse.md)

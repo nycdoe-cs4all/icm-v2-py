@@ -18,7 +18,7 @@ Anticipate that many students may struggle with the idea of opacity/transparency
 
 There are many wonderful examples of color theory at work in our world. A useful one to for this topic is Olafur Eliasson’s A Room for One Color, in which the artist uses additive mixing to make every object in the room appear a uniform grey.
 
-<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>This image is not edited in any way! This is from the phenomenology art movement for anyone with curious students</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>This image is not edited in any way! This is from the phenomenology art movement for anyone with curious students</p></figcaption></figure>
 
 ### Objectives
 
@@ -149,7 +149,7 @@ Explain and demonstrate to students that this method is helpful for choosing col
 
 When students think about hue, remember that it is 0 to 360 - that means 0 and 360 are at the same place on this color wheel. (Saturation and Brightness are both 0 to 100.) Displaying an image like this can be helpful as students work:
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Color wheel with numbers 0 to 360 labeled around edge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Color wheel with numbers 0 to 360 labeled around edge.</p></figcaption></figure>
 
 When students want to use HSB color, they need to declare that in their code, like so:
 

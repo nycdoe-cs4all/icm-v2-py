@@ -120,7 +120,7 @@ background(220) #The num controls color, 0 - 255
 
 This visual may help students in understanding background colors:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>A scale going from black (0) to white (255) with number values marked in between.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>A scale going from black (0) to white (255) with number values marked in between.</p></figcaption></figure>
 
 Make sure students understand that they've been assessing _functions_, which are the words with () after them. Different functions will accept different _arguments,_ which fulfill _parameters_ to make them behave differently. Not all functions accept the same arguments!
 
