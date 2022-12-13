@@ -6,8 +6,6 @@ description: What are the different types of data used in Python?
 
 ### Teacher Notes and Overview
 
-### Teacher Notes && Overview
-
 **NB:** _Students who come in with a programming background may already be familiar with different data types. In that instance, this lesson could be abbreviated, altered, or skipped._
 
 Students have been working with data of different types all year, but they have not necessarily realized it and there has not be a solid, formal lesson on data types. This is their chance to discuss and explore the types of data being used and their purpose before they start engaging with and creating functions that will return data rather than simply performing actions on the canvas.
@@ -43,19 +41,27 @@ Students will be able to:
 
 ### Planning Notes and Materials
 
-|                                                                                                                                                                                Planning Notes                                                                                                                                                                               | Materials |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
-| <p>This lesson is largely driven by student exploration and it can feel as if it goes by quite quickly - however, while the actual task is brief, it is meant to lead into a discussion to deepen student understanding.</p><p></p><p>Students should be prepared to identify data types and start thinking about when data types are useful by the end of this lesson.</p> |           |
+|                                                                                                                                                                                Planning Notes                                                                                                                                                                               |                                                                   Materials                                                                   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| <p>This lesson is largely driven by student exploration and it can feel as if it goes by quite quickly - however, while the actual task is brief, it is meant to lead into a discussion to deepen student understanding.</p><p></p><p>Students should be prepared to identify data types and start thinking about when data types are useful by the end of this lesson.</p> | Scavenger Hunt Starter Code and Document (_This can and perhaps should all be digital, but consider options if you think you need to print!)_ |
 
 ### Resources
 
-
+* [Scavenger Hunt Worksheet](https://docs.google.com/document/d/1EybwAhYC1O6IiWEWAqvN30pXi-3Yyn-7DxMz66\_u4d0/edit) (Google Doc)
+* Scavenger Hunt Starter Code ([Trinket](https://trinket.io/python/d9f2093c1e))
+* NEED VIDEO ON DATA TYPES IN PYTHON
 
 ### Assessments
 
 **Formative:**
 
+* Exit Slip
+* Data Type Scavenger Hunt Worksheet
+
 **Summative:**
+
+* Light Switch Project (upcoming mini project)
+* Interactive Drawing Application (upcoming unit final)
 
 ### Do Now/Warm Up (2-3 minutes)
 
