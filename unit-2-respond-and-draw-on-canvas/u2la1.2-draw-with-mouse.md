@@ -2,7 +2,7 @@
 description: How can I use built-in variables to create a program that lets the user draw?
 ---
 
-# U2LA1.2: Draw with Mouse
+# U2LA2.1: Draw with Mouse
 
 ### Teacher Notes and Overview
 

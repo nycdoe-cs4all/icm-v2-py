@@ -33,5 +33,6 @@
 * [✨ U2LA1.2: Conditionals and if, elif, and else statements](unit-2-respond-and-draw-on-canvas/u2la1.2-conditionals-and-if-elif-and-else-statements.md)
 * [✨ U2LA1.3: Logical Operators And/Or](unit-2-respond-and-draw-on-canvas/u2la1.3-logical-operators-and-or.md)
 * [🗃 U2LA1 Mini Project: Make a Traffic Light](unit-2-respond-and-draw-on-canvas/u2la1-mini-project-make-a-traffic-light.md)
-* [U2LA2.1: Draw with Mouse](unit-2-respond-and-draw-on-canvas/u2la2.1-draw-with-mouse.md)
+* [U2LA2.1: Draw with Mouse](unit-2-respond-and-draw-on-canvas/u2la1.2-draw-with-mouse.md)
 * [U2LA2.2: The Map Function](unit-2-respond-and-draw-on-canvas/u2la2.2-the-map-function.md)
+* [✨ U2LA3.1: Data Type Scavenger Hunt](unit-2-respond-and-draw-on-canvas/u2la3.1-data-type-scavenger-hunt.md)
