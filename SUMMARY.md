@@ -36,3 +36,4 @@
 * [U2LA2.1: Draw with Mouse](unit-2-respond-and-draw-on-canvas/u2la1.2-draw-with-mouse.md)
 * [U2LA2.2: The Map Function](unit-2-respond-and-draw-on-canvas/u2la2.2-the-map-function.md)
 * [✨ U2LA3.1: Data Type Scavenger Hunt](unit-2-respond-and-draw-on-canvas/u2la3.1-data-type-scavenger-hunt.md)
+* [✨ U2LA3.2: Functions that Return Values](unit-2-respond-and-draw-on-canvas/u2la3.2-functions-that-return-values.md)
