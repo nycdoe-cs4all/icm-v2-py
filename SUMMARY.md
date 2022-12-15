@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Curriculum Overview](README.md)
+* [How to Use this Curriculum](how-to-use-this-curriculum.md)
 
 ## Unit 1: Draw & Draw With Functions
 
