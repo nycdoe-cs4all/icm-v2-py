@@ -39,3 +39,4 @@
 * [✨ U2LA3.1: Data Type Scavenger Hunt](unit-2-respond-and-draw-on-canvas/u2la3.1-data-type-scavenger-hunt.md)
 * [✨ U2LA3.2: Functions that Return Values](unit-2-respond-and-draw-on-canvas/u2la3.2-functions-that-return-values.md)
 * [✨ U2LA3.3: Functions with Purpose](unit-2-respond-and-draw-on-canvas/u2la3.3-functions-with-purpose.md)
+* [U2LA4.1: Collision Functions and Libraries](unit-2-respond-and-draw-on-canvas/u2la4.1-collision-functions-and-libraries.md)
