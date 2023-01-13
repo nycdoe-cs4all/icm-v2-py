@@ -40,3 +40,4 @@
 * [✨ U2LA3.2: Functions that Return Values](unit-2-respond-and-draw-on-canvas/u2la3.2-functions-that-return-values.md)
 * [✨ U2LA3.3: Functions with Purpose](unit-2-respond-and-draw-on-canvas/u2la3.3-functions-with-purpose.md)
 * [U2LA4.1: Collision Functions and Libraries](unit-2-respond-and-draw-on-canvas/u2la4.1-collision-functions-and-libraries.md)
+* [U2LA4.2: Mouse Clicks and Shapes as Buttons](unit-2-respond-and-draw-on-canvas/u2la4.2-mouse-clicks-and-shapes-as-buttons.md)
