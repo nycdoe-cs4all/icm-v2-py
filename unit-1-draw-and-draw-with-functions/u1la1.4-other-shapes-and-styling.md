@@ -152,7 +152,7 @@ Additionally, Processing.py has a function called `radians()` that will take in 
 
 Either way, displaying a unit circle that also shows degree measurements will be helpful in your cause:
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Unit circle displaying radians and degrees</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Unit circle displaying radians and degrees</p></figcaption></figure>
 
 Students intent on always using the calculator can benefit by looking up circle degree images, which can help them decide which values to put into the calculator to make things start/stop differently.
 

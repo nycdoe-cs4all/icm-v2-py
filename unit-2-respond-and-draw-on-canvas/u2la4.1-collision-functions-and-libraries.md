@@ -83,7 +83,7 @@ Explain to students that today, you will be focusing on making things reactive w
 
 As you review the brain starter, ask students to come up with rules for points (x coordinates and y coordinates) that would tell you they are definitely a point in this rectangle. You may need to draw the rectangle large on the board to help students understand. They should come to the idea that all x points must be between 100 and 300, and all y points must be between 150 and 200. Introduce students to this idea:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Image of rectangle showing constraints for x and y coordinates inside of shape.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Image of rectangle showing constraints for x and y coordinates inside of shape.</p></figcaption></figure>
 
 From here, it's time to start coding along. First, have students imagine what this might look like in some basic code:
 

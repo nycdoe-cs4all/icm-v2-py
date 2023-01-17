@@ -42,3 +42,4 @@
 * [U2LA4.1: Collision Functions and Libraries](unit-2-respond-and-draw-on-canvas/u2la4.1-collision-functions-and-libraries.md)
 * [U2LA4.2: Mouse Clicks and Shapes as Buttons](unit-2-respond-and-draw-on-canvas/u2la4.2-mouse-clicks-and-shapes-as-buttons.md)
 * [U2LA2 Mini Project: Light Switch Game](unit-2-respond-and-draw-on-canvas/u2la2-mini-project-light-switch-game.md)
+* [U2LA5.1: Key Presses and Nested Conditionals](unit-2-respond-and-draw-on-canvas/u2la5.1-key-presses-and-nested-conditionals.md)
