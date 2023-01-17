@@ -75,7 +75,7 @@ Ask students to open up their copy of the CodeWars Functions Worksheet. They wil
 
 For students who may struggle, ask them to select the language - which is Python - and then fix the issue in the puzzle they are given:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Select a language on the CodeWars website</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Select a language on the CodeWars website</p></figcaption></figure>
 
 In recent iterations, CodeWars has gotten rid of the puzzle, but if prompted, it just involves adding 'return' in front of a\*b.
 

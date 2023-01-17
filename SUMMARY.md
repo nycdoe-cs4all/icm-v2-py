@@ -41,3 +41,4 @@
 * [✨ U2LA3.3: Functions with Purpose](unit-2-respond-and-draw-on-canvas/u2la3.3-functions-with-purpose.md)
 * [U2LA4.1: Collision Functions and Libraries](unit-2-respond-and-draw-on-canvas/u2la4.1-collision-functions-and-libraries.md)
 * [U2LA4.2: Mouse Clicks and Shapes as Buttons](unit-2-respond-and-draw-on-canvas/u2la4.2-mouse-clicks-and-shapes-as-buttons.md)
+* [U2LA2 Mini Project: Light Switch Game](unit-2-respond-and-draw-on-canvas/u2la2-mini-project-light-switch-game.md)
