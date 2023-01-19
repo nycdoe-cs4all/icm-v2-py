@@ -6,7 +6,7 @@ description: Unit 2 Mini Project Light Switch Game
 
 ### Prompt
 
-![](<../.gitbook/assets/image (1).png>)![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1) (1).png>)![](<../.gitbook/assets/image (1).png>)
 
 _**Congratulations**_! Your great aunt’s second cousin twice removed (on your mother’s side) has recently left you a spooky old house. This is great, because “free house”. As you can imagine, however, this does come with its fair share of problems, because it is spooky, and it is old.
 
