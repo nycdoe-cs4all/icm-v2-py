@@ -44,3 +44,7 @@
 * [U2LA2 Mini Project: Light Switch Game](unit-2-respond-and-draw-on-canvas/u2la2-mini-project-light-switch-game.md)
 * [U2LA5.1: Key Presses and Nested Conditionals](unit-2-respond-and-draw-on-canvas/u2la5.1-key-presses-and-nested-conditionals.md)
 * [🎨 Unit 2 Final Project: Interactive Drawing App](unit-2-respond-and-draw-on-canvas/unit-2-final-project-interactive-drawing-app.md)
+
+## Unit 3: Loops, Arrays, Media
+
+* [🔮 Unit 3 Overview](unit-3-loops-arrays-media/unit-3-overview.md)
