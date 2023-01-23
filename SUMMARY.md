@@ -24,10 +24,6 @@
 * [U1LA5.1: Your Custom Function Library](unit-1-draw-and-draw-with-functions/u1la5.1-your-custom-function-library.md)
 * [🎨 Unit 1 Final Project: Abstract Album Art](unit-1-draw-and-draw-with-functions/unit-1-final-project-abstract-album-art.md)
 
-***
-
-* [LESSON TEMPLATE](lesson-template.md)
-
 ## Unit 2: Respond and Draw On Canvas
 
 * [✨ U2LA1.1: Conditionals and If Statements](unit-2-respond-and-draw-on-canvas/u2la1.1-conditionals-and-if-statements.md)
@@ -45,6 +41,11 @@
 * [U2LA5.1: Key Presses and Nested Conditionals](unit-2-respond-and-draw-on-canvas/u2la5.1-key-presses-and-nested-conditionals.md)
 * [🎨 Unit 2 Final Project: Interactive Drawing App](unit-2-respond-and-draw-on-canvas/unit-2-final-project-interactive-drawing-app.md)
 
+***
+
+* [LESSON TEMPLATE](lesson-template.md)
+
 ## Unit 3: Loops, Arrays, Media
 
 * [🔮 Unit 3 Overview](unit-3-loops-arrays-media/unit-3-overview.md)
+* [U3LA1.1: While Loops](unit-3-loops-arrays-media/u3la1.1-while-loops.md)
