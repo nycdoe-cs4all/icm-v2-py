@@ -134,7 +134,7 @@ Likely, they will say it's difficult to predict/choose their colors. Even the bo
 
 HSB stands for **H**ue, **S**aturation, and **B**rightness. (It is sometimes HSV, where the V is **V**alue.)
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>3D color wheel showing hue, saturation, and value shifts in color.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>3D color wheel showing hue, saturation, and value shifts in color.</p></figcaption></figure>
 
 
 

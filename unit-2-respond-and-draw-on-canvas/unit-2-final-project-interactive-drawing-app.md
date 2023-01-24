@@ -30,7 +30,7 @@ Write a sales pitch for your program that includes instructions on how to use it
 
 ### Sample Output
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Several screengrabs of sample programs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Several screengrabs of sample programs</p></figcaption></figure>
 
 You can additionally see an interactive version of [a mid-level project here](https://trinket.io/library/trinkets/90f5a41513).
 
