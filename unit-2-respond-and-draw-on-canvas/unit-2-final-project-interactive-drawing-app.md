@@ -6,7 +6,7 @@ description: >-
 
 # 🎨 Unit 2 Final Project: Interactive Drawing App
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Image of MS Paint circa 2001</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>Image of MS Paint circa 2001</p></figcaption></figure>
 
 ### Prompt
 
@@ -30,7 +30,7 @@ Write a sales pitch for your program that includes instructions on how to use it
 
 ### Sample Output
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Several screengrabs of sample programs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Several screengrabs of sample programs</p></figcaption></figure>
 
 You can additionally see an interactive version of [a mid-level project here](https://trinket.io/library/trinkets/90f5a41513).
 

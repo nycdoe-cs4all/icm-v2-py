@@ -138,7 +138,7 @@ Instruct students to use the while loop to do the following (and be on the looko
 
 For students who need an extra spicy challenge, ask them to try to recreate one of the following in their while loop. Make sure they understand they only need ONE while loop - and that they should use functions to help them!
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Row of concentric, differently colored circles looking like targets.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Row of concentric, differently colored circles looking like targets.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Row of red 😐 faces.</p></figcaption></figure>
 

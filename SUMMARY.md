@@ -49,3 +49,4 @@
 
 * [🔮 Unit 3 Overview](unit-3-loops-arrays-media/unit-3-overview.md)
 * [U3LA1.1: While Loops](unit-3-loops-arrays-media/u3la1.1-while-loops.md)
+* [U3LA1.2: For Loops Pt. 1](unit-3-loops-arrays-media/u3la1.2-for-loops-pt.-1.md)
