@@ -147,7 +147,7 @@ _It is very likely that the above content will take a full class period - feel f
 
 Display the following and ask students to recreate:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>A row of ellipses increasing in size</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption><p>A row of ellipses increasing in size</p></figcaption></figure>
 
 _In previous lessons, students used for loops to create columns, rows, and diagonal rows. Ideally, we would want students to be using for loops to create a row of 5 circles so if students are still having some confusion with for loops use this opportunity to review loops. Ask any student who was able to create the image above to share out their solution with the class._
 

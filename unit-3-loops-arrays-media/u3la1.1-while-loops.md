@@ -76,7 +76,7 @@ _Have students create 5 equidistant ellipses._
 
 Open a new sketch, name it U3LA1 While loops and recreate the image below
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>A row of five equally spaced, congruent ellipses</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>A row of five equally spaced, congruent ellipses</p></figcaption></figure>
 
 Ask students to do the following:
 
