@@ -52,3 +52,4 @@
 * [U3LA1.2: For Loops Pt. 1](unit-3-loops-arrays-media/u3la1.2-for-loops-pt.-1.md)
 * [🤓 Continue, Break, and Modulos](unit-3-loops-arrays-media/continue-break-and-modulos.md)
 * [U3LA1.3: Nested For Loops (For Loops Pt 2)](unit-3-loops-arrays-media/u3la1.3-nested-for-loops-for-loops-pt-2.md)
+* [🗃 U3LA1 Mini Project: Wallpaper Design](unit-3-loops-arrays-media/u3la1-mini-project-wallpaper-design.md)
