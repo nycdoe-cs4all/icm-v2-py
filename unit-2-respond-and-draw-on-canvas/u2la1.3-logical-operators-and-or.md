@@ -73,7 +73,7 @@ _**7-8.CT.8** Develop or remix a program that effectively combines one or more c
 
 Ask students to look at both image 1 and image 2. They have to explain how Jose can eat ice cream with the given logical operator. Then explain the difference between both images.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Image demonstrating the 'AND' operator</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Image demonstrating the 'AND' operator</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Image demonstrating the 'OR' operator</p></figcaption></figure>
 

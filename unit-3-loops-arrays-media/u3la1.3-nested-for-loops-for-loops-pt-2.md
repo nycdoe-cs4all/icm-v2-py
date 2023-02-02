@@ -115,7 +115,7 @@ Ask students to go find a design they have made in the past, such as their emoji
 
 Then, ask students to use that design in a nested for loops to turn it in a grid, like so:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Grid of consecutive rainbow circles</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6).png" alt=""><figcaption><p>Grid of consecutive rainbow circles</p></figcaption></figure>
 
 Example Code:
 

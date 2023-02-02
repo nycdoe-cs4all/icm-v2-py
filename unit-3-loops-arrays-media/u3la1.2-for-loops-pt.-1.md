@@ -126,7 +126,7 @@ for i in range (0, width, 50):
 
 If you would like students to have more practice making purposeful for loops, consider asking them to try to recreate one or all of the following:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Mild and medium are versions of things students have already created. Spicy can be achieved with the following solution (among others!):
 
