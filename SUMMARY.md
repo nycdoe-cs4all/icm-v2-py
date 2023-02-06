@@ -54,3 +54,4 @@
 * [U3LA1.3: Nested For Loops (For Loops Pt 2)](unit-3-loops-arrays-media/u3la1.3-nested-for-loops-for-loops-pt-2.md)
 * [🗃 U3LA1 Mini Project: Wallpaper Design](unit-3-loops-arrays-media/u3la1-mini-project-wallpaper-design.md)
 * [U3LA2.1: Introduction to Lists](unit-3-loops-arrays-media/u3la2.1-introduction-to-lists.md)
+* [U3LA2.2: Random Values from Lists](unit-3-loops-arrays-media/u3la2.2-random-values-from-lists.md)
