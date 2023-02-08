@@ -55,3 +55,4 @@
 * [🗃 U3LA1 Mini Project: Wallpaper Design](unit-3-loops-arrays-media/u3la1-mini-project-wallpaper-design.md)
 * [U3LA2.1: Introduction to Lists](unit-3-loops-arrays-media/u3la2.1-introduction-to-lists.md)
 * [U3LA2.2: Random Values from Lists](unit-3-loops-arrays-media/u3la2.2-random-values-from-lists.md)
+* [🗃 U3LA2 Mini Project 1: Fortune Teller](unit-3-loops-arrays-media/u3la2-mini-project-1-fortune-teller.md)
