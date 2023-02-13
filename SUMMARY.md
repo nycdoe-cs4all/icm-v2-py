@@ -57,3 +57,4 @@
 * [U3LA2.2: Random Values from Lists](unit-3-loops-arrays-media/u3la2.2-random-values-from-lists.md)
 * [🗃 U3LA2 Mini Project 1: Fortune Teller](unit-3-loops-arrays-media/u3la2-mini-project-1-fortune-teller.md)
 * [U3LA2.3: Loops and Lists](unit-3-loops-arrays-media/u3la2.3-loops-and-lists.md)
+* [U3LA2.4: Updating and Deleting from Lists](unit-3-loops-arrays-media/u3la2.4-updating-and-deleting-from-lists.md)
