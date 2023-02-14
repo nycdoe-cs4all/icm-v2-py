@@ -34,7 +34,7 @@
 * [U2LA2.2: The Map Function](unit-2-respond-and-draw-on-canvas/u2la2.2-the-map-function.md)
 * [✨ U2LA3.1: Data Type Scavenger Hunt](unit-2-respond-and-draw-on-canvas/u2la3.1-data-type-scavenger-hunt.md)
 * [✨ U2LA3.2: Functions that Return Values](unit-2-respond-and-draw-on-canvas/u2la3.2-functions-that-return-values.md)
-* [✨ U2LA3.3: Functions with Purpose](unit-2-respond-and-draw-on-canvas/u2la3.3-functions-with-purpose.md)
+* [🤓 U2LA3.3: Functions with Purpose](unit-2-respond-and-draw-on-canvas/u2la3.3-functions-with-purpose.md)
 * [U2LA4.1: Collision Functions and Libraries](unit-2-respond-and-draw-on-canvas/u2la4.1-collision-functions-and-libraries.md)
 * [U2LA4.2: Mouse Clicks and Shapes as Buttons](unit-2-respond-and-draw-on-canvas/u2la4.2-mouse-clicks-and-shapes-as-buttons.md)
 * [U2LA2 Mini Project: Light Switch Game](unit-2-respond-and-draw-on-canvas/u2la2-mini-project-light-switch-game.md)
@@ -58,3 +58,4 @@
 * [🗃 U3LA2 Mini Project 1: Fortune Teller](unit-3-loops-arrays-media/u3la2-mini-project-1-fortune-teller.md)
 * [U3LA2.3: Loops and Lists](unit-3-loops-arrays-media/u3la2.3-loops-and-lists.md)
 * [U3LA2.4: Updating and Deleting from Lists](unit-3-loops-arrays-media/u3la2.4-updating-and-deleting-from-lists.md)
+* [🗃 🤓 U3LA2 Mini Project 2: CodeWars List Challenges](unit-3-loops-arrays-media/u3la2-mini-project-2-codewars-list-challenges.md)
