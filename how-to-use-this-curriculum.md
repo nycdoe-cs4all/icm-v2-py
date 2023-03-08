@@ -16,6 +16,8 @@ This curriculum provides detailed lesson plans, sample code, starter code, and l
 
 We _do not_ provide other classroom materials such as lesson slides or rubrics, as we believe these are things that often need to be customized to meet the needs of your class and your specific learners. We also believe that developing these resources can help you to better grasp the concept and specific changes you may want to make for your classroom.
 
+Our hope is that given the robust lesson plan and learning materials, it will be quick work for teachers to turn these into slides. To assist, we have created a [Lesson Slide Template](https://docs.google.com/presentation/d/1WGfoOm6i32i0FPFXO6XcRYzc9NJrwzpxqLLanO10gS0/edit#slide=id.p) that may hasten the process.
+
 ### A Note On Lessons:
 
 You'll notice that some lesson pages have an emoji before them. This is keyed as follows:
