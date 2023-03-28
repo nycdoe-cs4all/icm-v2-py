@@ -84,7 +84,7 @@ Can we make this better? We certainly can! We want to repeat the same process wi
 
 Ensure all students have a working list - for ease, you may want to norm what you all have named the list - and then code along the following for loop in the draw function:
 
-```
+```python
 for theColor in yourList:
   fill(yourList[theColor])
   ellipse(i*50, 200, 50, 50)
@@ -102,7 +102,7 @@ Back in Unit 2, we discussed that **dictionaries** can hold lots of properties t
 
 Let's explore that now. We are going to imagine that each object will represent one ellipse. For now, let's give each a color, a y value, and a width and height. **We will code one and a half together and then y'all will add another 5 dictionaries to your list!**
 
-<pre><code><strong>listOfCircles = []
+<pre class="language-python"><code class="lang-python"><strong>listOfCircles = []
 </strong><strong>
 </strong><strong>def setup():
 </strong><strong> global listOfCircles
@@ -116,7 +116,7 @@ Let's explore that now. We are going to imagine that each object will represent 
 
 Following the conventions we set, ask students to add their next five dictionaries to the list following this format, then show them how they would use this new list in the for loop they had in their `draw()` function, like so:
 
-```
+```python
 for circle in listOfCircles:
     fill(circle["theColor"])
     ellipse(circle["x"], circle["y"], circle["w"], circle["h"])
@@ -128,7 +128,7 @@ Here, we are first accessing the dictionary from the list using the iterative va
 
 Now, this allowed us to store a lot of information and loop through a lot of information, but right now our output always looks pretty much the same. And that's fine - but what if I wanted it to be different each time my program was run? What if I wanted to use some random values here? While you could do something like this:
 
-```
+```python
 listOfCircles = []
 
 def setup():
@@ -147,7 +147,7 @@ We need to use a loop to make our dictionaries and populate them into the list b
 
 First, we are going to start off with an empty list at the top of our program, before the setup or draw function. Like so:
 
-```
+```python
 listOfDicts = []
 
 def setup():
@@ -159,13 +159,13 @@ As in our prior examples, this tells our code that the variable is going to func
 
 When we add items, we use a list method called `.append()`, which is a fancy way of saying _add on at the end._ In use, it would look like this:
 
-```
+```python
 testList.append("new addition")
 ```
 
 This would add the string "new addition" to the end of our `testList`! If we wanted to add dictionaries using a loop, it would look like this:
 
-```
+```python
 listOfDicts = []
 
 def setup():
@@ -185,7 +185,7 @@ This is often referred to as _populating_ a list. **So, how would you use these 
 
 Great question - if you go back to your draw function, you would make a for loop very much like what you had before to iterate through this new, randomly generated list. It will then draw each ellipse on the screen with properties from the dictionaries, and those dictionaries will change without you ever having to lift a finger:
 
-```
+```python
 listOfDicts = []
 
 def setup():

@@ -2,7 +2,7 @@
 description: How can I abstract processes for clarity and reuse?
 ---
 
-# ✨ U2LA3.3: Functions with Purpose
+# 🤓 U2LA3.3: Functions with Purpose
 
 ### Teacher Notes and Overview
 
@@ -81,14 +81,14 @@ In recent iterations, CodeWars has gotten rid of the puzzle, but if prompted, it
 
 You will walk through the problem under ‘Whole Group Work’ together as a code along. You will notice there are instructions on what the function should do, as well as space to code. They will all see at the start something like:
 
-```
+```python
 def updateLight (current):
     pass #this is just to stop the program from crashing while empty - it can be deleted!
 ```
 
 Model with students how to plan their code with comments, and then come to a solution together that should look something like this:
 
-```
+```python
 def updateLight(current):
     #if green, then yellow
     #if yellow, then red

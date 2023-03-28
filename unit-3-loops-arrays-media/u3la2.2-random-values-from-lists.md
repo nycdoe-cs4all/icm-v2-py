@@ -57,7 +57,7 @@ Students will be able to:
 
 * NEED RANDOM/LIST PYTHON VIDEO
 * ``[`random()` in Processing.Py](https://py.processing.org/reference/random.html) (Reference Sheet)
-* [Python List Methods](https://app.gitbook.com/s/oF62wG4MMbP5xRgX3R88/) (W3 Schools)
+* [Python List Methods](http://localhost:5000/s/oF62wG4MMbP5xRgX3R88/) (W3 Schools)
 * **Optional:** [**`random.choice()`**](https://pynative.com/python-random-choice/) **** (Extension)
 
 ### Assessments
@@ -92,7 +92,7 @@ Ask students to put a shape somewhere on their canvas and explain we will be giv
 
 The first attempt might look something like this, and will certainly end in an error:
 
-```
+```python
 from processing import *
 from collide2d import *
 
@@ -122,7 +122,7 @@ run()
 
 So, why did this end in an error? Well, if we comment out the fill line and add this in the setup after line 10:
 
-```
+```python
 print(randomChoice)
 ```
 
@@ -132,7 +132,7 @@ Why round down? Our list goes 0 - 2 even though there are 3 items - if we rounde
 
 Show students this adjustment that can be made to the code:
 
-```
+```python
 from processing import *
 from collide2d import *
 
@@ -168,7 +168,7 @@ Right now, the 3 **** in our random function is what we call a **hardcoded value
 
 Remember that **`len()`** function we learned about in the last lesson? This is where it can come into play, like so:
 
-```
+```python
 randomChoice = int(random(len(randomColors)))
 ```
 

@@ -100,7 +100,7 @@ Begin by asking students to explore the canvas, specifically moving their mouse 
 
 You will be coding along the bottom right quadrant because it is the furthest from where the mouse starts when students hit play. Ask students what they notice about values in this quadrant specifically - they should recognize that all x values are greater than 200, and all y values are also greater than 200 (the lines represent the exact centers of each axis). Together, create the following code (_**you will need to make the `bgColor` variable and use the global keyword in the draw function!**_):
 
-```
+```python
 if mouseX > 200 and mouseY > 200:
     bgColor = color(255, 0 ,255)
 ```

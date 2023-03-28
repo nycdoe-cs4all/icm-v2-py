@@ -90,7 +90,7 @@ Remind students that next lesson, they will be creating their own functions. Bri
 
 Time permitting, you may want to preview function structure for the next lesson:
 
-```
+```python
 def washHands(brand, time):
     turnOnSink()
     getSoap(brand)

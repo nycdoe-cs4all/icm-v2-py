@@ -78,7 +78,7 @@ _For this section, you may have students start from scratch or utilize **this st
 
 Code along with students; suggest that you all change the size of the circle together. Take notes in code that you want the circle to get bigger when you press b and smaller when you press s. Be sure to demonstrate that because size will change, it needs a new variable to control it. **Explain that you will be changing many different attributes of this circle eventually, so even though you are just changing one thing for now, you are going to set up your code using an object, like so:**
 
-```
+```python
 from processing import *
 from collide2d import *
 
@@ -104,14 +104,14 @@ run()
 
 After the variable and base code has been set up, demonstrate using `keyPressed` in an if statement but do not specify a key yet. Ask students to press b - the circle should get larger. Then ask them to press s or any other key and ask what the problem is:
 
-```
+```python
 if keyPressed:
     circ1["size"] += 5 #alternately, circ1["size"] = circ1["size"] + 5
 ```
 
 Students should notice that all keys currently cause the circle to grow. This is your cue to begin discussing nested if statements, specifically ones that will check if the key is the same as a specific letter. With your students, set up “b” and “s” and then ask them to play again and determine what is wrong.
 
-```
+```python
 if keyPressed:
     if key == 'b':
         circ1["size"] += 5 #alternately, circ1["size"] = circ1["size"] + 5
@@ -121,7 +121,7 @@ if keyPressed:
 
 Students should notice that after a point, the circle gets too small and the key values ‘swap.’ This is because numbers have become negative and the computer is trying to react. Still, with the whole group, demonstrate how you could use && operators to safeguard against the circle getting too small or too large.
 
-```
+```python
 if keyPressed:
     if key == 'b' and circ1["size"] < width:
         circ1["size"] += 5 #alternately, circ1["size"] = circ1["size"] + 5

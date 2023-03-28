@@ -97,7 +97,7 @@ This is important, but will not come up for several more lessons. For this reaso
 
 Once students have the idea of using variables, it's time to code one into the program. Begin by telling students you are going to make a variable that will control the y position because we can see that all the ellipses in our design have the _same_ y position. When code repeats, it is usually an indicator that we can make it more efficient.
 
-```
+```python
 from processing import *
 
 circleY = 60
@@ -105,7 +105,7 @@ circleY = 60
 
 Next, utilize the y variable by plugging it into the code itself:
 
-```
+```python
 def draw():
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
@@ -140,7 +140,7 @@ This should be a nice callback to using `mouseX`/`mouseY` to move triangles and 
 
 Similar to the previous lesson, we will need a starting point - in this instance, we will use the far left ellipse, but it is important to stress that does not always need to be the case. Using the initial points from the first ellipse, create your starting variables:
 
-```
+```python
 from processing import *
 
 circleY = 60
@@ -149,7 +149,7 @@ circleX = 120
 
 We will then replace these in our starting ellipse and continue from there, thinking about how far away each of the other ellipses is from the original starting location. In the second ellipse, the X position is at 140, or +80 units away from our start. So we could code it like so:
 
-```
+```python
 def draw():
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
@@ -169,7 +169,7 @@ Be sure to run the program; students should notice that nothing happened, but th
 
 Once all of the ellipses have been finished, your x values should look like this:
 
-```
+```python
 circleX
 circleX+80
 circleX+160

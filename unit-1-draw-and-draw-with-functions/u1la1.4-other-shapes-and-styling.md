@@ -158,7 +158,7 @@ Students intent on always using the calculator can benefit by looking up circle 
 
 Your code would look like this if you wanted to draw, say, a half circle using radians:
 
-```
+```python
 from processing import *
 
 def setup():
@@ -177,7 +177,7 @@ run()
 
 And like this if you wanted to draw a different arc that will convert your degrees to radians:
 
-```
+```python
 from processing import *
 
 def setup():
@@ -205,7 +205,7 @@ We can now make many shapes, but they all look fairly plain, so it's time to giv
 
 Ask students to duplicate/fork the [starter code.](https://trinket.io/python/79ede85278) Begin by demonstrating fill() and changing the first shape to black:
 
-```
+```python
 fill(0)
 ellipse(30, 45, 35, 35)
 ```
@@ -216,7 +216,7 @@ Then, take a moment to demonstrate `stroke()` and `strokeWeight()` in the same w
 
 One thing that students may notice is that the helper coordinate text is getting styled, too, and may become distracting or unreadable. This is because the draw function runs on a loop, meaning whatever the last styling text is will loop back up to the top and apply to whatever comes first if it is not otherwise styled. Ask students if they can figure out a solution, and they should come up with something like this:
 
-```
+```python
 strokeWeight(1) //alternately, they may use noStroke()
 stroke(0)
 fill(0)

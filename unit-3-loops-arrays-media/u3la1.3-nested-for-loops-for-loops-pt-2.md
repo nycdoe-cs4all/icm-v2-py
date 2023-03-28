@@ -93,7 +93,7 @@ This can be really confusing for students, and that's okay - they will probably 
 
 With your students, code out the following example in the draw function that you can use to explain (and that they can mess with):
 
-```
+```python
 for x in range(30, 600, 30):
     for y in range(30, 600, 30):
         ellipse(x, y, 15, 15)
@@ -119,7 +119,7 @@ Then, ask students to use that design in a nested for loops to turn it in a grid
 
 Example Code:
 
-```
+```python
 def rainbowCircle(x, y):
    fill(255,0,0) #add a red fill
    ellipse(x,y,40,40)

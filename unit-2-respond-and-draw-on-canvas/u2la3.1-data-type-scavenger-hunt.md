@@ -67,7 +67,7 @@ Students will be able to:
 
 **Display on board:** Why won’t this code work?
 
-```
+```python
 ellipse(“fifty”, 100, 25, 25)
 ```
 
@@ -104,7 +104,7 @@ _**TypeError: cannot concatenate 'str' and 'int' objects on line 18 in main.py**
 
 This sounds a little intimidating, but **concatenate** is just a fancy way to say 'combine.' It means our computer doesn't know how to add those two because the types don't agree. We can fix it by changing `num1` into an integer like so: `int(num1)`. This can either happen in our function, or by saving it into a separate variable:
 
-```
+```python
 #Option 1
 print(int(num1) + num2)
 
@@ -115,7 +115,7 @@ print(num1int + num2)
 
 If we then move on to uncomment line 19, we will see that despite having an integer and a float, the computer is still able to combine them. But sometimes, we may want our numbers to stay an int, such as when we are working in Processing.py. We can recast the result as an integer in one of two ways:
 
-```
+```python
 #Option 1
 print(int(num2 + num3))
 

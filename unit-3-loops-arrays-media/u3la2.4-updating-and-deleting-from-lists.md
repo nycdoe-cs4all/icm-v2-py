@@ -64,7 +64,7 @@ Encourage students to use the for loops they have learned previously to do this,
 
 If students have not already, ask them to use a loop to display the ellipses on their screen. If they are using examples from the previous lesson, they likely will do something like this:
 
-```
+```python
 from processing import *
 from collide2d import *
 
@@ -99,7 +99,7 @@ To do this, **first make sure you have the Collide LIbrary linked in your progra
 
 Like with displaying all of our circles, we will use another loop here to check if they are being clicked:
 
-```
+```python
 from processing import *
 from collide2d import *
 
@@ -136,7 +136,7 @@ We now have a conditional inside of our loop that is checking to see if each bub
 
 So now, let's go about removing those bubbles. Luckily for us, there is a python list method called `.remove()` that will remove the first item in a list with a specified value - in this case, whatever the value of the dictionary is. So, let's try it:
 
-<pre><code>from processing import *
+<pre class="language-python"><code class="lang-python">from processing import *
 from collide2d import *
 
 bubbleList = []
@@ -179,7 +179,7 @@ If we are loving clicking, we may notice that eventually we are out of bubbles a
 
 First, let's get a rectangle in our draw function that will display on the screen and can serve as our button:
 
-```
+```python
  rect(10, 30, 110, 50)
  fill(0)
  text("MORE BUBBLES!", 15, 60)
@@ -189,7 +189,7 @@ Now, we are also going to use `mousePressed()` for this - we will just add below
 
 We will then use the `.append()` method that we saw in earlier lessons to add a new object to our list:
 
-```
+```python
 from processing import *
 from collide2d import *
 

@@ -107,7 +107,7 @@ Begin by introducing the rectangle function and how it works. You may have stude
 * How can we tell what are the “x” and “y” values of the position of a rectangle or other shapes?
 * Students can copy & paste this line of code onto future sketches. This line of code displays the “x” and “y” value of the mouse location while on the canvas.
 
-```
+```python
 from processing import *
 
 def setup():
@@ -162,7 +162,7 @@ Explain your process for layering the rectangles in the challenge.
 
 Bring students back together to briefly code-along the `ellipse()` function. They should first be introduced to it along with its parameters and with examples showing different values for width and height. Follow the same step as with `rect()`, allowing students to adjust values before continuing. They should end up with a function like this anywhere on their page:
 
-```
+```python
 ellipse(50, 200, 100, 10) #NOTE: Processing.py requires all 4 arguments, unlike p5.js
 ```
 

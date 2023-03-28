@@ -70,7 +70,7 @@ This is where our map function comes in, which is a new concept for many student
 
 Your finished code should look like this (all in the draw function):
 
-```
+```python
 bgColor = map(mouseX, 0, 800, 0, 255) 
 #you can declare the variable globally (above the setup function) if it helps student understanding
 
@@ -85,7 +85,7 @@ Once students have completed this task, draw their attention to the rest of the 
 
 If students would like to pursue an object, the code would look something like this - consider showing students how to redo the bgColor code to be in a dictionary in a similar way as the following solution to the code challenge:
 
-```
+```python
 from processing import *
 
 def setup():

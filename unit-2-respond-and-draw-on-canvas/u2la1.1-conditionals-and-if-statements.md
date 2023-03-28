@@ -102,7 +102,7 @@ These "greater than" or "less than" signs are relational operators - they compar
 
 In our conditionals, the boolean expression comes immediately after the 'if.'  If the expression evaluates to try, then hte computer will execute the code after the colon that is indented under the conditional statement. If it evaluates to false, the code is not runa nd the program will continue with the code that follows the expression.
 
-```
+```python
 if 5<6:
     background(0) #background will turn black since 5 IS less than 6
 
@@ -118,7 +118,7 @@ Share students on the Conditionals Off Canvas Starter Code ([Trinket](https://tr
 
 Explain that this starter code wil lnot use the canvas and will run entirely behind the scenes, in the console. There are already some variables created with values as well as prompts for what students will be doing. Complete the noted code along with students to create code that will say 'I love your music!' if `theName` says Beyonce. For all other names, make it say 'Nice to meet you!'. The finished result should look like this:
 
-```
+```python
 if theName == "Beyonce":
     print("I love your music!")
 else:
@@ -154,7 +154,7 @@ Review the common mistakes with students and address any misconceptions. Student
 
 Bring students back for the code along. In a new project, create a shape on the screen with a variable to hold its color - remind students how to declare, initialize, and use a variable, and then how to change the color variable in a conditional. Create a change so that when the mouse is on one side of the screen, the color changes, and then changes back to the original. Use console.log(mouseX) so that students can see how the condition in the if statement is satisfied. Move the mouse back and forth a few times so that the shape changes color when mouseX increases and decreases: our sketch is now interactive and responsive to the user moving the mouse! At the end of the code along, you should have created something to the effect of:
 
-```
+```python
 from processing import *
 
 #VARIABLES

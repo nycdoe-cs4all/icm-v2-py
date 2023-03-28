@@ -2,7 +2,7 @@
 description: How can I use built-in variables to create a program that lets the user draw?
 ---
 
-# U2LA1.2: Draw with Mouse
+# U2LA2.1: Draw with Mouse
 
 ### Teacher Notes and Overview
 
@@ -80,7 +80,7 @@ To prove it, look at this example. Each time our draw() function is called, Proc
 
 Now let's get a feel for why frames are important. With your students, remove the background by either deleting it, commenting it out, or moving it to `setup()` where it will only run one time. Before you hit play, ask students what do you they think will happen? Hit play to check if their predictions are true. The could should look like this, and the numbers that were continuously ticking up should still be going up - except now it's on top of each other instead of on top of a fresh background, so it simply creates a blur:
 
-```
+```python
 from processing import *
 
 def setup():
@@ -108,7 +108,7 @@ Explain: We have already used mouseX and mouseY in the previous learning activit
 
 Let's see what happens if we put in `mouseX` and `mouseY` to our ellipse:
 
-```
+```python
 from processing import *
 
 def setup():
@@ -133,7 +133,7 @@ What if we really wanted to draw with one continuous line? This can be tricky, a
 
 Our code ends up looking something like this:
 
-```
+```python
 from processing import *
 
 def setup():
@@ -159,7 +159,7 @@ Likely, students have made a _really long list._ That means they may be stuck ma
 
 As students have never encountered this before, walk them through how to create an object literal and how they can call values using keys, as in the example below, which you should code along with your students:
 
-```
+```python
 from processing import *
 
 theLine = {}
@@ -193,13 +193,13 @@ run()
 
 The nicest thing about having our values stored in a key:value pair within an object is that we can change these values easily, as we would with a variable. If we wanted to reassign the value to our key, it would look something like this:
 
-```
+```python
 theLine["weight"] = 10 #this would assign the value of 10 to the "weight" key
 ```
 
 We could use this to make something interesting happen in our program, such as with a conditional:
 
-```
+```python
 if mouseX > 200:
     theLine["weight"] = 10
 else:

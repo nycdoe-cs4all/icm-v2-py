@@ -87,7 +87,7 @@ As you review the brain starter, ask students to come up with rules for points (
 
 From here, it's time to start coding along. First, have students imagine what this might look like in some basic code:
 
-```
+```python
 if mouseX > 100 and mouseX < 300 and mouseY > 150 and mouseY < 200:
     #anything that happens here means you are on rect
 else:
@@ -102,7 +102,7 @@ Rather than repeating the same code over and over, it would make more sense to c
 
 So let's write a test function together! With your students, create something like the following:
 
-```
+```python
 def mouseOnRect(x, y, w, h):
     if mouseX > x and mouseX < x+w and mouseY > y and mouseY < y+h:
         return True
@@ -112,7 +112,7 @@ def mouseOnRect(x, y, w, h):
 
 Now, we can put this to use:
 
-```
+```python
 #create a variable to control color of the rect, add fill, ensure you have rect from brainstarter drawn.
 #and make sure the variable is global use in your draw function!
 
@@ -134,7 +134,7 @@ Ask students to make a copy of this starter code ([Trinket](https://trinket.io/p
 
 Students should land on collidePointRect (the mouse is considered a point). Click on it and explain to students how to read the documentation and do a brief compare/contrast to the function they wrote. They should have an example of how it’s used as well as what goes into the function itself. It’s recommended to copy/paste this function into their code as a comment so they can use it as a reference. Code the reaction to the rectangle so students have something like this:
 
-```
+```python
 #collidePointRect(pX, pY, rX, rY, rW, rH)
 
 if collidePointRect(mouseX, mouseY, 20, 50, 110, 110):
@@ -147,7 +147,7 @@ Once students have completed the code along, give them a chance to finish the re
 
 This lesson also offers a good moment to reinforce the objects that they have been working with in the prior lessons. While each individual shape only has one property that is changing, because all of these properties are the same (they’re colors!) this could be a way to group the object. Note that because you are using color declarations, you’d need to declare the variable globally and assign color values in setup before changing them in draw. The declaration and initialization would look something like this:
 
-```
+```python
 from processing import *
 from collide2d import *
 
@@ -164,14 +164,14 @@ def setup():
 
 They could then use the color in the following way:
 
-<pre><code><strong>#using a color
+<pre class="language-python"><code class="lang-python"><strong>#using a color
 </strong><strong>fill(colors["rect1"])
 </strong>rect(20, 50, 110, 110)
 </code></pre>
 
 And you could update the color like so:
 
-```
+```python
 if collidePointRect(mouseX, mouseY, 20, 50, 110, 110):
     colors["rect1"] = color(0,255,255)
 else:
@@ -186,7 +186,7 @@ Most likely, this section will be the start of the second day of this lesson cyc
 
 Ask students to duplicate this starter code ([Trinket](https://trinket.io/python/9eee468991)). Then, code along with them the steps to make the strokeWeight of the line increase when the mouse is over the line. _(Note: One oddity about the collidePointLine function is that it has an optional final value. Students have seen optional values before, but this one controls something called ‘buffer’ - explain to students that this is how forgiving/precise you have to be about being on top of the line itself, because lines can be small. Allow for them to play with values between 0 and 1 and test out the varying results!)_
 
-```
+```python
 #collideLinePoint(x1, y1, x2, y2, px, py, [buffer])
 
 if collideLinePoint(25, 20, 155, 70, mouseX, mouseY):

@@ -74,7 +74,7 @@ Students have, by now, seen the `random()` function used in certain places - but
 
 We can see how this works by adding a line of code to our `setup()` function:
 
-```
+```python
 from processing import *
 
 def setup():
@@ -84,7 +84,7 @@ def setup():
 
 If we hit play, we should get a random number in the console. You'll notice this is a random value between 0 and 5, but it's a long decimal value! This is okay if we are using it somewhere that expects a decimal, but in Python, integers and decimals - which are called floats - are actually seen as totally different data types. If we wanted to make this code more useful, we could turn it into an integer by wrapping the random value in the `int()` function:
 
-```
+```python
 from processing import *
 
 def setup():
@@ -106,7 +106,7 @@ This can be a good thing, but it can also cause strange results that sometimes l
 
 Let's say we want our ellipse to change it's width between the values of 50 and 150. Our code might look like this:
 
-```
+```python
 ellipse(300, 300, random(50, 150), 100)
 ```
 
@@ -114,7 +114,7 @@ But when we hit play, it's flashing like crazy! Again, this could be a desired f
 
 In that instance, we would want to give our variable the value in `setup` so it is chosen once at the start of the program and then never again until we run the program again. Our code would look something like this:
 
-```
+```python
 from processing import *
 
 circW = None
@@ -142,7 +142,7 @@ It's very important that students understand that `random()` just chooses a numb
 
 One thing we may want to control for is color. Continue coding along with students to explain that as we've seen, just using `random()` in draw can lead to flashy crazy results - if we don't want that, we may need to create variables that hold either values to make up our color, or the color as a whole. Maybe we only wanted one or two amongst the red/blue/green or hue/saturation/brightness values that make up a color to vary - we might do something like this:
 
-```
+```python
 from processing import *
 
 blue = None
@@ -169,7 +169,7 @@ run()
 
 If we are choosing to vary our entire color, or to save any color to a variable, we need to make sure the computer knows we are using a color data type. That would look something like this:
 
-```
+```python
 from processing import *
 
 randomColor = None
@@ -200,7 +200,7 @@ You have one final moment in your code along, then the students are being set fr
 
 What if we want the little eye on the `creepFace()` to be a different size, and allow whoever is calling the function to set that different size? We can adjust our function so that a parameter controls that size, and we can even set the parameter to have a default, optional value.
 
-```
+```python
 def creepFace(xPos, yPos, eyeSize):
   fill(255, 255, 0)
   stroke(0)
@@ -216,7 +216,7 @@ def creepFace(xPos, yPos, eyeSize):
 
 The above would allow us to enter a third value to control `eyeSize`. If we are nervous people may forget, or they may want to preserve the original design, we can give `eyeSize` a default value like so:
 
-```
+```python
 def creepFace(xPos, yPos, eyeSize=10):
   fill(255, 255, 0)
   stroke(0)
@@ -232,7 +232,7 @@ def creepFace(xPos, yPos, eyeSize=10):
 
 Now, if nothing is entered, the function will still work with the default size. Anything entered in the third position will override this, however. We can test this by drawing a few more creepFaces and using some variables to help us out:
 
-```
+```python
 from processing import *
 
 randEye = None

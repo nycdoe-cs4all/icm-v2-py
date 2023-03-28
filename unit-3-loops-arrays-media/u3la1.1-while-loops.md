@@ -87,7 +87,7 @@ Ask students to do the following:
 
 From this Do Now, ask students how could they code their loops effectively? Students might talk about copy/pasting lines of code, adjusting only selected numbers, etc. Most, if not all students, probably came to a solution like so:
 
-```
+```python
 def draw():
     background(220)
     ellipse(100, 60, 40, 40)
@@ -107,7 +107,7 @@ Essentially, we are are drawing a new circle every 100 pixels, and we may be tem
 
 Luckily, there is a control structure that can help us do this! Introducing the while loop: a loop that only runs WHILE a certain condition is true, and stops running once it ceases to be true. It looks something like this in the draw function:
 
-```
+```python
 x = 100
 while x < width:
     ellipse(x, 60, 40, 40)

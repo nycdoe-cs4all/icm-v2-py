@@ -106,7 +106,7 @@ Start by adjusting the values within `size`, hitting run each time. Once you've 
 
 Once students have answers that they control the _size_ _of the canvas_ - specifically width and height of the canvas - add a code comment using #. It may look something like this:
 
-```
+```python
 size(400, 400) #adjusts width, height of canvas
 ```
 
@@ -114,7 +114,7 @@ Then, move on to the `background` and similarly adjust the value within the `()`
 
 Students may not recognize that the `background()` function numbers must be in a certain range - if you go to high it will always be white, and negative numbers will always be black. Explain that this is taking a color range from 0 - 255. Again, teach students to leave a comment such as:
 
-```
+```python
 background(220) #The num controls color, 0 - 255
 ```
 
@@ -134,7 +134,7 @@ Add another background of a color directly below the first - you should only see
 
 For this code along it is important to spend time reviewing how the canvas works in p5 and its differences from a cartesian plane. Students can copy these functions and their definitions into a journal. A good practice is to hang posters around the classroom every time a new function is added. Recreate the following Example ([trinket](https://trinket.io/library/trinkets/6905cd697f)) with your students:
 
-```
+```python
 from processing import *
 
 def setup():

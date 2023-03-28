@@ -100,7 +100,7 @@ Ask a few rounds of these (_'go get item...')_ questions, taking student answers
 
 Once students have done a little practice, it's time to turn this example into code before moving to example 2. This is our '**create**' list action. Ask students to open a blank editor and code along the following, using whatever you wrote on your chart paper as a model:
 
-```
+```python
 groceryList = ["bread", "orange juice", "pasta", "rice", "beans",
 "pizza", "bananas", "coconut", "potatoes", "spinach"]
 ```
@@ -115,7 +115,7 @@ Please note for students: the elements in this list are strings, or letter chara
 
 Once the list is in your code, review with students how you can **call** (or '**read**') items of a list using the **list name** and the **index value, like so: `groceryList[3]`.** You can do this either with `print()` or `text()`, depending on your preference for showing in the console or the canvas and what works best for your classroom.
 
-```
+```python
 from processing import *
 from collide2d import *
 
@@ -147,7 +147,7 @@ Run a few times, changing out the index value each time. Before running, always 
 
 Similarly to the chart paper example, after a few iterations of calling single items from the list, demonstrate that you can also pull other data from the list by trying things like this:
 
-```
+```python
 print(len(groceryList))
 ```
 
@@ -177,7 +177,7 @@ You may have noticed something weird. When I was declaring values in the array, 
 
 If we wanted to make an array that held the amount of people per building floor, it might look like this:
 
-```
+```python
 buildingPop = [50, 0, 20, 40, 10]
 ```
 
@@ -191,7 +191,7 @@ After all of those examples, it's time to see one last application of lists - th
 
 Creating the list would look like this:
 
-```
+```python
 from processing import *
 from collide2d import *
 
@@ -206,7 +206,7 @@ def setup():
 
 You would then use the colors as we have called other items in the array. Students will need to choose primary and secondary/accent colors based on the palette they create:
 
-```
+```python
 fill(palette1[2])
 rect(10,50,200,50)
 ```

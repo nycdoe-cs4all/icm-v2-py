@@ -90,14 +90,14 @@ The variable `mousePressed` holds a boolean variable, which either holds the val
 
 Have students open up their code from hovering on shapes in lesson U2LA4.1. With the students, show them how they can include this variable with the collision functions in order to make the line change color once it has been clicked. The code should look something like this:
 
-```
+```python
 if collideLinePoint(25, 20, 155, 70, mouseX, mouseY, 0.3) and mousePressed:
     lineColor = color(255, 0, 255)
 ```
 
 Now, this will change the line and keep it changed forever. If they ONLY wanted the change to happen while the mouse was being pressed, they could adjust their code:
 
-```
+```python
 if collideLinePoint(25, 20, 155, 70, mouseX, mouseY, 0.3) and mousePressed:
     lineColor = color(255, 0, 255)
 else:
@@ -114,7 +114,7 @@ Now, `mousePressed` is a great quick solution to our problem of getting informat
 
 Explain to students that we will be trying to make a variable that counts, or keeps score - this is the backbone of a lot of games and it's a useful skill to have. Go ahead and start a new program with the collide library linked. Ask students to create a single ellipse in the middle - this is what you'll be clicking on! Then, declare a variable at the top of your program called `score` and give it a starting value of 0. You can either display it somewhere on the screen using the `text()` function, or you can choose to do this all in the console using `print()` - just decide in advance. Ask students to figure out how you could make this score increase by one each time the circle is clicked. Give students time to think and work (ideally in pairs or groups) before coming together to make sure agree on this:
 
-```
+```python
 if collidePointCircle(mouseX, mouseY, 200, 200, 100) and mousePressed:
     score = score + 1 #alternately, score+=1
 ```
@@ -125,7 +125,7 @@ To help us when this problem arises, there are other tools built into the Proces
 
 Students will need to see how to add this function and will likely need reminders about Python indentation. This happens _outside_ of the draw function - meaning it is aligned with the left side of the canvas - but before the run and draw lines. Code along with your students and explain the logic to get something like this, where the code will ONLY run when the mouse is pressed:
 
-```
+```python
 from processing import *
 from collide2d import *
 

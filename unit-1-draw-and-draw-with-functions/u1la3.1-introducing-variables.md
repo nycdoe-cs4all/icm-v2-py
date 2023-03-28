@@ -85,14 +85,14 @@ Students should have deduced in the Do Now that although the background values w
 
 Explain to students the definition of a variable, then explain that `width` and `height` are variables that are built directly into the p5 library and already setup to hold the size of the canvas as determined in the `size` function. We can test these variables by printing them to the console, which is a useful tool and debugging strategy that we will use throughout the year:
 
-```
+```python
 print(width) #will display the width of the canvas
 print(width/2) #will display the width divided by 2
 ```
 
 Although the values are printing to the console, nothing on the screen has changed. This makes sense - we haven't used them in anything that is visibly showing up on the canvas! Instead of writing `width/2` in our `print()` function, we can use it directly in our ellipse function:
 
-```
+```python
 ellipse(width/2, height/2, 50, 50) #this will always be centered!
 ```
 
@@ -113,7 +113,7 @@ Teachers should circulate and make notes of struggling students for conferencing
 
 Students should come back together to discuss what other system variables exist (answer - many). Show students the line of code below and ask them to explain why it was useful:
 
-```
+```python
 from processing import *
 
 def setup():
@@ -145,13 +145,13 @@ Once students are comfortable with using mouseX and mouseY with the position of 
 
 Getting a simple shape to follow the mouse is great, but what if we want to use a more complicated shape, like a triangle or a quad that is defined by many points? While we can still use `mouseX` and `mouseY`, but we need to do it a little differently. Gather students for a brief code-along using any triangle:
 
-```
+```python
 triangle(50, 50, 75, 10, 100, 50)
 ```
 
 Now if we want this triangle to follow our mouse, we will need to pick one point to 'anchor' and we will need to remember it's original coordinates. This will be the point that follows the mouse. We can do this with the first point like so:
 
-```
+```python
 triangle(mouseX, mouseY, 75, 10, 100, 50) #point was at 50, 50
 ```
 
@@ -159,13 +159,13 @@ If we just run this code, you'll notice the triangle stays put but one coordinat
 
 Instead, we need to do a little math to make the other points follow _at a distance_ so that our triangle preserves its shape but moves with the mouse. For example, for the second point, we can try this:
 
-```
+```python
 triangle(mouseX, mouseY, mouseX+25, mouseY-40, 100, 50) #point was at 50, 50
 ```
 
 We replaced the 75 with `mouseX + 25` because the original anchor point was at 50, and 50 and 75 are +25 units apart. We replaced the 10 with `mouseY - 40` since the original anchor point was 50, and 50 and 10 are -40 units apart. If we repeat this with our last point, we will have a triangle that follows our mouse:
 
-```
+```python
 triangle(mouseX, mouseY, mouseX+25, mouseY-40, mouseX+50, mouseY) #point was at 50, 50
 ```
 

@@ -96,21 +96,21 @@ There is also an optional fourth value that controls opacity. In the default RGB
 
 If you wanted to make a yellow circle without any change to opacity or transparency, it would look like this (you may or may not choose to code along with students - use your best judgement, as it's quick, but make sure the example is available):
 
-```
+```python
 fill(255, 255, 0) #color set before you draw shape
 ellipse(200, 200, 50, 50) #drawn shape gets the color above it
 ```
 
 If we wanted the circle to be slightly transparent, we might write the following:
 
-```
+```python
 fill(255, 255, 0, 75) #color set before you draw shape
 ellipse(200, 200, 50, 50) #drawn shape gets the color above it
 ```
 
 And we could also make the stroke a color:
 
-```
+```python
 fill(255, 255, 0, 75) #color set before you draw shape
 stroke(255, 0, 255) #sets the color of the line around the shape
 ellipse(200, 200, 50, 50) #drawn shape gets the color above it
@@ -153,7 +153,7 @@ When students think about hue, remember that it is 0 to 360 - that means 0 and 3
 
 When students want to use HSB color, they need to declare that in their code, like so:
 
-```
+```python
 from processing import *
 
 def setup():

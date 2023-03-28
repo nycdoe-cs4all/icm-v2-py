@@ -93,7 +93,7 @@ I might want to tell someone that if it's cold they should wear a coat, but I al
 
 We can do this by adding "else if" to our conditionals between "if" and "else."
 
-```
+```python
 if condition 1:
     #block of code to be executed if condition1 is true
 elif condition 2:
@@ -108,7 +108,7 @@ Then code along with them a conditional to check the variable movie. If `movie` 
 
 The finished result of the code-along should look like this:
 
-```
+```python
 if movie == "Ratatouille":
     print("That movie is about a rat.")
 elif movie == "Tangled":
@@ -127,7 +127,7 @@ Next, students will move to working with conditionals on the canvas. This should
 
 Walk students through how to create a variable to control the fill of their circle, and then write a conditional that will change the value of that variable based on mouse position. Once you are done, the conditional for this section should look like the following:
 
-```
+```python
 #Remember to announce you're using a global variable 
 #in your draw function!
 

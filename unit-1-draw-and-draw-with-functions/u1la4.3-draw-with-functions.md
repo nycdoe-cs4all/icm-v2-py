@@ -72,7 +72,7 @@ In this code along, you will build a function called **`happyFace()`** that will
 
 To begin, explain to students the setup of functions. At the top of the starter code, begin by setting up an empty function, explaining each piece, like so:
 
-```
+```python
 #Write your functions up here!
 def happyFace():
     #your function here
@@ -82,7 +82,7 @@ In Python, it's important that both variables _and_ functions are declared or de
 
 From there, take the code for the happy face - lines roughly 15-21 - and copy/paste them into the function. Remove them from the `draw()` function so you have something that looks like this:
 
-```
+```python
 from processing import *
 
 #Write your functions up here!
@@ -137,7 +137,7 @@ This is your chance to choose a code along path that is most sensible to your st
 * Students will use this x and y to control the positions of each shape, adding and subtracting to keep the distances correctly related to each other.
 * _This is an easy and direct approach for students who may not have felt comfortable working with push(), pop(), and translate()._
 
-```
+```python
 #Final Product
 def happyFace(xPos, yPos):
     strokeWeight(1)
@@ -155,7 +155,7 @@ def happyFace(xPos, yPos):
 * Students will use this x and y to control the translation of the shape, and will rewrite the shape to draw from 0.&#x20;
 * Be sure to include a push and pop so the translation only applies in the function!
 
-```
+```python
 #Option B Final Product
 def happyFace(xPos, yPos):
     pushStyle()

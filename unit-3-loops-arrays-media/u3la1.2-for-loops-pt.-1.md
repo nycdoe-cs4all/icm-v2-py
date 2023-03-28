@@ -47,7 +47,7 @@ Students will be able to:
 ### Resources
 
 * NEED FOR LOOP PYTHON VIDEO
-* Python For Loops ([W3 Schools](https://app.gitbook.com/s/mX4RubbWI5h0C0nJu6Na/))
+* Python For Loops ([W3 Schools](http://localhost:5000/s/mX4RubbWI5h0C0nJu6Na/))
 * Styling For Loops Starter Code ([Trinket](https://trinket.io/library/trinkets/856bc608b0))
 
 ### Assessments
@@ -81,7 +81,7 @@ Explain to students that WHILE and FOR (be careful to specify this is NOT the nu
 
 Our for loop has a different structure than our while loop. In Python, a for loop might look like:
 
-```
+```python
 for x in range (10, 400, 20):
     ellipse(x, 20, 10)
 ```
@@ -100,7 +100,7 @@ Students should notice that the for loop contains the same three important eleme
 
 Once students are familiar with this as an idea, pause to do a brief code along with them to get a row of shapes on the screen. The shape can be anything - here an ellipse is used as an example, but do what makes your students happy.
 
-```
+```python
 for i in range (0, width, 50):
     ellipse(i, 75, 200)
     print(i) #feel free to add or remove this - it's just for show!
@@ -117,7 +117,7 @@ After students have had a chance to explore, explain that they will be completin
 
 Allow students 7 - 12 minutes to work on these challenges, and then come back together to discuss. Depending on the student's math level, they may need to review diagonally lines, which would simply be a change in both x and y, like so:
 
-```
+```python
 for i in range (0, width, 50):
     ellipse(i, i, 200)
 ```
@@ -130,7 +130,7 @@ If you would like students to have more practice making purposeful for loops, co
 
 Mild and medium are versions of things students have already created. Spicy can be achieved with the following solution (among others!):
 
-```
+```python
 x = width #start x on the right side of the canvas
 
 for y in range(0, height, 40):
@@ -155,7 +155,7 @@ _In previous lessons, students used for loops to create columns, rows, and diago
 
 Students may have taken several paths to recreate the Do Now image; some may have made many ellipses, and some will hopefully still be thinking _for loops_ to make it happen. Regardless of where your class is, make sure that they take some time to code along this example and get everyone on the same page:
 
-```
+```python
 for x in range(100, width, 100):
     ellipse(x, 60, x/10, x/10)
 ```
@@ -164,7 +164,7 @@ The big takeaway here is that **the iterating variable can be used to control mo
 
 The second big push for students to get through is that you can do math to - and with - the variable. From where you started, go back to the start, here:
 
-```
+```python
 for x in range(100, 600, 100):
     ellipse(x, 200, x, x)
 ```
@@ -181,7 +181,7 @@ Just to make it abundantly clear, make sure students know that division is just 
 
 There is also no reason to think that this trend of making changes with for loops wouldn't work in other situations. So let's try colors, shall we?
 
-```
+```python
 for x in range(100, 600, 100):
     fill(0, 0, x)
     ellipse(x, 100, 40, 40)
@@ -199,7 +199,7 @@ Students looking for an extra challenge may choose to try to style a design they
 
 <figure><img src="../.gitbook/assets/image (5).png" alt="Row of emojis with each mouth getting larger"><figcaption><p>Row of emojis with each mouth getting larger</p></figcaption></figure>
 
-```
+```python
 from processing import *
 from collide2d import *
 
@@ -231,7 +231,7 @@ run()
 
 This is entirely extra, but you may want to show students more ways to make precise things happen in loops. One way to make sure that, say, the loop always has 5 circles in it is to use a for loop that counts by ones instead of by huge gaps, and then multiplying that value to make the shapes show up as intended. For example:
 
-```
+```python
 for i in range (0, 5):
     ellipse(i*50, 200, 50)
 ```
@@ -240,7 +240,7 @@ Would have a similar result to the first for loop they ever saw, the incrementat
 
 Alternately, if students are uncomfortable with the math, they could create a separate variable that increments inside the loop, making this behave more like a while loop:
 
-```
+```python
 circSize = 400
 
 for i in range(0, 5):

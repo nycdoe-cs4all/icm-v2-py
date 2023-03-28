@@ -69,7 +69,7 @@ Since the start of the year, you've been using functions written by other people
 
 An easy way to do this is to leave a special kind of comment called a docstring at the top of your function. In some code editors, this will auto-generate helper text that explains the function when you start using it! We want to describe not only what our function does, but what the inputs do, as well. And we should add our name for good measure! So if we use the very first `happyFace()` function we wrote, the documentation might look like this:
 
-<pre><code>def happyFace(xPos, yPos):
+<pre class="language-python"><code class="lang-python">def happyFace(xPos, yPos):
     """
     Draws a happy face emoji.
     xPos controls x position of emoji.
@@ -82,7 +82,8 @@ An easy way to do this is to leave a special kind of comment called a docstring 
     ellipse(xPos,yPos,100, 100) #125, 200
     arc(xPos-15,yPos,25,25,radians(180),radians(360))
     arc(xPos+35,yPos,15,25,radians(180),radians(360))
-    arc(xPos+11,yPos+26,40,10,radians(0),radians(180))</code></pre>
+    arc(xPos+11,yPos+26,40,10,radians(0),radians(180))
+</code></pre>
 
 **NB:** _Eventually, they should also describe the return of a function, but that is not necessary yet as their functions do not have return values and it would be a lot to explain!_
 
@@ -108,7 +109,7 @@ In Trinket, click the **+** button which will say 'Create text file' when you ho
 
 Now, we need to connect the two files, but first, let's load in some functions. Have students start by copy/pasting their own emoji function into the functions.py document. _(We will have time to add more functions later, but this is enough to get us started and make sure our linked files communicate.)_ Because our functions rely on the Processing.py library, we will also need to add a line at the top:
 
-```
+```python
 from processing import *
 ```
 
@@ -118,7 +119,7 @@ Python has a lot of libraries - some external, and some internal like our funcit
 
 Using `import` would look something like this:
 
-```
+```python
 from processing import *
 import functions
 
@@ -141,7 +142,7 @@ Now, a few things for us to notice: first, we imported the library at the top of
 
 Rather than using `import`, we can use `from`. `from` has two distinct uses. In the first, we use it only import select functions:
 
-```
+```python
 from processing import *
 from functions import happyFace
 
@@ -162,7 +163,7 @@ run()
 
 Now we don't need to use functions. because `happyFace()` has been locally scoped! But what if we have _a lot_ of functions to use? Well, we can look at how processing has been imported as a reference. If we do something like this:
 
-```
+```python
 from processing import *
 from functions import *
 

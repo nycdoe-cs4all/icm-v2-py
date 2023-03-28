@@ -22,7 +22,7 @@ We recommend doing a quick launch together to ensure students recall how to use 
 
 To begin, review the Whole Class Example together. In this example, students are asked to sum a list and then return if the sum is odd or even. The summing is easy enough - it would look something like this:
 
-```
+```python
 def odd_or_even(arr):
     sum = 0
     
@@ -50,7 +50,7 @@ What they should have noticed is that a modulo is always returning the _remainde
 
 We can use this and what we know about even and odd numbers to help us finish our challenge. Even values are always evenly divisible by 2, while odd values will always have a remainder of 1 when divided by 2. So we could adjust our code to the following:
 
-```
+```python
 def odd_or_even(arr):
     sum = 0
     
