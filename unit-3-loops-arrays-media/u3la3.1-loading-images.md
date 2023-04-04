@@ -276,7 +276,7 @@ Let's take a pause for a moment to discuss a little color theory; move away from
 \
 From an art perspective, any scene you create has a foreground, a middle ground, and a background. Check out this classical example to understand each one:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Image of a bucolic oil painting with background, middle ground, and foreground labeled.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Image of a bucolic oil painting with background, middle ground, and foreground labeled.</p></figcaption></figure>
 
 Generally, the **foreground has the warmest, most saturated colors**, because you are supposed to feel that it is close. **Warm colors** tend to be **reds** and **oranges**, but sometimes we see this effect with other colors that are just very saturated. The **middle ground** **has colors somewhere in the middle, while the background has the coolest, least saturated colors**. **Cool colors** are generally **blues, purples, and greens**, but this effect can be achieved with any unsaturated color. While it’s not true in this example, sometimes the background might be darker, as well, depending on the scene that is being created.
 
