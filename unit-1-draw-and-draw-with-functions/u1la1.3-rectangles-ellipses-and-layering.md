@@ -144,7 +144,7 @@ Ask students to complete the challenge of recreating the following shapes on the
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Grey canvas with a white square of equal size in each corner.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Grey canvas with white square in each corner and four in the center forming a larger square.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Grey canvas with white square in each corner and four in the center forming a larger square.</p></figcaption></figure>
 
 [Solution Code (Trinket)](https://trinket.io/python/b80dc7987f)
 
