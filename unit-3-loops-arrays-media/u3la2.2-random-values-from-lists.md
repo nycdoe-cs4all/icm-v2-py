@@ -42,8 +42,8 @@ Students will be able to:
 * Index - a position within a list
 * Element - a piece of data in a list
 * **Zero-Indexed** - The first element of a list has an index of 0, not 1&#x20;
-* **`random()`**` ``` - a function that will return a random number in between its two parameters
-* **`int()` ** - converts a float into an integer by rounding down to the closest integer value
+* **`random()`** - a function that will return a random number in between its two parameters
+* **`int()`** - converts a float into an integer by rounding down to the closest integer value
   * _You could also use `round()` which will round up or down._
 * **`len()`** - returns the length of a list as a numeric value
 
@@ -56,9 +56,9 @@ Students will be able to:
 ### Resources
 
 * NEED RANDOM/LIST PYTHON VIDEO
-* ``[`random()` in Processing.Py](https://py.processing.org/reference/random.html) (Reference Sheet)
+* [`random()` in Processing.Py](https://py.processing.org/reference/random.html) (Reference Sheet)
 * [Python List Methods](http://localhost:5000/s/oF62wG4MMbP5xRgX3R88/) (W3 Schools)
-* **Optional:** [**`random.choice()`**](https://pynative.com/python-random-choice/) **** (Extension)
+* **Optional:** [**`random.choice()`**](https://pynative.com/python-random-choice/) (Extension)
 
 ### Assessments
 
@@ -164,7 +164,7 @@ We should now not only see numbers being logged that are within our list, but we
 
 There's just one more thing we need to fix before we go off to play with this idea. Notice how right now, we are taking saying `random(3)` because the array is 3 items long? That could become a problem later if I were to add colors but forget to update this piece of code. Or what if I was making a program where users could add their favorite colors and the program would draw with them? &#x20;
 
-Right now, the 3 **** in our random function is what we call a **hardcoded value.** Things that are **hardcoded** will always be the same in a program - and there are plenty of things we would want to be hardcoded, such as the score of a game starting at 0, or the timer for a soccer match half starting at 45, for example. But in this instance, we want to make sure that the value in random is **dynamic** so that if we make changes to our ray, the rest of our program is taken care of.
+Right now, the 3 in our random function is what we call a **hardcoded value.** Things that are **hardcoded** will always be the same in a program - and there are plenty of things we would want to be hardcoded, such as the score of a game starting at 0, or the timer for a soccer match half starting at 45, for example. But in this instance, we want to make sure that the value in random is **dynamic** so that if we make changes to our ray, the rest of our program is taken care of.
 
 Remember that **`len()`** function we learned about in the last lesson? This is where it can come into play, like so:
 

@@ -63,7 +63,7 @@ The do-now introduces a headache to make students care about the built-in width 
 
 **Formative:**
 
-****
+
 
 **Summative:**
 

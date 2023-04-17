@@ -107,7 +107,7 @@ Explain to students first that they will be doing an activity that will have the
 * _Check for **common errors** working line by line from top to bottom_
 * _**Play** with the code. Make one change at a time then hit run._
 * _**Use teamwork.** Compare your code to the code of someone next to you._
-* _**Check out the Processing.py online reference.** _ [ __ ](https://py.processing.org/reference/)__[_https://py.processing.org/reference/_](https://py.processing.org/reference/)__
+* _**Check out the Processing.py online reference.**_ [ ](https://py.processing.org/reference/)[_https://py.processing.org/reference/_](https://py.processing.org/reference/)
   * _Model how to navigate the reference guide and then how to read the arguments a function takes._
 * _**Attach a sticky note to the back of your laptop.** Let your peers or teachers know that you need extra help._
 

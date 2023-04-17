@@ -25,7 +25,7 @@ There are many wonderful examples of color theory at work in our world. A useful
 **Students will be able to:**
 
 * Describe the process by which computers mix colors (additive mixing)&#x20;
-* Use `fill()` to change the color of shapes in RGB **** and HSB color modes.
+* Use `fill()` to change the color of shapes in RGB and HSB color modes.
 
 ### Suggested Duration
 

@@ -32,7 +32,7 @@ In this lesson, students will be introduced to the Processing.py canvas and coor
 ### Vocabulary
 
 * **Computational Media** - The practice of using programming to build expressive and interactive computer applications and media.
-* Processing.py **** - An open-source Python version of Processing that allows people to make web pages animated and interactive.
+* Processing.py - An open-source Python version of Processing that allows people to make web pages animated and interactive.
 * **IDE** - Integrated development area is a software application that provides a place for computer programmers to develop code.
 * **Unplugged Activity** - an activity that can be conducted without the use of computers or electronic equipment.
 * **Abstraction** - Abstraction is the process of taking away or removing characteristics from something in order to reduce it to a set of essential characteristics
@@ -94,7 +94,7 @@ After they’re done signing up, ask them to close their laptops or turn around 
 
 Start the lesson by explaining what is the main programming language of this course. After watching the video ask students the following suggested questions: [Video](http://hello.p5js.org)
 
-**NB:** _This is made for p5, but p5 is the JavaScript version of Python. Explain to students that they have the same functionality! The video is also interactive so move the mouse around when prompted to show students how interactive p5/Processing **** can be._
+**NB:** _This is made for p5, but p5 is the JavaScript version of Python. Explain to students that they have the same functionality! The video is also interactive so move the mouse around when prompted to show students how interactive p5/Processing_ _can be._
 
 1. What did you see in the video?
 2. What things do you think you can make with p5?

@@ -61,3 +61,4 @@
 * [🗃 🤓 U3LA2 Mini Project 2: CodeWars List Challenges](unit-3-loops-arrays-media/u3la2-mini-project-2-codewars-list-challenges.md)
 * [U3LA3.1: Loading Images](unit-3-loops-arrays-media/u3la3.1-loading-images.md)
 * [🗃 U3LA3 Mini Project: Vision Board](unit-3-loops-arrays-media/u3la3-mini-project-vision-board.md)
+* [🎨 Unit 3 Final Project: Random Meme Generator](unit-3-loops-arrays-media/unit-3-final-project-random-meme-generator.md)

@@ -10,7 +10,7 @@ While this is marked as a mini-project, it is really a specific practice activit
 
 If students are struggling to come up with interesting things to fill their arrays with, encourage them to Google - this is a coding task, not a creative writing one, and students feeling stumped should feel free to get inspiration where they can.
 
-Students have not _formally_ been taught to join strings, which is a part of this lesson. Many students can figure out that strings can be joined by looking at the **`text()` ** function they use to display mouse coordinates - **string + string** creates a joined version. Students may need assistance remembering this, or reasoning out why they made need spaces in their strings to make sentences readable.
+Students have not _formally_ been taught to join strings, which is a part of this lesson. Many students can figure out that strings can be joined by looking at the **`text()`** function they use to display mouse coordinates - **string + string** creates a joined version. Students may need assistance remembering this, or reasoning out why they made need spaces in their strings to make sentences readable.
 
 **Students may benefit from pre-planning before they jump to coding. This** [**planning page**](https://docs.google.com/document/d/1cOlhEDQFaSKnTkLUsuYWXO-277AeQnHmBkr-7zVzgx8/copy) **specifically designed for this project is available for their use.**
 

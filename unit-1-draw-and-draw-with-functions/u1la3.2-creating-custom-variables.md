@@ -195,7 +195,7 @@ Determine what is printed by this code:
 
 <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>Image shows a practice variable assignment question from DeltaMath.com</p></figcaption></figure>
 
-_Sample problem solution: **4**   **5  5**_
+_Sample problem solution: **4** _ _**5  5**_
 
 DeltaMath uses the pseudocode seen on the AP exam, so it’s not written in any actual language, but it does follow the same logic of running from top to bottom. It’s fairly intuitive, but we don’t want it to confuse any students. Before setting your students free, be sure they are aware of the following:
 

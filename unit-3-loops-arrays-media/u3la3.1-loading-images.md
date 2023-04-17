@@ -180,7 +180,7 @@ draw = draw
 run()
 ```
 
-The **`image()` ** function takes in five values - the variable holding an image, an x and y position, and a width and height, with the latter two being optional: **`image(x, y, [width], [height])`**
+The **`image()`** function takes in five values - the variable holding an image, an x and y position, and a width and height, with the latter two being optional: **`image(x, y, [width], [height])`**
 
 Once one image is working, encourage students to do the same for the rest of their images. They should aim to get \~6 images loaded into their program and displaying on their screen! As students work, watch for these common errors:
 

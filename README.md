@@ -8,7 +8,7 @@ description: >-
 
 ### 🚧 🚜 **UNDER CONSTRUCTION - STILL BEING BUILT!**🚜 **🚧**
 
-**This curriculum is Version 2.0 of our** [**original ICM curriculum**](https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/) **using the Python version of Processing.** It moves a little quicker (in a different language!) and aims to hit all standards from the Computational Thinking category of the NYS Computing Standards. [_Looking for ICM Version 2.0 in p5.js?_](https://cs4all-icm.gitbook.io/js-intro-to-computational-media-2.0/)__
+**This curriculum is Version 2.0 of our** [**original ICM curriculum**](https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/) **using the Python version of Processing.** It moves a little quicker (in a different language!) and aims to hit all standards from the Computational Thinking category of the NYS Computing Standards. [_Looking for ICM Version 2.0 in p5.js?_](https://cs4all-icm.gitbook.io/js-intro-to-computational-media-2.0/)
 
 This curriculum was built on the foundation of **ICM Version 1.0**. **Version 1.0** was developed by the [NYCDOE CS4All](http://cs4all.nyc/) academics team (José Olivares, EJ Park) with lead writer [Luisa Pereira](http://www.luisapereira.net/). Additional contributors to the curriculum include Courtney Morgan 🙆‍♀️ & José Orea (teacher implementation guide and additional activities), Esther Hersh, and the [Processing Foundation](https://processingfoundation.org/). Curricular reorganization, rewrites, and extras were developed by Courtney Morgan.
 

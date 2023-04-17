@@ -42,7 +42,7 @@ In this project, you'll be making an interactive vision board. Vision boards are
 
 ### Sample Output
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>A sample vision board featuring healthy food and hair, makeup, camera, and a beach scene.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>A sample vision board featuring healthy food and hair, makeup, camera, and a beach scene.</p></figcaption></figure>
 
 ### Culturally Responsive Best Practices
 

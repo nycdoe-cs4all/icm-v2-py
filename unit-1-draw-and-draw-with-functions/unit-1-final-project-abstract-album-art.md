@@ -95,7 +95,7 @@ This share-out method can be used outside of project time, as well. Use a calend
 
 Within this design-based challenge, there are many prompts you can give students to make the project seem more relevant to them and the cultures of communities that they are a part of. (_Please recall that communities can refer to a lot of things, including just the culture of being a teen, a Minecraft player, or a KPop fan - be mindful that you are allowing students to explore choice in their creations in a way that is authentic to them!)_
 
-_**Allowing for student choice in this project is one of the best ways to be culturally responsive!** _ Allow students freedom to pick the song/poem/whatever that is most meaningful to them - if they say it is important, accept it as important.
+_**Allowing for student choice in this project is one of the best ways to be culturally responsive!**_ Allow students freedom to pick the song/poem/whatever that is most meaningful to them - if they say it is important, accept it as important.
 
 ### Extensions
 

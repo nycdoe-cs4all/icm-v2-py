@@ -197,7 +197,7 @@ Ask students to take what they have learned and try to create their own design b
 
 Students looking for an extra challenge may choose to try to style a design they've made previously, like in this example where the mouth of the emoji gets bigger over time:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="Row of emojis with each mouth getting larger"><figcaption><p>Row of emojis with each mouth getting larger</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="Row of emojis with each mouth getting larger"><figcaption><p>Row of emojis with each mouth getting larger</p></figcaption></figure>
 
 ```python
 from processing import *
