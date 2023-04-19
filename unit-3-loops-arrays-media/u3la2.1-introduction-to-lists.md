@@ -169,7 +169,7 @@ Notice the ‘\[ ]’ after the name of our variable? That’s where we put the 
 
 **Let's assume in this example, each person icon represents 10 people:**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Image of simplified building with floor numbers labeled and people on each floor.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (7).png" alt=""><figcaption><p>Image of simplified building with floor numbers labeled and people on each floor.</p></figcaption></figure>
 
 Using the syntax, and assuming this is the building we’re talking about, what would `building[3]` be equal to? What about `building[1]`?
 

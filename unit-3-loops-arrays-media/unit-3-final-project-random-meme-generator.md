@@ -22,7 +22,7 @@ As a class, you may want to review this [history of memes](https://www.nytimes.c
 
 In this project, you will create a random meme generator using the [macro image meme format](https://knowyourmeme.com/memes/image-macros)! This is your opportunity to make your peers and teacher laugh so get creative and silly (while staying classroom appropriate) with this project.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Four differently commonly used meme images.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Four differently commonly used meme images.</p></figcaption></figure>
 
 #### Requirements
 
