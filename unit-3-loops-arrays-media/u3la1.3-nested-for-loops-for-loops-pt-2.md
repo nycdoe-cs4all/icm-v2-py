@@ -69,7 +69,7 @@ Students will be able to:
 
 _Have students try to create a grid using the for loop method from the previous lessons._
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><em>Image showing row of ellipses and several completed columns</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p><em>Image showing row of ellipses and several completed columns</em></p></figcaption></figure>
 
 _Likely, students will attempt to make several separate for loops to solve this problem. This works, but it can be tedious and is often error prone!_
 

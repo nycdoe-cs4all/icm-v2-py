@@ -66,3 +66,4 @@
 ## Unit 4: Motion, Objects, Transformation
 
 * [U4LA1.1: Intro to Motion with Flipbooks](unit-4-motion-objects-transformation/u4la1.1-intro-to-motion-with-flipbooks.md)
+* [U4LA1.2: Move in All Directions and Make it Bounce](unit-4-motion-objects-transformation/u4la1.2-move-in-all-directions-and-make-it-bounce.md)
