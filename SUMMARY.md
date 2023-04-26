@@ -41,10 +41,6 @@
 * [U2LA5.1: Key Presses and Nested Conditionals](unit-2-respond-and-draw-on-canvas/u2la5.1-key-presses-and-nested-conditionals.md)
 * [🎨 Unit 2 Final Project: Interactive Drawing App](unit-2-respond-and-draw-on-canvas/unit-2-final-project-interactive-drawing-app.md)
 
-***
-
-* [LESSON TEMPLATE](lesson-template.md)
-
 ## Unit 3: Loops, Arrays, Media
 
 * [🔮 Unit 3 Overview](unit-3-loops-arrays-media/unit-3-overview.md)
@@ -62,6 +58,10 @@
 * [U3LA3.1: Loading Images](unit-3-loops-arrays-media/u3la3.1-loading-images.md)
 * [🗃 U3LA3 Mini Project: Vision Board](unit-3-loops-arrays-media/u3la3-mini-project-vision-board.md)
 * [🎨 Unit 3 Final Project: Random Meme Generator](unit-3-loops-arrays-media/unit-3-final-project-random-meme-generator.md)
+
+***
+
+* [LESSON TEMPLATE](lesson-template.md)
 
 ## Unit 4: Motion, Objects, Transformation
 
