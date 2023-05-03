@@ -68,3 +68,4 @@
 * [U4LA1.1: Intro to Motion with Flipbooks](unit-4-motion-objects-transformation/u4la1.1-intro-to-motion-with-flipbooks.md)
 * [U4LA1.2: Move in All Directions and Make it Bounce](unit-4-motion-objects-transformation/u4la1.2-move-in-all-directions-and-make-it-bounce.md)
 * [U4LA2.1: Introduction to Classes and Objects](unit-4-motion-objects-transformation/u4la2.1-introduction-to-classes-and-objects.md)
+* [U4LA2.2: Reading and Updating Object Properties](unit-4-motion-objects-transformation/u4la2.2-reading-and-updating-object-properties.md)
