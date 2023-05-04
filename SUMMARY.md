@@ -3,6 +3,13 @@
 * [Curriculum Overview](README.md)
 * [How to Use this Curriculum](how-to-use-this-curriculum.md)
 
+## Curriculum Extras
+
+* [🔮 Curriculum Extras Overview](curriculum-extras/curriculum-extras-overview.md)
+* [Imposter Syndrome (pt. 1)](curriculum-extras/imposter-syndrome-pt.-1/README.md)
+  * [Imposter Syndrome (pt. 2)](curriculum-extras/imposter-syndrome-pt.-1/imposter-syndrome-pt.-2.md)
+* [Timers in Processing.py](curriculum-extras/timers-in-processing.py.md)
+
 ## Unit 1: Draw & Draw With Functions
 
 * [🔮 Unit 1 Overview](unit-1-draw-and-draw-with-functions/unit-1-overview.md)
@@ -69,3 +76,4 @@
 * [U4LA1.2: Move in All Directions and Make it Bounce](unit-4-motion-objects-transformation/u4la1.2-move-in-all-directions-and-make-it-bounce.md)
 * [U4LA2.1: Introduction to Classes and Objects](unit-4-motion-objects-transformation/u4la2.1-introduction-to-classes-and-objects.md)
 * [U4LA2.2: Reading and Updating Object Properties](unit-4-motion-objects-transformation/u4la2.2-reading-and-updating-object-properties.md)
+* [U4LA2.3: Methods Off Canvas](unit-4-motion-objects-transformation/u4la2.3-methods-off-canvas.md)
