@@ -260,7 +260,7 @@ In the example above, the circle would reset to the beginning each time it passe
 
 ### Student Exercise: Animate Multiple Shapes (10 - 15 minutes)
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Image of carnival horse racing game</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>Image of carnival horse racing game</p></figcaption></figure>
 
 Old school carnivals have racing games where players have to hit targets or roll balls into holes to move their player - often a horse - forward to the other side. Because of the various skill levels of different people playing, the horses all travel at different speeds.
 
