@@ -79,3 +79,4 @@
 * [U4LA2.3: Methods Off Canvas](unit-4-motion-objects-transformation/u4la2.3-methods-off-canvas.md)
 * [U4LA2.4: Objects on Canvas](unit-4-motion-objects-transformation/u4la2.4-objects-on-canvas.md)
 * [🗃 U4LA2 Mini Project: Build a Tamagotchi](unit-4-motion-objects-transformation/u4la2-mini-project-build-a-tamagotchi.md)
+* [U4LA3.1: Creating Many Objects](unit-4-motion-objects-transformation/u4la3.1-creating-many-objects.md)
