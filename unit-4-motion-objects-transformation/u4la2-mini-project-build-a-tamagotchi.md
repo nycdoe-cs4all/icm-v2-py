@@ -38,7 +38,9 @@ In this project, you'll be making your own computer-based version of the Tamagot
 
 ### Sample Output
 
-<figure><img src="../.gitbook/assets/tamagotchisample.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tamagotchisample.gif" alt=""><figcaption><p>Sample project with bouncing pet and buttons to feed and heal</p></figcaption></figure>
+
+[Sample Code](https://trinket.io/library/trinkets/3bdbb446e5)
 
 ### Extensions
 
