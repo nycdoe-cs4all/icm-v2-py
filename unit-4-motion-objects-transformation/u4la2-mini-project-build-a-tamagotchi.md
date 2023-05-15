@@ -38,7 +38,7 @@ In this project, you'll be making your own computer-based version of the Tamagot
 
 ### Sample Output
 
-_\[COMING SOON]_
+<figure><img src="../.gitbook/assets/tamagotchisample.gif" alt=""><figcaption></figcaption></figure>
 
 ### Extensions
 
