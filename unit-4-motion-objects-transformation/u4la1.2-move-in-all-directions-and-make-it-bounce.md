@@ -325,7 +325,7 @@ You should have at least one of each:
 
 Here’s a painting by Dutch-born artist Piet Mondrian from 1942 called “Broadway Boogie Woogie”. This painting is inspired by clear real-world examples: the city grid of Manhattan, and the Broadway boogie-woogie, a type of music Mondrian loved.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Broadway Boogie Woogie by Piet Mondrian</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Broadway Boogie Woogie by Piet Mondrian</p></figcaption></figure>
 
 How could you use colors, shapes, and animation techniques to code a sketch that creatively simulates a busy intersection?
 
