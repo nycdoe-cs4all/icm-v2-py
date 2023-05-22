@@ -87,7 +87,7 @@ For this example, we are going to be considering minions. What characteristics m
 
 **NB:** _Minions are fun, visual, and relatively topical; if you need more images, just google search 'minions despicable me' but you could substitute this with any other accessible reference you'd like._ [_Zoombinis, anyone?_](https://en.wikipedia.org/wiki/Logical\_Journey\_of\_the\_Zoombinis)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Image of three minions with different features</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Image of three minions with different features</p></figcaption></figure>
 
 You may have a list of features that looks somthing like this:
 

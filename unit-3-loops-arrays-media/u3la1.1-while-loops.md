@@ -101,7 +101,7 @@ But this is a lot of repetition, and something that students should start gettin
 
 Talk students through the actual process that you are following, which is something to the effect of:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Handwriting that describes the loop of drawing ellipses and moving right.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Handwriting that describes the loop of drawing ellipses and moving right.</p></figcaption></figure>
 
 Essentially, we are are drawing a new circle every 100 pixels, and we may be tempted to write a conditional statement that says something to that effect. However, students will find this conditional doesn't work as intended, and that is because conditionals are not meant to act as loops. Conditionals run once, and once the condition is met, they stop running. (Albeit in the draw function, which is called repeatedly, it can appear as if the loop is repeating.)
 
