@@ -140,7 +140,7 @@ For students who need an extra spicy challenge, ask them to try to recreate one 
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Row of concentric, differently colored circles looking like targets.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Row of red 😐 faces.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Row of red 😐 faces.</p></figcaption></figure>
 
 **Alternately, or in addition, students may take a design they have created previously and try to get it to repeat in a while loop, or build a new custom design that will be repeated.**
 

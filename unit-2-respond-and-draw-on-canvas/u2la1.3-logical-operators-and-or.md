@@ -79,7 +79,7 @@ Ask students to look at both image 1 and image 2. They have to explain how Jose 
 
 Note: Creating a chart like the one below may help some students better understand logical operators. Use the images above and the chart in conjunction to explain 'and' and 'or.'
 
-<figure><img src="../.gitbook/assets/image (6) (3) (1).png" alt=""><figcaption><p>Image showing tables of outcomes for values of a/b using and/or</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (3) (1) (1).png" alt=""><figcaption><p>Image showing tables of outcomes for values of a/b using and/or</p></figcaption></figure>
 
 Ask students:
 
