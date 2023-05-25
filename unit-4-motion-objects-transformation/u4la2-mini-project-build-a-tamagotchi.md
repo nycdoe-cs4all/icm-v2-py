@@ -12,7 +12,7 @@ The most basic version of this project does not requier anything extra, although
 
 ### Prompt
 
-<figure><img src="../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>Tamagotchi</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Tamagotchi</p></figcaption></figure>
 
 One of the biggest toy fads of the mid '90s to early '00s was the [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi) ([commercial 1](https://youtu.be/DAahOV63\_wA) | [commercial 2](https://youtu.be/G-dnRcAekBU)). As kids may need more context, consider this [4 minute 90s rewind on digital pets](https://youtu.be/teNYpJ32stY). This was a little virtual pet that lived on a small piece of hardware attached to the keychain. When users turned it on, the pet would begin as an egg, and using simple buttons you would care for it's needs (feeding it, playing with it, training it, etc) which changed in real time. Early versions did not have a pause button, making it _very stressful_ to keep a Tamagotchi alive.
 

@@ -74,7 +74,7 @@ In Math, if we have a single point - let’s say `(0,0)` - and translate it by `
 
 Using the translate() function we can achieve this. This function can shift the coordinate system left, right, up, and down. Moving the coordinate system is called translation.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>image of translate(x, y, [z]) with x and y annotated for their purpose</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>image of translate(x, y, [z]) with x and y annotated for their purpose</p></figcaption></figure>
 
 **NB:** _The z-axis is only relevant if we are working in 3 dimensions (or layering in interesting ways), which is why it's optional!_
 

@@ -76,7 +76,7 @@ _Have students create 5 equidistant ellipses._
 
 Open a new sketch, name it U3LA1 While loops and recreate the image below
 
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>A row of five equally spaced, congruent ellipses</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption><p>A row of five equally spaced, congruent ellipses</p></figcaption></figure>
 
 Ask students to do the following:
 
@@ -140,7 +140,7 @@ For students who need an extra spicy challenge, ask them to try to recreate one 
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Row of concentric, differently colored circles looking like targets.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Row of red 😐 faces.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Row of red 😐 faces.</p></figcaption></figure>
 
 **Alternately, or in addition, students may take a design they have created previously and try to get it to repeat in a while loop, or build a new custom design that will be repeated.**
 

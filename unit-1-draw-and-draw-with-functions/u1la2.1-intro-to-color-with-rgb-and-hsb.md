@@ -72,7 +72,7 @@ There are many wonderful examples of color theory at work in our world. A useful
 
 Imagine a computer program is going to draw three, semi-transparent overlapping circles. This means where they cross, the colors will mix and create a new color. What do you think those colors will be?
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Three overlapping circles with '1' between red and green, '2' between red and blue, '3' between blue and green, and 4 between all colors.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>Three overlapping circles with '1' between red and green, '2' between red and blue, '3' between blue and green, and 4 between all colors.</p></figcaption></figure>
 
 ### Working with Colors in Processing.py (\~7 - 10 minutes)
 

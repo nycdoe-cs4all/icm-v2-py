@@ -71,7 +71,7 @@ In your notebooks, draw a quick coordinate plane. Then, draw a circle with a cen
 
 _A big takeaway in this problem is that at each point, the y and x have different values and are changing at slightly different rates, but they are both oscillating between two opposite numbers, much the way sine oscillates between -1 and 1. In order to create circular movement, you cannot just use sine, as a sine for y and x would just make a motion with a rate of change of 1 that moves at a diagonal. If students struggle with this later, demo in Processing.py._
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Graphs of circles on a coordinate plane explaining increasing/decreasing x/y values</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Graphs of circles on a coordinate plane explaining increasing/decreasing x/y values</p></figcaption></figure>
 
 ### Cosine and Sine (\~7 - 10 min)
 
@@ -79,11 +79,11 @@ _A big takeaway in this problem is that at each point, the y and x have differen
 
 **`cos()`** calculates the cosine of an angle. This function takes into account the current `angleMode`. Values are returned in the range `-1` to `1.`
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Cosine graph</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Cosine graph</p></figcaption></figure>
 
 Cosine is similar, but different, to sine, as it is technically the ratio between the adjacent side and the hypotenuse of a right triangle given an angle. It is not important for students to fully understand this difference, but they should grasp - especially later in the lesson - that cosine and sine produce different values for given angles. This allows you to create circular motion and is best illustrated in the graph below:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Graph displaying sine and cosine in different colors</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Graph displaying sine and cosine in different colors</p></figcaption></figure>
 
 If students struggle to understand why this is necessary, at the end of Exercise #1, consider trying to draw the circle using sine to control both the x and y position and take a look at what happens. (It should create movement in a straight but diagonal line, as an identical change in y over an identical change in x results in an overall change/slope of 1)
 

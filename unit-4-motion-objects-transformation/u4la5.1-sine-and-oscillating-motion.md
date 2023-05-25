@@ -95,7 +95,7 @@ Way back when the ancient Greeks (shout out Pythagoras) noticed some very intere
 
 This relationship is shown in the diagram below. Note that as the angle increases in size, so does the value of **sine**, but once sine hits 1, it starts heading back down to -1, and then back up towards 1.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>A sine wave is created by tracing the sine values of an angle that moves around a circle</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>A sine wave is created by tracing the sine values of an angle that moves around a circle</p></figcaption></figure>
 
 ### Sine in Processing.py (\~7 - 12 minutes)
 
