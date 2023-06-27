@@ -6,7 +6,7 @@ description: >-
 
 # Curriculum Overview
 
-### 🚧 🚜 **UNDER CONSTRUCTION - STILL BEING BUILT!**🚜 **🚧**
+### 🚧 🚜 **UNDER CONSTRUCTION - UNIT 5 COMING!**🚜 **🚧**
 
 **This curriculum is Version 2.0 of our** [**original ICM curriculum**](https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/) **using the Python version of Processing.** It moves a little quicker (in a different language!) and aims to hit all standards from the Computational Thinking category of the NYS Computing Standards. [_Looking for ICM Version 2.0 in p5.js?_](https://cs4all-icm.gitbook.io/js-intro-to-computational-media-2.0/)
 
