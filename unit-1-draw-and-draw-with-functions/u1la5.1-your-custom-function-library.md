@@ -47,7 +47,7 @@ _This could easily become a two-period lesson if you would like students to spen
 
 ### Resources
 
-[Custom Functions Library Template](https://docs.google.com/document/d/1MKkSp\_oyJYV0cvdfcATLITd-q-\_YveoK11-QAthf-ps/copy)
+[Custom Functions Library Template](https://docs.google.com/document/d/1bR9zA3v2dURl3GDlJexQrXrYsyCv1d1PG6d9IwtHPnM/copy)
 
 ### Assessments
 

@@ -55,7 +55,7 @@ Students should be able to:
 * NEED VIDEO FOR COLLIDE2D WITH PYTHON
 * Hover Reaction Starter Code ([Trinket](https://trinket.io/python/f343d479e6))
 * Hover on Shapes Starter Code ([Trinket](https://trinket.io/python/9eee468991))
-* Extra Practice Starter Code (Trinket)
+* Extra Practice Starter Code ([Trinket](https://trinket.io/python/3953245969))
 
 ### Assessments
 
