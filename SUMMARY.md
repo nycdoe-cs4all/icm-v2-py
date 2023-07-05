@@ -2,6 +2,7 @@
 
 * [Curriculum Overview](README.md)
 * [How to Use this Curriculum](how-to-use-this-curriculum.md)
+* [📬 Leave Us Feedback](leave-us-feedback.md)
 
 ## Curriculum Extras
 
