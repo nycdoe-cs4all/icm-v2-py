@@ -21,7 +21,3 @@ Unit 1 Material
 Formative Assessments are given during each lesson.&#x20;
 
 Summative Assessments include the Light Switch Game and Drawing Application.
-
-### Overview of Instructional Materials
-
-Below we have broken each learning activity down into succinct lessons. We have also structured lessons to promote best practices in pedagogy and student engagement, as well as including our own suggestions for implementation.
