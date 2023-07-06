@@ -1,5 +1,7 @@
 ---
-description: How do the parameters of function effect positioning on the p5 canvas?
+description: >-
+  How do the parameters of function effect positioning on the Processing.py
+  canvas?
 ---
 
 # U1LA1.2 Line Functions and Parameters
