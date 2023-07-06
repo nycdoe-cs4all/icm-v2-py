@@ -1,8 +1,8 @@
 ---
-description: How can we break down a robot into basic shapes in p5.js?
+description: How can we break down a robot into basic shapes in Processing.py?
 ---
 
-# U1LA1.1: p5.js Introduction & Deconstruction
+# U1LA1.1: Processing.py Introduction & Deconstruction
 
 ### Teacher Notes and Overview
 
@@ -76,16 +76,12 @@ In this lesson, students will be introduced to the Processing.py canvas and coor
 
 ### Do Now/Warm Up (\~5 min)
 
-Have your students sign up for a repl.it account here:
-
-{% embed url="https://repl.it/" %}
-Link to sign up for repl.it
-{% endembed %}
+Have your students sign up for a [Trinket account](https://trinket.io/).
 
 They can easily create with these options:
 
 * Google account
-* GitHub
+* Clever account
 * Email
 
 After they’re done signing up, ask them to close their laptops or turn around with their attention to you (if in a lab).
