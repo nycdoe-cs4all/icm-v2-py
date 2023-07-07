@@ -91,7 +91,7 @@ Ask students to take a moment to _document_ their function by writing a multi-li
 
 ### Sharing Functions && Documentation (\~7 - 12 minutes)
 
-Share students on the [Custom Functions Library Template.](https://docs.google.com/document/d/1MKkSp\_oyJYV0cvdfcATLITd-q-\_YveoK11-QAthf-ps/copy)
+Share students on the [Custom Functions Library Template](https://docs.google.com/document/d/1bR9zA3v2dURl3GDlJexQrXrYsyCv1d1PG6d9IwtHPnM/copy).
 
 Please note that you should just make one per class - in especially large classes, you may have students do this in batches.
 

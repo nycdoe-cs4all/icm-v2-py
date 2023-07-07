@@ -39,7 +39,7 @@ The do-now introduces a headache to make students care about the built-in width 
 * **`height` -** system variable that holds height of canvas as declared in setup
 * **`mouseX` -** system variable that holds the current x-position of the mouse
 * **`mouseY` -** system variable that holds the current y-position of the mouse
-* **`console.log()` -** a function that logs a value to the console when the program is run.
+* **`print()` -** a function that logs a value to the console when the program is run.
 
 **Pre-Req Vocab:**
 
@@ -55,7 +55,7 @@ The do-now introduces a headache to make students care about the built-in width 
 ### Resources
 
 * Need video on variables in python
-* Need variables on mouseX, mouseY, random() in python
+* Need video on mouseX, mouseY, random() in python
 * Do Now Starter Code ([Trinket](https://trinket.io/python/0c6b0dff7a))
 * Blank Starter Code ([Trinket](https://trinket.io/python/db10a38077))
 
