@@ -100,7 +100,7 @@ Explain to students that you are going to practice the idea of defining function
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-12-13 at 2.12.11 PM.png" alt=""><figcaption><p>Side by side comparison of a mystery function in Python and DeltaMath</p></figcaption></figure>
 
-Display both and explain the similarities and differences as you walk through how to read the code and how to map out their thinking to determine an answer. Here, we would see that a = 5, b = 6, and c = -4, so when we substitute, we would be returning 6 - 5 - -4 which gets saved to the variable `ans`. When we `print(ans)`/`DISPLAY(ans)` we thus end up with an answer of 3.
+Display both and explain the similarities and differences as you walk through how to read the code and how to map out their thinking to determine an answer. Here, we would see that a = 5, b = 6, and c = -4, so when we substitute, we would be returning 6 - 5 - -4 which gets saved to the variable `ans`. When we `print(ans)`/`DISPLAY(ans)` we thus end up with an answer of 5.
 
 After going through one as a class, ask students to attempt the following independently. **You may wish to give this question as a post-it note check so you can collect student answers and group for remediation as students move into independent practice on DeltaMath.**
 
