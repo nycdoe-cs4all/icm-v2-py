@@ -60,7 +60,7 @@ _Use your best judgment in timing! This lesson can easily be completed in one pe
 
 * NEED COLLIDE AND CLICK VIDEO FOR PYTHON
 * Starter Code - Completed in Last Lesson ([Trinket](https://trinket.io/python/9eee468991))
-* Blank Template w/ Collision Library ([Trinket](https://trinket.io/python/d30c563050) | [Documentation](https://github.com/cmorgantywls/collidewithprocessingpy))
+* Blank Template w/ Collision Library ([Trinket](https://bit.ly/collidepy) | [Documentation](https://github.com/cmorgantywls/collidewithprocessingpy))
 
 ### Assessments
 
