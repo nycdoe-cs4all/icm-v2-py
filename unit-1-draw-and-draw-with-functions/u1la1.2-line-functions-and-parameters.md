@@ -58,7 +58,7 @@ Students will be able to:
 * [Processing.py Reference Sheet](https://py.processing.org/reference/)
 * [Line Worksheet](https://docs.google.com/document/d/14mDvlCxeFW6elTAi1RMNdzJZv0ZZVKv3HXlK8hRfNOk/preview)
 * [Simplified Blank Editor w/ Text Coordinates](https://trinket.io/python/db10a38077) (Trinket.io)
-* Basics of Drawing (NEED TO CREATE PYTHON VERSION)
+* [Introduction to Trinket and Canvas](https://youtu.be/AUdf3dsdR0o) (Youtube Video)
 * (Optional) [Desmos Coordinate Grid Activity](https://teacher.desmos.com/activitybuilder/custom/5f73248eba4291305a86cf50)
 * (Optional) [Desmos Coordinate Grid Tool](https://www.desmos.com/calculator/o75y8av9jw)
 
