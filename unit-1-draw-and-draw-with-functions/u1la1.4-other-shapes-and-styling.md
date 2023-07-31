@@ -57,7 +57,8 @@ _This timing will depend on how comfortable with documentation and coding your s
 * [Processing.py Reference Sheet](https://py.processing.org/reference/)
 * [Blank Reference Sheet Worksheet](https://docs.google.com/document/d/1DQvWNCJaGxc90KLN7ohWrHnh7jJdCHb1WPdplc2NcuA/copy)
 * [Blank Project w/ Coordinate Text](https://trinket.io/library/trinkets/db10a38077) (Trinket)
-* Styling Shapes (MAKE VIDEO) | [Starter Code](https://trinket.io/python/79ede85278) (Trinket)
+* [Arcs and Other Shapes](https://youtu.be/svEcjSUZ6ME) (Youtube Video)
+* [Styling Shapes](https://youtu.be/3HWNJakPlS4) (Youtube Video) | [Starter Code](https://trinket.io/python/79ede85278) (Trinket)
 
 ### Assessments
 
