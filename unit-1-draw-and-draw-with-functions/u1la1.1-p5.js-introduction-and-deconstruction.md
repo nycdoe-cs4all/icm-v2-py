@@ -54,7 +54,7 @@ In this lesson, students will be introduced to the Processing.py canvas and coor
 ### Resources
 
 * [Robot Worksheet Handout](https://drive.google.com/file/d/1CFJLhiHEBTQPxqTaNxESPxpc7F0Yto4D/preview)
-* Intro to Editor && Hello Ellipse (NEED TO CREATE VIDEO)
+* [Intro to Editor && Hello Ellipse](https://youtu.be/AUdf3dsdR0o)
 * (Optional) [Desmos p5 Coordinate Grid Activity](https://teacher.desmos.com/activitybuilder/custom/5f73248eba4291305a86cf50)
 * (Optional) [Desmos p5 Coordinate Grid Tool](https://www.desmos.com/calculator/o75y8av9jw)
 
