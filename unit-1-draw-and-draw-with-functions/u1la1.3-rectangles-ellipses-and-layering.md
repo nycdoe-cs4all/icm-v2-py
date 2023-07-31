@@ -65,11 +65,10 @@ _This lesson provides opportunities for pair programming. Please note that paire
 
 ### Resources
 
-* Basics of Drawing (NEED TO MAKE PYTHON VERSION)
 * [Layering Example](https://trinket.io/python/16972efcd9)
 * [Robot Worksheet](https://drive.google.com/file/d/1ZmERZDHhM4A7TB27mQcxrcPJeAi5Z0m8/view?usp=sharing)
-* Intro to Editor && Hello Ellipse (NEED TO MAKE PYTHON VERSION)
-* Intro to Rectangle (NEED TO MAKE PYTHON VERSION)
+* [Intro to Editor and Hello Ellipse ](https://youtu.be/AUdf3dsdR0o)(Youtube Video)
+* Rectangles and Layering (NEED TO MAKE PYTHON VERSION)
 
 ### Assessments
 
