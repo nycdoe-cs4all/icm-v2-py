@@ -54,8 +54,7 @@ The do-now introduces a headache to make students care about the built-in width 
 
 ### Resources
 
-* Need video on variables in python
-* Need video on mouseX, mouseY, random() in python
+* [Using System Variables](https://youtu.be/ZbeD\_TpJD5U) (Youtube Video)
 * Do Now Starter Code ([Trinket](https://trinket.io/python/0c6b0dff7a))
 * Blank Starter Code ([Trinket](https://trinket.io/python/db10a38077))
 
