@@ -58,10 +58,11 @@ There are many wonderful examples of color theory at work in our world. A useful
 ### Resources
 
 * RGB Partner Practice Starter Code ([Trinket](https://trinket.io/python/615538d496))
-* NEED WORKING WITH COLOR VIDEO AND OPT INDEPENDENT CODE | RGB Independent Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/hX-nR7Q6o) | [repl.it](https://replit.com/@qrtnycs4all/U1LA32-Intro-to-Color-fill-Independent-Practice#script.js))
+* RGB Independent Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/hX-nR7Q6o) | [repl.it](https://replit.com/@qrtnycs4all/U1LA32-Intro-to-Color-fill-Independent-Practice#script.js))
 * HSB Color Application Practice ([Trinket](https://trinket.io/python/eafc6104db))
 * [HSB Color System](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
-* [HSB Color Mode](https://youtu.be/lt1lDp2aFLQ) (Youtube Video) <-- NEED PYTHON VERSION
+* [Colors with RGB and HSB in Python](https://youtu.be/EsIuDE4Ey\_E) (Youtube Video)
+* [HSB Color Mode](https://youtu.be/lt1lDp2aFLQ) - JavaScript Version (Youtube Video)
 * [Adobe Color Picker](https://color.adobe.com/create/color-wheel) | [HTML Color Codes](https://htmlcolorcodes.com/color-picker/)
 
 ### Assessments
