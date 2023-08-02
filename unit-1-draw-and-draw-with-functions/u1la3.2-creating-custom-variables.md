@@ -54,8 +54,8 @@ A solid period is devoted to variable practice using DeltaMath. This is **strong
 ### Resources
 
 * Do Now Starter Code ([Trinket](https://trinket.io/python/21a660caa2))
-* NEED VIDEO TUTORIAL
-* NEED LINK TO VARIABLE EXAMPLES
+* [Creating and Using Custom Variables](https://youtu.be/hKULftix1gM) (Youtube Video)
+* [Variables in Python](https://www.w3schools.com/python/python\_variables.asp) (Extra Learning Resource)
 
 ### Assessments
 
