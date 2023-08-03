@@ -47,6 +47,7 @@ This lesson's goals are three-fold: first, to get students used to the idea of r
 ### Resources
 
 * Do Now && Lesson Starter Code ([Trinket](https://trinket.io/python/5bb4793361))
+* [Using the Random Function](https://youtu.be/9b-2Gga9Qn8) (Youtube Video)
 * [Coding Train: Random Function](https://www.youtube.com/watch?v=POn4cZ0jL-o) (Youtube Video) NEED PYTHON VERSION
 
 ### Assessments
