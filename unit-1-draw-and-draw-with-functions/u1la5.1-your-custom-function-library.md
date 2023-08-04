@@ -49,6 +49,8 @@ _This could easily become a two-period lesson if you would like students to spen
 
 [Custom Functions Library Template](https://docs.google.com/document/d/1bR9zA3v2dURl3GDlJexQrXrYsyCv1d1PG6d9IwtHPnM/copy)
 
+[Custom Functions Libraries](https://youtu.be/eT8\_oi7FfmQ) (Youtube Video)
+
 ### Assessments
 
 **Formative:**

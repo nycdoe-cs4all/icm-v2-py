@@ -47,7 +47,7 @@ _Review:_
 
 ### Resources
 
-* NEED YOUTUBE VIDEO OF CODING FUNCTION
+* [Draw with Functions](https://youtu.be/iaKjQI2FPHE) (Youtube Video)
 * Lesson Starter Code ([Trinket](https://trinket.io/python/57a789a162))
 
 ### Assessments
