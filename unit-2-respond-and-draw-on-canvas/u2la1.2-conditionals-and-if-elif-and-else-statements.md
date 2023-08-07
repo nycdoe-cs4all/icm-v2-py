@@ -51,8 +51,9 @@ _**7-8.CT.8** Develop or remix a program that reffectively combiens or or more c
 
 ### Resources
 
-* NEED VIDEO TUTORIAL FOR PYTHON
+* [Elif Off Canvas](https://youtu.be/fho5kqqD-ac) (Youtube Video)
 * Elif Off the Canvas Starter Code ([Trinket](https://trinket.io/python/2eb97c3299))
+* [Conditionals on the Canvas](https://youtu.be/p60e7Gkql8k) (Youtube Video)
 * Conditionals on the Canvas Starter Code ([Trinket](https://trinket.io/library/trinkets/c53d1a0b5b))
 * Do Now Starter Code ([Trinket](https://trinket.io/python/1e78390475))
 
