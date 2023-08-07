@@ -54,9 +54,10 @@ Students should be able to:
 
 ### Resources
 
-* NEED VIDEO ON CONDITIONALS IN PYTHON
+* [Introduction to Conditionals Off Canvas](https://youtu.be/xifuHrgUXk0) (Youtube Video)
 * [Pseudocode Conditionals Worksheet](https://docs.google.com/document/d/17LyXObvxcdjTDSCO8O5r3nWQV2TXEFS3lEg\_xMRtiPs/copy)
 * [Pseudocode Conditionals](https://youtu.be/1CJaGL9dQBA) (Youtube Video)&#x20;
+  * **NB**: _This pseudocode walkthrough is based off of JavaScript, but your worksheet will reflect Python syntax._
 * Conditionals Off Canvas Starter Code ([Trinket](https://trinket.io/python/19a09d8f12))
 
 ### Assessments
