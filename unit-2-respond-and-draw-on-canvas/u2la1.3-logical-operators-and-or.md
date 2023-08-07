@@ -55,7 +55,7 @@ _**7-8.CT.8** Develop or remix a program that effectively combines one or more c
 ### Resources
 
 * And/Or Starter Code ([Trinket](https://trinket.io/python/e0b5c2fe4d))
-* NEED VIDEO TUTORIAL IN PYTHON
+* [Logical Operators on Canvas](https://youtu.be/0kyuc5hNIbE) (Youtube Video)
 
 ### Assessments
 
