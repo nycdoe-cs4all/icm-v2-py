@@ -49,7 +49,7 @@ Students will be able to:
 
 * [Scavenger Hunt Worksheet](https://docs.google.com/document/d/1EybwAhYC1O6IiWEWAqvN30pXi-3Yyn-7DxMz66\_u4d0/edit) (Google Doc)
 * Scavenger Hunt Starter Code ([Trinket](https://trinket.io/python/d9f2093c1e))
-* NEED VIDEO ON DATA TYPES IN PYTHON
+* [Data Types in Python](https://www.youtube.com/watch?v=KrToaEvDzdk\&ab\_channel=365DataScience) (Youtube Video)
 
 ### Assessments
 
