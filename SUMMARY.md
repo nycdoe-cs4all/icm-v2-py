@@ -67,10 +67,6 @@
 * [🗃 U3LA3 Mini Project: Vision Board](unit-3-loops-arrays-media/u3la3-mini-project-vision-board.md)
 * [🎨 Unit 3 Final Project: Random Meme Generator](unit-3-loops-arrays-media/unit-3-final-project-random-meme-generator.md)
 
-***
-
-* [LESSON TEMPLATE](lesson-template.md)
-
 ## Unit 4: Motion, Objects, Transformation
 
 * [U4LA1.1: Intro to Motion with Flipbooks](unit-4-motion-objects-transformation/u4la1.1-intro-to-motion-with-flipbooks.md)

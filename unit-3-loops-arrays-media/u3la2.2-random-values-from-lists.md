@@ -57,7 +57,7 @@ Students will be able to:
 
 * NEED RANDOM/LIST PYTHON VIDEO
 * [`random()` in Processing.Py](https://py.processing.org/reference/random.html) (Reference Sheet)
-* [Python List Methods](http://localhost:5000/s/oF62wG4MMbP5xRgX3R88/) (W3 Schools)
+* [Python List Methods](http://127.0.0.1:5000/s/oF62wG4MMbP5xRgX3R88/) (W3 Schools)
 * **Optional:** [**`random.choice()`**](https://pynative.com/python-random-choice/) (Extension)
 
 ### Assessments

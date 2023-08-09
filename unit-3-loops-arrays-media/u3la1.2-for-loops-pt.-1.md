@@ -47,7 +47,7 @@ Students will be able to:
 ### Resources
 
 * NEED FOR LOOP PYTHON VIDEO
-* Python For Loops ([W3 Schools](http://localhost:5000/s/mX4RubbWI5h0C0nJu6Na/))
+* Python For Loops ([W3 Schools](http://127.0.0.1:5000/s/mX4RubbWI5h0C0nJu6Na/))
 * Styling For Loops Starter Code ([Trinket](https://trinket.io/library/trinkets/856bc608b0))
 
 ### Assessments
