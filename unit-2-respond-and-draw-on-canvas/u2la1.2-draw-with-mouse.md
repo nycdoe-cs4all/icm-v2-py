@@ -51,8 +51,7 @@ Students will be able to:
 ### Resources
 
 * Lesson Starter Code ([Trinket](https://trinket.io/python/c2a59291d6))
-* NEED DICTIONARY VIDEO IN PYTHON
-* NEED DRAW WITH MOUSE VIDEO IN PYTHON
+* [Draw with Mouse and Dictionaries](https://youtu.be/ucEG2wjoY-c) (Youtube Video)
 
 ### Assessments
 
