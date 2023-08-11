@@ -52,6 +52,8 @@ Students will be able to:
 
 * Lesson Starter Code ([Trinket](https://trinket.io/python/c2a59291d6))
 * [Draw with Mouse and Dictionaries](https://youtu.be/ucEG2wjoY-c) (Youtube Video)
+* [Python Dictionaries](https://www.w3schools.com/python/python\_dictionaries.asp) (W3 Schools)
+* [Python Dictionaries](https://www.youtube.com/watch?v=daefaLgNkw0\&ab\_channel=CoreySchafer) (Youtube Video)
 
 ### Assessments
 

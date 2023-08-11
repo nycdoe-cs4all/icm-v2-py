@@ -45,8 +45,10 @@ Students should be able to:
 
 ### Resources
 
-* NEED PYTHON YOUTUBE VIDEO ON MAP FUNCTION
+* [Map Function in Processing.py](https://youtu.be/\_3XHCvYAl7g) (Youtube Video)
 * Map Function Starter Code ([Trinket](https://trinket.io/library/trinkets/e9c1ef04d7))
+* [Python Dictionaries](https://www.w3schools.com/python/python\_dictionaries.asp) (W3 Schools)
+* [Python Dictionaries](https://www.youtube.com/watch?v=daefaLgNkw0\&ab\_channel=CoreySchafer) (Youtube Video)
 
 ### Assessments
 
