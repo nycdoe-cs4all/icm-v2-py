@@ -19,7 +19,7 @@ We are better today; we have the tools needed to build our very own, Processing.
 1. Create a program that allows you to draw with the mouse - this can be by simply moving it, or only when clicked.
 2. Create at least 4 buttons that will control different aspects of the program, such as color changes.&#x20;
 3. Create at least 4 key press reactions that will control different aspects of the program, such as brush type.&#x20;
-4. Utilize objects to control multiple attributes of the same element (such as the drawing tool), or the same attribute of multiple elements (such as the button colors).
+4. Utilize dictionaries to control multiple attributes of the same element (such as the drawing tool), or the same attribute of multiple elements (such as the button colors).
 5. Create functions to control any repeated code and make your program as efficient as possible.
 6. Make sure the user understands how to use your program!
 7. **EXTEND YOUR WORK:** If you finish the above requirements, look into some of the extensions below!
