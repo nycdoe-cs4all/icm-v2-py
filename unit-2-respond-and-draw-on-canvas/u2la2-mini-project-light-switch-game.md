@@ -22,7 +22,7 @@ _Work with a partner to complete the following:_
 
 1. Create a game with at least six clickable buttons.&#x20;
 2. Create a flowchart of your game so you can guarantee that there is a combination of switches that you can click to turn them all on, solving the puzzle.&#x20;
-3. Create a Processing.py program where each switch turns a combination of lights on and/or off. **Utilize an object to store the colors (or whatever property you are changing) for all of the lights!**&#x20;
+3. Create a Processing.py program where each switch turns a combination of lights on and/or off. **Utilize a dictionary to store the colors (or whatever property you are changing) for all of the lights!**&#x20;
 4. Look for places of repeated code - **can these be abstracted into functions?**
 5. Add any necessary design elements to make this game look appealing!
 
