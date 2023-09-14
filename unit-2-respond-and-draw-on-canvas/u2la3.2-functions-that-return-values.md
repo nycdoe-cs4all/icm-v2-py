@@ -56,7 +56,8 @@ _**Review:**_
 
 * [Algorithm Cards](https://docs.google.com/presentation/d/1lNv8WDCP4hB40Xhh6qL0UiFRe298AiZsYPrtlbKX6-Q/copy) - print and cut out for student use
 * [DeltaMath.com](https://www.deltamath.com/)
-* [Functions that Return Values](https://youtu.be/qRnUBiTJ66Y) (Youtube Video)
+* [Functions that Return Values](https://youtu.be/qRnUBiTJ66Y) (p5.js focused Youtube Video)
+* [Functions that Return Value - Rect Function](https://youtu.be/LEtycFvicSg) (Youtube Video)
 
 ### Assessments
 
