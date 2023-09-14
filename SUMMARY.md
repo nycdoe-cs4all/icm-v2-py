@@ -87,3 +87,4 @@
 ## Unit 5: Final Project
 
 * [🔮 Unit 5 Overview](unit-5-final-project/unit-5-overview.md)
+* [🎨 Course Final Project Guide](unit-5-final-project/course-final-project-guide.md)
