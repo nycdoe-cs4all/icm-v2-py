@@ -58,7 +58,7 @@ _Use your best judgment in timing! This lesson can easily be completed in one pe
 
 ### Resources
 
-* NEED COLLIDE AND CLICK VIDEO FOR PYTHON
+* [mousePressed Two Ways](https://youtu.be/2TQR7qI96Yg) (Youtube Video)
 * Starter Code - Completed in Last Lesson ([Trinket](https://trinket.io/python/9eee468991))
 * Blank Template w/ Collision Library ([Trinket](https://bit.ly/collidepy) | [Documentation](https://github.com/cmorgantywls/collidewithprocessingpy))
 
