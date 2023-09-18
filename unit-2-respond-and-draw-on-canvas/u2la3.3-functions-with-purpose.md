@@ -6,9 +6,9 @@ description: How can I abstract processes for clarity and reuse?
 
 ### Teacher Notes and Overview
 
-**This lesson could, if necessary, be considered optional, as it does not build onto the p5.js library, but rather focuses on fundamental JavaScript skills in building functions. Time permitting, we strongly recommend you give it a go with students to stretch their logic muscles and give them a shot at something new!**
+**This lesson could, if necessary, be considered optional, as it does not build onto the Processing.py library, but rather focuses on fundamental Python skills in building functions. Time permitting, we strongly recommend you give it a go with students to stretch their logic muscles and give them a shot at something new!**
 
-All of the sample prompts come from a website called CodeWars where we recommend students practice their code (and submit answers to you by copy/pasting into a Google Form). If you cannot handle using another platform in your class, this could be all done in the p5 editor or any other IDE, but it would lack the benefit of having the sample testing for students to know if they were correct or not.
+All of the sample prompts come from a website called CodeWars where we recommend students practice their code (and submit answers to you by copy/pasting into a Google Form). If you cannot handle using another platform in your class, this could be all done in the Trinket editor or any other IDE, but it would lack the benefit of having the sample testing for students to know if they were correct or not.
 
 ### Objectives
 
@@ -49,6 +49,7 @@ _No new vocabulary words introduced in this lesson._
 ### Resources
 
 * [CodeWars Worksheet](https://docs.google.com/document/d/1c4KQ2SBmgJlGRtva3tmKWgNykgeEWgfoSkiiL\_j3j-c/copy) (Google Doc)&#x20;
+* [Functions with Purpose pt 2](https://youtu.be/DXQq9THNpFE) (Youtube Video)
 * [CodeWars Website](https://www.codewars.com/)
 
 ### Assessments
