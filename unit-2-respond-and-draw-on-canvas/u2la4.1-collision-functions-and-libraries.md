@@ -52,7 +52,7 @@ Students should be able to:
 ### Resources
 
 * [Collide2D Library \[PY\] Documentation](https://github.com/cmorgantywls/collidewithprocessingpy) | Blank Sketch w/ Collide2D Linked ([Trinket](https://trinket.io/python/d30c563050))
-* NEED VIDEO FOR COLLIDE2D WITH PYTHON
+* [Collision Library and Hover Reactions](https://youtu.be/cVSXkAbb\_cI) (Youtube Video)
 * Hover Reaction Starter Code ([Trinket](https://trinket.io/python/f343d479e6))
 * Hover on Shapes Starter Code ([Trinket](https://trinket.io/python/9eee468991))
 * Extra Practice Starter Code ([Trinket](https://trinket.io/python/3953245969))
