@@ -10,10 +10,16 @@ The unit introduces new code concepts but relies heavily on the basics that have
 
 ### Suggested Duration
 
-
+18 - 28 Days
 
 ### Pre-Req
 
-
+Unit 1 and Unit 2 Skills
 
 ### Assessment
+
+Formative Assessments delivered in each lesson
+
+Wallpaper, Fortune Teller, and Vision Board Mini Projects
+
+Random Meme Generator Final Project
