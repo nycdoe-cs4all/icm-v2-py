@@ -6,7 +6,7 @@ description: How can we use iteration to abstract artwork?
 
 ### Teacher Notes and Overview
 
-\[COME BACK AT THE END]
+In this lesson, students will learn how to draw using for loops and the differences between a for and while loop. They will explore drawing shapes and styling shapes using an interating variable.
 
 ### Objectives
 
