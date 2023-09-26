@@ -188,7 +188,7 @@ def draw():
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
-    arc(200, 200, 100, 100, radians(90), radians(270)
+    arc(200, 200, 100, 100, radians(90), radians(270))
     
 
 
