@@ -10,6 +10,7 @@
 * [Imposter Syndrome (pt. 1)](curriculum-extras/imposter-syndrome-pt.-1/README.md)
   * [Imposter Syndrome (pt. 2)](curriculum-extras/imposter-syndrome-pt.-1/imposter-syndrome-pt.-2.md)
 * [Timers in Processing.py](curriculum-extras/timers-in-processing.py.md)
+* [Time Functions: Crazy Clock Mini Project](curriculum-extras/time-functions-crazy-clock-mini-project.md)
 
 ## Unit 1: Draw & Draw With Functions
 

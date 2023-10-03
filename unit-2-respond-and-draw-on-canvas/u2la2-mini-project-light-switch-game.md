@@ -2,7 +2,7 @@
 description: Unit 2 Mini Project Light Switch Game
 ---
 
-# U2LA2 Mini Project: Light Switch Game
+# 🗃 U2LA2 Mini Project: Light Switch Game
 
 ### Prompt
 

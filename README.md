@@ -6,7 +6,7 @@ description: >-
 
 # Curriculum Overview
 
-### 🚧 🚜 **UNDER CONSTRUCTION - UNIT 5 COMING!**🚜 **🚧**
+### 🚧 🚜 **CURRICULUM EXTRAS RESOURCES BEING ADDED** 🚜 **🚧**
 
 **This curriculum is Version 2.0 of our** [**original ICM curriculum**](https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/) **using the Python version of Processing.** It moves a little quicker (in a different language!) and aims to hit all standards from the Computational Thinking category of the NYS Computing Standards. [_Looking for ICM Version 2.0 in p5.js?_](https://cs4all-icm.gitbook.io/js-intro-to-computational-media-2.0/)
 
@@ -36,8 +36,6 @@ _Python-specific resources coming soon - the following all refer to the V. 1.0 J
 * [Computer Science with Ms. Morgan](https://www.youtube.com/channel/UCzotTG3ao\_SipHcrhKGeScQ) - _most of Version 1.0 ICM curriculum presented as YouTube videos, modified for and filmed during pandemic remote learning._
 * [The Coding Tr](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)[ain](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) - _The coding train is an amazing resource for p5 instructional videos. Dan Shiffman is amazing and you can learn anything from his channel._
 * [Intro to p5 Learning Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-
-### Ad
 
 ### Additional Tools
 
