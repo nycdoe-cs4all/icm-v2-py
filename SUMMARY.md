@@ -11,6 +11,7 @@
   * [Imposter Syndrome (pt. 2)](curriculum-extras/imposter-syndrome-pt.-1/imposter-syndrome-pt.-2.md)
 * [Timers in Processing.py](curriculum-extras/timers-in-processing.py.md)
 * [Time Functions: Crazy Clock Mini Project](curriculum-extras/time-functions-crazy-clock-mini-project.md)
+* [Pathfinding Algorithms and Facial Scanning](curriculum-extras/pathfinding-algorithms-and-facial-scanning.md)
 
 ## Unit 1: Draw & Draw With Functions
 
