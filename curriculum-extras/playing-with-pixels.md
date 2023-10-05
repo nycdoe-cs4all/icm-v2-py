@@ -4,8 +4,6 @@ description: How can I utilize the pixel values on a canvas to create interactiv
 
 # Playing with Pixels
 
-
-
 ### When to Use This Extra
 
 This lesson requires students to have a solid understanding of dictionaries, for loops, and how to import images into their program.
@@ -241,5 +239,7 @@ Get as creative as you can!
 Depending on the dedication you give to this project, you may have students just submit their work, or do some sort of gallery walk or presentation so that they can show off what they made to other people in the room.
 
 ### Extensions
+
+Look for an application of this that is more than just aesthetic! You could create a game like [Hocus Focus](https://www.hocusfocus.fun/?reddit), which has a hidden image and a bullseye drawn on top of it. In this game, as you move the mouse the size of the rectangles you draw gets smaller and smaller so the image comes more and more into focus until you can find and click the rectangle.
 
 If students are feeling adventurous, there is a function called `updatePixels()` which will update the values in the `pixels` array (which would likely necessitate repeating the steps in `setup()` to be useful to students) - they could explore this as an option after making changes to the program, for example, and it may give some students ideas of new ways to engage with their program.
