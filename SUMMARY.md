@@ -12,6 +12,7 @@
 * [Timers in Processing.py](curriculum-extras/timers-in-processing.py.md)
 * [Time Functions: Crazy Clock Mini Project](curriculum-extras/time-functions-crazy-clock-mini-project.md)
 * [Pathfinding Algorithms and Facial Scanning](curriculum-extras/pathfinding-algorithms-and-facial-scanning.md)
+* [Playing with Pixels](curriculum-extras/playing-with-pixels.md)
 
 ## Unit 1: Draw & Draw With Functions
 
