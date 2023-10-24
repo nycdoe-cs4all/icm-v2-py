@@ -222,7 +222,7 @@ Create a program that will generate a random star map each time the program is r
 
 **REQUIREMENTS**
 
-1. Create a new project and change the canvas size to read: createCanvas (`windowWidth`, `windowHeight`). _This will ensure it fills the entire window regardless of the window size!_
+1. Create a new project and change the canvas size to something large.
 2. Set a dark background and light colors for your stars.
 3. Create an empty list that you will populate with dictionaries to produce randomly placed stars. The dictionaries must have an x and y, but you can also decide on other properties like color (make them vary slightly from plain white), opacity, `strokeWeight`/`color`, etc. It's up to you if you draw tiny ellipses or points that you make bigger with `strokeWeight`!
 4. Use the now full array of random star objects to draw a star map.
