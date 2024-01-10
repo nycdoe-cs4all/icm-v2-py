@@ -16,7 +16,7 @@ Students will be able to:
 
 * Define objects and classes
 * Give examples of real life classes and objects
-* Create a class with a constructor function and generate new object instances
+* Create a class with an `__init__` function and generate new object instances
 
 ### Suggested Duration
 
@@ -65,9 +65,9 @@ What could you try to make this happen? What would be difficult or frustrating a
 
 ### Introducing: Classes and Objects (10 - 15 minutes)
 
-Students should rightfully feel like it would be annoying to manually create that many object literals and program them all to bounce. Some students may realize they could use for loops - both to generate the object literals and to animate them - but that is a stretch at this point in their learning.
+Students should rightfully feel like it would be annoying to manually create that many dictionaries and program them all to bounce. Some students may realize they could use for loops - both to generate the dictionaries and to animate them - but that is a stretch at this point in their learning.
 
-What they should start wanting is to create something that will make many versions from the same template. In the example, this would be many bouncing balls - they each have the same shape and behavior, but they may exist at different places on the canvas/have different speeds/colors/etc. Luckily, Python has something that will make this easy: the class and object.
+What they _should_ start wanting is to create something that will make many versions from the same template. In the example, this would be many bouncing balls - they each have the same shape and behavior, but they may exist at different places on the canvas/have different speeds/colors/etc. Luckily, Python has something that will make this easy: the class and object.
 
 Classes allow us to generate _objects_ which are based off of the blueprint of the class. We can think of a **class** as the template of something that should be created. That something is an **object** which has specific attributes and actions they can do. The **object** is the instance of a **class**.
 
@@ -75,9 +75,9 @@ An easy example is a waffle maker and a waffle. The Waffle Maker here represents
 
 <figure><img src="../.gitbook/assets/giphy (1).gif" alt=""><figcaption><p>Gif of waffle maker getting batter and creating a Ninja Turtles waffle</p></figcaption></figure>
 
-Another easy example are cars. There is a **car class** which is a general type of car that we understand to have an engine, four wheels, windows, breaks, a steering wheel, etc. But specific instances from that class are unique - those are our **car objects**, like pointing to a specific car or model (think VW Beetle, Toyota Camry, etc). Cars are more complex than the waffle example, but they still have things in common that come from the class and things that vary in each instance.
+Another easy example is cars. There is a **car class** which is a general type of car that we understand to have an engine, four wheels, windows, breaks, a steering wheel, etc. But specific instances from that class are unique - those are our **car objects**, like pointing to a specific car or model (think VW Beetle, Toyota Camry, etc). Cars are more complex than the waffle example, but they still have things in common that come from the class and things that vary in each instance.
 
-**Pause here and ask students:** what are things in your life that may be an object made from a class, like the examples we just gave? _This is super common in programming, so it could be things that are tech related - Tiktoks are an example of an object where the video varies, but they still have a like count, comments tied to the videos, a creator name, a caption, etc._
+**Pause here and ask students:** what are things in your life that may be an object made from a class, like the examples we just gave? _This is super common in programming, so it could be things that are tech-related - Tiktoks are an example of an object where the video varies, but they still have a like count, comments tied to the videos, a creator name, a caption, etc._
 
 Give students think and potential discussion time and then ask them to share out. These are great responses to capture on chart paper or in slides so that you can refer back to them later if students feel like they need more clarity.
 
@@ -89,7 +89,7 @@ For this example, we are going to be considering minions. What characteristics m
 
 <figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Image of three minions with different features</p></figcaption></figure>
 
-You may have a list of features that looks somthing like this:
+You may have a list of features that looks something like this:
 
 * Name
 * Number of eyes
@@ -140,7 +140,7 @@ class Minion:
 
 Here, we are saying that we will feed `theName` in when we make the object, but that value will serve as **`self.name`** for this specific instance of the class. Ditto with `theHeight`! This can all be a little confusing, but as with many things, it will make more sense with practice.
 
-Before we add more attributes, let's try to create a minion and make sure that this worked:
+Before we add more attributes, let's try to create a minion and make sure that this works:
 
 ```python
 #Define the class
@@ -191,4 +191,4 @@ Spend some time reviewing answers to the student practice - you may want to shar
 
 ### Extensions
 
-Classes and objects can be tricky, and we have only started looking at a very small amount of what they can do. Consider having students think on places in prior projects they could implement this rather than racing ahead to try a new and more difficult piece of programming.
+Classes and objects can be tricky, and we have only started looking at a very small amount of what they can do. Consider having students think on places in prior projects where they could implement this rather than racing ahead to try a new and more difficult piece of programming.
