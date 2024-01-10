@@ -102,12 +102,13 @@ Let's figure out this code will look. A basic version might be like this:
 from processing import *
 from collide2d import *
 
-x = 0 #start on left side of canvas
-
 def setup():
     size(510,350)
+    global x
+    x = 0 #start on left side of canvas
 
 def draw():
+    global x
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
@@ -121,7 +122,7 @@ draw = draw
 run()
 ```
 
-However, there are going to be a lot of qualities of this moving ball we may want to change eventually, so let's exercise good programming practices and set this variable as part of an object literal:
+However, there are going to be a lot of qualities of this moving ball we may want to change eventually, so let's exercise good programming practices and set this variable as part of a dictionary:
 
 ```python
 from processing import *
@@ -133,8 +134,13 @@ circ1 = {
 
 def setup():
     size(510,350)
+    global circ1
+    circ1 = {
+      "x":0,
+      }
 
 def draw():
+    global circ1
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
@@ -150,21 +156,22 @@ run()
 
 Notice that right now, we are adding 1 to the x position of our ellipse. What would happen if we changed that number? Give students a minute or two to experiment making the number bigger/smaller. When they come back together, ask them: if we had to give a name to what 1 is in our program right now, what might we call it? What does it control?
 
-Students should land on this idea of 'speed.' This is a great idea, and one we can use to simplify our program. So let's add this in:
+Students should land on this idea of 'speed.' This is a great idea, and one we can use to simplify our program. So let's add this into our dictionary:
 
 ```python
 from processing import *
 from collide2d import *
 
-circ1 = {
-  "x":0,
-  "xSpeed": 1,
-}
-
 def setup():
     size(510,350)
+    global circ1
+    circ1 = {
+      "x":0,
+      "xSpeed":2,
+      }
 
 def draw():
+    global circ1
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
@@ -178,7 +185,7 @@ run()
 
 ### \[OPTIONAL] Change Speed with Frame Rate
 
-**NB:** _Frame rate is touched on in other lessons. It's useful to know about, but perhaps not always the best way to control speed given that it affects the entire canvas, rather than ust a single section. Use as much or as little of this knowledge as you need to meet the needs of your learners!_
+**NB:** _Frame rate is touched on in other lessons. It's useful to know about, but perhaps not always the best way to control speed given that it affects the entire canvas, rather than just a single section. Use as much or as little of this knowledge as you need to meet the needs of your learners!_
 
 We also have another way that we can control speed while leaving that 1 just as it is!&#x20;
 
@@ -200,16 +207,17 @@ Usually, we just let Processing.py run with its default `frameRate`. However, it
 from processing import *
 from collide2d import *
 
-circ1 = {
-  "x":0,
-  "xSpeed": 1,
-}
-
 def setup():
     size(510,350)
     frameRate(2)
+    global circ1
+    circ1 = {
+      "x":0,
+      "xSpeed": 1,
+      }
 
 def draw():
+    global circ1
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
@@ -233,15 +241,16 @@ As you've noticed, eventually our ball makes it to the edge of the screen and th
 from processing import *
 from collide2d import *
 
-circ1 = {
-  "x":0,
-  "xSpeed": 1,
-}
-
 def setup():
     size(510,350)
+    global circ1
+    circ1 = {
+    "x":0,
+    "xSpeed": 1,
+    }
 
 def draw():
+    global circ1
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
@@ -264,7 +273,7 @@ In the example above, the circle would reset to the beginning each time it passe
 
 Old school carnivals have racing games where players have to hit targets or roll balls into holes to move their player - often a horse - forward to the other side. Because of the various skill levels of different people playing, the horses all travel at different speeds.
 
-Create a vertical line of circles that will all travel left to right across the screen. Each will need their own object literal to hold their individual x-position and speed; use random() to give them each a random speed so they can race!
+Create a vertical line of circles that will all travel left to right across the screen. Each will need their own dictionaryl to hold their individual x-position and speed; use `random()` to give them each a random speed so they can race!
 
 ### Wrap-Up (\~5 minutes)
 
@@ -276,7 +285,7 @@ You can also have students submit their work via Google form for grading.
 
 Modify the main exercise by asking students to do the following:
 
-* In the object literal, give each circle a name attribute.
+* In a dictionary, give each circle a name attribute.
 * Display the name of the winner on the canvas.
 * Animate an imported image
 * Create conditions so that some shapes just stop before reaching the end of the canvas (maybe that person abandoned the racing game! Consider making the place they stop random, while always having a chance to finish.)
