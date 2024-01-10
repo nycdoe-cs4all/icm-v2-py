@@ -57,21 +57,22 @@ Create an ellipse that exists on the right side of your canvas. How could you an
 
 ### Motion Review (\~3 - 5 minutes)
 
-In the Do Now, students should have created something like the following code. Review this with them and ensure everyone is on the same page of using object literals, which will come in handy later:
+In the Do Now, students should have created something like the following code. Review this with them and ensure everyone is on the same page of using dictionaries, which will come in handy later:
 
 ```python
 from processing import *
 from collide2d import *
 
-circ1 = {
-  "x":380,
-  "xSpd":3,
-}
-
 def setup():
     size(510,350)
+    global circ1
+    circ1 = {
+    "x":380,
+    "xSpd":3,
+    }
 
 def draw():
+    global circ1
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
@@ -103,20 +104,21 @@ So, taking what we learned, can we make a second circle that moves up and down i
 from processing import *
 from collide2d import *
 
-circ1 = {
-  "x":380,
-  "xSpd":3,
-}
-
-circ2 = {
-  "y":50,
-  "ySpd": 2,
-}
-
 def setup():
     size(510,350)
+    global circ1, circ2
+    circ1 = {
+    "x":380,
+    "xSpd":3,
+    }
+    
+    circ2 = {
+    "y":50,
+    "ySpd": 2,
+    }
 
 def draw():
+    global circ1, circ2
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
@@ -141,27 +143,28 @@ When something moves diagonally, it means that it is changing both its x and y p
 from processing import *
 from collide2d import *
 
-circ1 = {
-  "x":380,
-  "xSpd":3,
-}
-
-circ2 = {
-  "y":50,
-  "ySpd": 2,
-}
-
-circ3 = {
-  "x": 20,
-  "y": 20,
-  "xSpd":3,
-  "ySpd":1,
-}
-
 def setup():
     size(510,350)
+    global circ1, circ2, circ3
+    circ1 = {
+    "x":380,
+    "xSpd":3,
+    }
+    
+    circ2 = {
+    "y":50,
+    "ySpd": 2,
+    }
+    
+    circ3 = {
+    "x": 20,
+    "y": 20,
+    "xSpd":3,
+    "ySpd":1,
+    }
 
 def draw():
+    global circ1, circ2, circ3
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
@@ -176,8 +179,6 @@ def draw():
     circ3["y"] += circ3["ySpd"] #moves circ3 y axis
     
     
-    
-    
 draw = draw
 run()
 ```
@@ -190,40 +191,39 @@ With students, adjust the x and y speed so they can see how changing these value
 
 Alright, we have one final piece of motion to tackle, and then we are going to review how to make these shapes stay on the page. What if you want to make a shape that moves randomly? Time to add our fourth circle! Since it requires a Processing.py function, we will give those speeds values in our setup.
 
-```
+```python
 from processing import *
 from collide2d import *
 
-circ1 = {
-  "x":380,
-  "xSpd":3,
-}
-
-circ2 = {
-  "y":50,
-  "ySpd": 2,
-}
-
-circ3 = {
-  "x": 20,
-  "y": 20,
-  "xSpd":3,
-  "ySpd":1,
-}
-
-circ4 = {
-  "x":200,
-  "y":200,
-  "xSpd": 0,
-  "ySpd": 0,
-}
-
 def setup():
     size(510,350)
-    circ4["xSpd"] = random(-3,3)
-    circ4["ySpd"] = random(-3,3)
+    global circ1, circ2, circ3, circ4
+    circ1 = {
+    "x":380,
+    "xSpd":3,
+    }
+    
+    circ2 = {
+    "y":50,
+    "ySpd": 2,
+    }
+    
+    circ3 = {
+    "x": 20,
+    "y": 20,
+    "xSpd":3,
+    "ySpd":1,
+    }
+    
+    circ4 = {
+    "x":200,
+    "y":200,
+    "xSpd": random(-3,3),
+    "ySpd": random(-3,3),
+    }
 
 def draw():
+    global circ1, circ2, circ3, circ4
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
@@ -275,15 +275,17 @@ Rather than using an if/else, we just want to use an if that will change the dir
 from processing import *
 from collide2d import *
 
-circ1 = {
-  "x":380,
-  "xSpd":3,
-}
-
 def setup():
     size(510,350)
+    global circ1
+    
+    circ1 = {
+    "x":380,
+    "xSpd":3,
+    }
 
 def draw():
+    global circ1
     background(220)
     text(str(mouseX) + ", " + str(mouseY), 20, 20)
     
