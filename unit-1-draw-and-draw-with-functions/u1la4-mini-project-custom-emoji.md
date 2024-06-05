@@ -2,7 +2,7 @@
 description: How can I create a function for a custom emoji?
 ---
 
-# 🗃 U1LA4 Mini Project: Custom Emoji
+# 🗃️ U1LA4 Mini Project: Custom Emoji
 
 ### Teacher Notes and Overview
 
@@ -80,6 +80,8 @@ For this project, each student will be tasked with creating a custom emoji using
 **Sample Emoji and Paragraph:**
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p><strong>Sample emoji and paragraph</strong></p></figcaption></figure>
+
+[**Exemplar Project**](https://trinket.io/library/trinkets/6c6db9cb37) created by CS4All Pathfinder Intern: _"This emoji is an alien. His name is Allen the Alien, but his friends usually call him Al. He was created using a human programming language called Python, and using elipses, rectangles, and a variety of colors. Al says, "bleep blorp goodbye class!""_
 
 Please note that your program, while it should house the function that draws your emoji, should have _several_ displaying on the canvas because you have called your function several times. Your emoji should also utilize color!
 

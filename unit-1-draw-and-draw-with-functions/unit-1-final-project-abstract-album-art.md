@@ -83,6 +83,8 @@ Write a paragraph explaining your design decisions, including color choice and c
 
 <figure><img src="../.gitbook/assets/samplealbumoutput.gif" alt=""><figcaption><p><strong>Gif of a sample album art</strong></p></figcaption></figure>
 
+[**Exemplar Project**](https://trinket.io/library/trinkets/0b9e1a3445) created by CS4All Pathfinder intern.
+
 _**NB:** Before students get started, plan on having them draw out their ideas. It might be useful to create a planning sheet where students can draw their ideas but also record things like color palette, where they’ll use variables, etc, etc. Plan on a solid period of paper wireframing before students move to computers._
 
 ### Wrap-Up

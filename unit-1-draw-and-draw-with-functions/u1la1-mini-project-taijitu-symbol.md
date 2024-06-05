@@ -2,7 +2,7 @@
 description: How can code be used as a creative and expressive medium?
 ---
 
-# 🗃 U1LA1 Mini Project: Taijitu Symbol
+# 🗃️ U1LA1 Mini Project: Taijitu Symbol
 
 ### Prompt
 
@@ -35,6 +35,8 @@ Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/s
 ### Output
 
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>p5.js Generated Taijitu Symbol on grey background</p></figcaption></figure>
+
+[Exemplar Solution](https://trinket.io/library/trinkets/2d90da2360) created by CS4All Pathfinder
 
 ### Culturally Responsive Best Practice
 
