@@ -2,7 +2,7 @@
 description: How can I use conditional logic to create a responsive program?
 ---
 
-# 🗃 U2LA1 Mini Project: Make a Traffic Light
+# 🗃️ U2LA1 Mini Project: Make a Traffic Light
 
 ### Teacher Notes and Overview
 
@@ -82,6 +82,12 @@ This project will most likely take multiple days for students to complete. To gi
 * Where are you in this program?&#x20;
 * What is going well?&#x20;
 * What are you struggling with?
+
+### Sample Output:
+
+[**Exemplar Project (Mild/Medium)**](https://trinket.io/library/trinkets/82e7c96f17) created by CS4All Pathfinder Intern
+
+[**Exemplar Project** **(Spicy)**](https://trinket.io/library/trinkets/ddd0f50faf) created by CS4All Pathfinder Intern.
 
 ### Culturally Responsive Best Practices
 
