@@ -45,7 +45,7 @@ Students will be able to:
 
 ### Resources
 
-* [Completed Sample Code](https://trinket.io/library/trinkets/77efdcb7d6) (Trinket)
+* [Completed Sample Code]([https://trinket.io/library/trinkets/77efdcb7d6](https://trinket.strivemath.org/python/77efdcb7d6)) (Trinket)
 * [loadPixels()](https://py.processing.org/reference/loadPixels.html) and [get()](https://py.processing.org/reference/PVector\_get.html) (Processing.py Reference Sheet)
 * [Starter Code](https://trinket.io/library/trinkets/778838ecbd) (Trinket)
 
