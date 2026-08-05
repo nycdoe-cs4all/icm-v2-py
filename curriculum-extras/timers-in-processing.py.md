@@ -49,7 +49,7 @@ Students will be able to...
 ### Resources
 
 * [What is a modulo?](https://youtu.be/oqJTPyS2rUg) (Youtube Video)
-* [p5 Timer Example Code](https://editor.p5js.org/marynotari/sketches/S1T2ZTMp-) (NEED PYTHON VERSION)
+* [Timer in Processing.py Example Code](https://app.pickcode.io/project/cmsgeya166ed4jus9pn982xmj)
 * [Timers Using Millis](https://learn.digitalharbor.org/courses/creative-programming/lessons/using-timers-in-p5-js/) (NEED PYTHON VERSION)
 
 ### Assessments
