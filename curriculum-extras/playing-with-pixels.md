@@ -45,9 +45,9 @@ Students will be able to:
 
 ### Resources
 
+* [Starter Code](https://trinket.strivemath.org/python/dlb96033c03c) (Trinket)
 * [Completed Sample Code](https://trinket.strivemath.org/python/77efdcb7d6) (StriveMath/Trinket)
 * [loadPixels()](https://py.processing.org/reference/loadPixels.html) and [get()](https://py.processing.org/reference/PVector\_get.html) (Processing.py Reference Sheet)
-* [Starter Code](https://trinket.io/library/trinkets/778838ecbd) (Trinket)
 
 ### Do Now/Warm Up (\~3-5 minutes)
 
@@ -59,7 +59,7 @@ Begin by explaining the do now - the units they are measuring in are actually _p
 \
 Everything they see on a screen is just made up of pixels, and they have been controlling the appearance of those pixels in their Proecessing.py sketches. In addition to telling the pixels how to look, we can also load all the pixel data of a project and use that to make some cool interactive projects - including hidden images, which is what we will explore together today!
 
-To begin, we will make a copy of the [Starter Code](https://trinket.io/library/trinkets/778838ecbd). Notice that there isn't much there - in setup, we setup two variables, and we load an image into one. We haven't done anything else yet, though!
+To begin, we will make a copy of the [Starter Code](). Notice that there isn't much there - in setup, we setup two variables, and we load an image into one. We haven't done anything else yet, though!
 
 **NB:** _This starter code is fairly basic - if you would prefer, you can have students begin with a blank canvas to practice loading images, or you can create your own version with an image other than the default puppy one._
 
