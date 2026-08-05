@@ -14,7 +14,7 @@ In this lesson, students will be introduced to the Processing.py canvas and coor
 
 **Students will be able to:**
 
-* Create an account on [Trinket.io](https://trinket.io/)
+* Create an account on [PickCode.io](https://pickcode.io/)
 * Explain what Processing.py is
 * Describe things you can create on Processing.py
 * Understand the Processing.py canvas coordinate system
@@ -58,7 +58,7 @@ In this lesson, students will be introduced to the Processing.py canvas and coor
 * (Optional) [Desmos p5 Coordinate Grid Activity](https://teacher.desmos.com/activitybuilder/custom/5f73248eba4291305a86cf50)
 * (Optional) [Desmos p5 Coordinate Grid Tool](https://www.desmos.com/calculator/o75y8av9jw)
 
-**NB:** _Resources may refer to 'p5', which is the JavaScript version of the Processing library. The coordinate systems are the same, even if a few functions are a little different!_
+**NB:** _Resources may refer to 'p5', which is the JavaScript version of the Processing library. The coordinate systems are the same, even if a few functions are a little different! Also, videos may reference and use the Trinket IDE, but students should work in the PickCode Processing.py IDE._
 
 ### Assessments
 
@@ -76,7 +76,7 @@ In this lesson, students will be introduced to the Processing.py canvas and coor
 
 ### Do Now/Warm Up (\~5 min)
 
-Have your students sign up for a [Trinket account](https://trinket.io/).
+Have your students sign up for a [PickCode account](https://pickcode.io/).
 
 They can easily create with these options:
 
