@@ -30,12 +30,12 @@ You'll notice that some lesson pages have an emoji before them. This is keyed as
 
 ### Choosing an Editor
 
-One of the most important parts of beginning a course is determining the environment your students will be coding in. This course primarily supports one ([Trinket](https://trinket.io/)) but there are other options available:
+One of the most important parts of beginning a course is determining the environment your students will be coding in. This course primarily supports one ([PickCode](https://pickcode.io/)) but there are other options available:
 
-* **Trinket:** This is a code editor that allows students to start with a default template that is already setup to run Processing.py and display the canvas. Students have accounts and can rename and save their projects, as well as making folders to store and organize them. It runs smoothly with limited errors and provides access to a console. You can easily add extra files or images to your project.
-* **repl.it:** This is a code editor that supports _many_ languages and libraries and includes a Processing.py template. In our initial tests, this template was often glitchy and did not run as intended. If you have a strong programming background and the ability to troubleshoot, this may be a great option to set up a default template that runs more smoothly and run off of that.  There is a 'Teams for Education' option that is now free for K-12 educators and allows work to be collected/feedback left through repl.it.&#x20;
+* **StriveMath - Trinket:** This is the OpenSource Trinket code editor that is now being hosted by StriveMath. It allows students to start with a default template that is already setup to run Processing.py and display the canvas. Students have accounts and can rename and save their projects, as well as making folders to store and organize them. It runs smoothly with limited errors and provides access to a console. You can easily add extra files or images to your project.
+* **repl.it:** This is a code editor that supports _many_ languages and libraries and includes a Processing.py template. In our initial tests, this template was often glitchy and did not run as intended. If you have a strong programming background and the ability to troubleshoot, this may be a great option to set up a default template that runs more smoothly and run off of that.  
 
-Because repl.it was unreliable for Processing.py at the time the curriculum materials were being created, all resources and examples are currently only available in Trinket (but could be copy/pasted into a different editor as needed).
+Because repl.it was unreliable for Processing.py at the time the curriculum materials were being created, all resources and examples are currently only available in PickCode (but could be copy/pasted into a different editor as needed).
 
 ### Pacing
 
