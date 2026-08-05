@@ -10,7 +10,7 @@ This lesson is not code-related, and could be used at any point in the year. It 
 
 ### Overview
 
-This lesson is meant to serve as an add-on to any Computer Science course. It does not need a specific coding language - in fact, student computer use is not required as the entire lesson is unplugged - and follows no greater scope and sequence beyond [an optional follow-up lesson](https://docs.google.com/document/d/1MOm9XoH41OaPN\_OMkPb3UpWjFo7soKfOt\_Bo3G4fJ2c/preview) that focuses on digital contributors to Imposter Syndrome. As such, it can be delivered at any point during the year. A suggestion would be to consider using this lesson to begin or end a particularly difficult topic or project, or at the end of a strenuous week.
+This lesson is meant to serve as an add-on to any Computer Science course. It does not need a specific coding language - in fact, student computer use is not required as the entire lesson is unplugged - and follows no greater scope and sequence beyond [an optional follow-up lesson](https://docs.google.com/document/d/1hy8QAS5W_aSuTKMa0XTYoMOJpOA22m8aTNLGM3ShyZo/preview) that focuses on digital contributors to Imposter Syndrome. As such, it can be delivered at any point during the year. A suggestion would be to consider using this lesson to begin or end a particularly difficult topic or project, or at the end of a strenuous week.
 
 Built on the RULER approach, the goal of this lesson is to start guiding students to recognize and understand Imposter Syndrome and work towards being able to label, with specific language, their own feelings, express them in a way that is appropriate to the situation, and regulate with some of the presented strategies. While lessons on Imposter Syndrome could be a part of many content areas, we believe it is especially important in Computer Science classrooms where students are often struggling with a brand new and potentially difficult content area.
 
@@ -70,9 +70,6 @@ This lesson can be delivered at any point during the year. A suggestion would be
 ### **Resources**
 
 * ​[What is imposter syndrome and how to combat it?](https://youtu.be/ZQUxL4Jm1Lo) (Youtube)
-* ​[Imposter Syndrome - @TheAnnaLytical ](https://www.tiktok.com/@theannalytical/video/6938004772456877318?is\_copy\_url=1\&is\_from\_webapp=v1)(TikTok)
-* ​[Dance Through the Imposter Syndrome](https://www.tiktok.com/@theannalytical/video/6963695066397428998?is\_from\_webapp=v1) - @TheAnnaLytical (TikTok)
-* ​[Situational Imposter Syndrome](https://www.tiktok.com/@xtinacomputes/video/6984463406950632709?is\_from\_webapp=v1) - @XtinaComputes (TikTok)
 * ​[Learning to Deal with Imposter Syndrome](https://www.nytimes.com/2015/10/26/your-money/learning-to-deal-with-the-impostor-syndrome.html?\_r=0) - (The New York TImes Article)
 * ​[What Students Are Saying About Imposter Syndrome](https://www.nytimes.com/2021/01/21/learning/what-students-are-saying-about-impostor-syndrome-beloved-places-and-finding-balance-in-2021.html) (New York Times Article)
 * ​[Michelle Obama Explains Imposter Syndrome](https://www.youtube.com/watch?v=dumm\_XfHkmY) (Youtube)
