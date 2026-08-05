@@ -41,20 +41,16 @@ _Python-specific resources coming soon - the following all refer to the V. 1.0 J
 
 * [Codepen](https://codepen.io/): A front end web editor with cool examples (although mostly not p5)
 * [Repl.it:](https://repl.it/) An online web editor for any language with classroom tools
+* [PickCode.io](https://pickcode.io): The recommended ERMA-approved web editor that supports the Processing.py library
 
 ### Communities
 
-* [Facebook group for Processing and p5.js users](https://www.facebook.com/search/top/?q=creative%20coding%20with%20processing%20and%20p5.js\&epa=SEARCH\_BOX)
 * [Processing Discourse discussion group](https://discourse.processing.org/)
-* [NYC DOE CSforAll Teacher Slack group](https://join.slack.com/t/cs4allteachers/shared\_invite/enQtMzIwODg0NjEyMzg2LWNhNTI0ODk1N2RkNTQwODMxMTNhYjE1ZWYyMzZiNjM5MDRjZTQ5NTNlMGI5MjQ0OGY1MjQ2ODc0MDcwZGY2YTI)
 * [r/processing](https://www.reddit.com/r/processing/)
 
 ### Opportunities
 
 * [Hackathons for High Schoolers](https://hackathons.hackclub.com/)
-* [Built by Girls Events](https://www.builtbygirls.com/events-calendar)
-* [Wave: Built by Girls Mentorship Program](https://www.builtbygirls.com/about-wave)
+* [Built by Girls Instagram](https://www.instagram.com/builtbygirls)
 * [CS Ed Week](https://csedweek.org/)
-* [AI for All Summer Programs](http://ai-4-all.org/summer-programs/)
-* [All Start Code: Summer program](https://www.allstarcode.org/)
-* [Google Open Source Coding Challenge](https://codein.withgoogle.com/archive/)
+* [All Star Code](https://www.allstarcode.org/)
