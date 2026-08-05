@@ -63,7 +63,6 @@ This lesson can be delivered at any point during the year. A suggestion would be
 
 ### **Resources**
 
-* [Facebook Under Fire Over Secret Teen Research](https://www.bbc.com/news/technology-58570) (BBC)&#x20;
 * [Teenage Girl’s, Body Image, and Instagram’s ‘Perfect Storm’](https://www.theguardian.com/technology/2021/sep/18/teenage-girls-body-image-and-instagrams-perfect-storm) (The Guardian)&#x20;
 * [Facebook aware of Instagram’s harmful effect on teenage girl’s, leak reveals](https://www.theguardian.com/technology/2021/sep/14/facebook-aware-instagram-harmful-effect-teenage-girls-leak-reveals) (The Guardian)&#x20;
 * [Facebook knows Instagram harms teens. Now, its plan to open the app to kids looks worse than ever. ](https://techcrunch.com/2021/09/16/facebook-instagram-for-kids-mosseri-wsj-teen-girls/)(TechCrunch)&#x20;
