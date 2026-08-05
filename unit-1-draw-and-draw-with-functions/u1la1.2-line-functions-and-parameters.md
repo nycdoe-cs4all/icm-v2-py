@@ -56,8 +56,8 @@ Students will be able to:
 ### Resources
 
 * [Processing.py Reference Sheet](https://py.processing.org/reference/)
-* [Line Worksheet](https://docs.google.com/document/d/14mDvlCxeFW6elTAi1RMNdzJZv0ZZVKv3HXlK8hRfNOk/preview)
-* [Simplified Blank Editor w/ Text Coordinates](https://trinket.io/python/db10a38077) (Trinket.io)
+* [Line Worksheet](https://docs.google.com/document/d/1fBQqQdCsL7xxb_trE5MHT92ZKRyFZropjAyrIYcicrw/edit?usp=sharing)
+* [Simplified Blank Editor w/ Text Coordinates](https://app.pickcode.io/project/cmsgg4g9906vszk40aq17efjs) (PickCode)
 * [Introduction to Trinket and Canvas](https://youtu.be/AUdf3dsdR0o) (Youtube Video)
 * (Optional) [Desmos Coordinate Grid Activity](https://teacher.desmos.com/activitybuilder/custom/5f73248eba4291305a86cf50)
 * (Optional) [Desmos Coordinate Grid Tool](https://www.desmos.com/calculator/o75y8av9jw)
@@ -77,7 +77,7 @@ This unplugged activity will help reinforce your student’s understanding of th
 
 **Ask students to:**
 
-* Take a [Line Worksheet](https://docs.google.com/document/d/14mDvlCxeFW6elTAi1RMNdzJZv0ZZVKv3HXlK8hRfNOk/edit?usp=sharing)
+* Take a [Line Worksheet](https://docs.google.com/document/d/1fBQqQdCsL7xxb_trE5MHT92ZKRyFZropjAyrIYcicrw/edit?usp=sharing)
 * List the starting and ending points of each line using the p5 coordinate plane.
 * The first point is on the left and then the second is on the right.
 
@@ -90,9 +90,9 @@ _**Once students have finished the task, ask:**_
 
 It’s up to you if you would like to run this session as a code along, or if you would like to have students clamshell their computers and simply watch. Decide based on what you know of your class and their ability to pay attention! In either situation, if possible, provide steps on a slide deck for any student who may miss steps.
 
-Begin by reviewing how to log in and navigate Trinket. Share students on [this starter code](https://trinket.io/python/db10a38077?runMode=console) which they will be starting most projects from. (It will be useful if you can share the link somewhere like Google Classroom or a similar LMS so they always have access.) Direct students to hit the 'Remix' button, which will create a copy for them. Students should update the name to something related to what they are working on: this one can be **Unit 1, Lesson 1.2 Lines and Points**.
+Begin by reviewing how to log in and navigate PickCode. Share students on [this starter code](https://app.pickcode.io/project/cmsgg4g9906vszk40aq17efjs) which they will be starting most projects from. (It will be useful if you can share the link somewhere like Google Classroom or a similar LMS so they always have access.) Direct students to hit the 'Remix' button, which will create a copy for them. Students should update the name to something related to what they are working on: this one can be **Unit 1, Lesson 1.2 Lines and Points**.
 
-Be sure to demo saving in the Trinket editor - always foreign to students who didn’t grow up with Clippy - and how to open saved files. Additionally, you might show students how to find and organize their Trinkets into folders.
+The PickCode editor autosaves after every change, so ensure to make that clear to students and how to open saved files. Additionally, you might show students how to find and organize their Projects into folders in PickCode.
 
 Remind students that having a user account will allow them to save their projects and share them on the web.
 
@@ -134,7 +134,7 @@ Add another background of a color directly below the first - you should only see
 
 ### Line & Point Function Code Along (5 min)
 
-For this code along it is important to spend time reviewing how the canvas works in p5 and its differences from a cartesian plane. Students can copy these functions and their definitions into a journal. A good practice is to hang posters around the classroom every time a new function is added. Recreate the following Example ([trinket](https://trinket.io/library/trinkets/6905cd697f)) with your students:
+For this code along it is important to spend time reviewing how the canvas works in p5 and its differences from a cartesian plane. Students can copy these functions and their definitions into a journal. A good practice is to hang posters around the classroom every time a new function is added. Recreate the following Example ([PickCode](https://app.pickcode.io/project/cmsggh15i05zmh2zxmr6n3tfg)) with your students:
 
 ```python
 from processing import *
@@ -173,7 +173,7 @@ Draw one line together and label with a comment.
 
 Once students are comfortable in the code along, they will be trying to recreate the lines from their worksheet as a python sketch.
 
-**Ask students to complete the following exercises in their editor - it can be the same Trinket from the code along:**
+**Ask students to complete the following exercises in their editor - it can be the same project from the code along:**
 
 1. Code the lines they found on their worksheet, leaving a comment for each one, and then:
 2. Draw a point near the top-right corner of the canvas.
