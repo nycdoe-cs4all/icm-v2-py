@@ -53,7 +53,7 @@ A solid period is devoted to variable practice using DeltaMath. This is **strong
 
 ### Resources
 
-* Do Now Starter Code ([Trinket](https://trinket.io/python/21a660caa2))
+* Do Now Starter Code ([PickCode](https://app.pickcode.io/project/cmshqqae92ri3h2zx14hplost))
 * [Creating and Using Custom Variables](https://youtu.be/hKULftix1gM) (Youtube Video)
 * [Variables in Python](https://www.w3schools.com/python/python\_variables.asp) (Extra Learning Resource)
 
@@ -65,7 +65,7 @@ A solid period is devoted to variable practice using DeltaMath. This is **strong
 
 ### Do Now/Warm Up (\~3 - 5 min)
 
-Ask students to get computers and duplicate the Do Now Starter Code ([Trinket](https://trinket.io/python/21a660caa2)). Ask them to move all of the ellipses down thirty pixels. Once students start to finish getting all ellipses shifted down, ask them to move the ellipses back up 40 units. Then ask them to move everything to the right 20 units.
+Ask students to get computers and duplicate the Do Now Starter Code ([PickCode](https://app.pickcode.io/project/cmshqqae92ri3h2zx14hplost)). Ask them to move all of the ellipses down thirty pixels. Once students start to finish getting all ellipses shifted down, ask them to move the ellipses back up 40 units. Then ask them to move everything to the right 20 units.
 
 Once students are done, ask them what is frustrating about this process, and what might make it easier.
 
