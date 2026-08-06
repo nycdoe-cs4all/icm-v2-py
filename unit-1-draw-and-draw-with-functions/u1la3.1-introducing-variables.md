@@ -55,8 +55,8 @@ The do-now introduces a headache to make students care about the built-in width 
 ### Resources
 
 * [Using System Variables](https://youtu.be/ZbeD\_TpJD5U) (Youtube Video)
-* Do Now Starter Code ([Trinket](https://trinket.io/python/0c6b0dff7a))
-* Blank Starter Code ([Trinket](https://trinket.io/python/db10a38077))
+* Do Now Starter Code ([PickCode](https://app.pickcode.io/project/cmshqh9uz3bmzzk40iqpnuw7j))
+* Blank Starter Code ([PickCode](https://app.pickcode.io/project/cmsgg4g9906vszk40aq17efjs))
 
 ### Assessments
 
@@ -68,7 +68,7 @@ The do-now introduces a headache to make students care about the built-in width 
 
 ### Do Now/Warm Up (\~3 - 5 min)
 
-Share students on this [sample starter code](https://trinket.io/python/0c6b0dff7a).
+Share students on this [sample starter code](https://app.pickcode.io/project/cmshqh9uz3bmzzk40iqpnuw7j).
 
 Instruct students to play with their code and then try to create an ellipse that is perfectly centered in their canvas. If students complete this task early, ask them to make the ellipse large enough so that the ellipse touches each edge of the canvas (if their canvas is square - if it comes out as a rectangle, touching the top and bottom will suffice).
 
