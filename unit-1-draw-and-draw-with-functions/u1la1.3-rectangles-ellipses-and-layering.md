@@ -65,7 +65,7 @@ _This lesson provides opportunities for pair programming. Please note that paire
 
 ### Resources
 
-* [Layering Example](https://trinket.io/python/16972efcd9)
+* [Layering Example](https://app.pickcode.io/project/cmsghrjzk0bafzk408j6wjhx6)
 * [Robot Worksheet](https://drive.google.com/file/d/1ZmERZDHhM4A7TB27mQcxrcPJeAi5Z0m8/view?usp=sharing)
 * [Intro to Editor and Hello Ellipse ](https://youtu.be/AUdf3dsdR0o)(Youtube Video)
 * Rectangles and Layering (NEED TO MAKE PYTHON VERSION)
@@ -145,7 +145,7 @@ Ask students to complete the challenge of recreating the following shapes on the
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Grey canvas with white square in each corner and four in the center forming a larger square.</p></figcaption></figure>
 
-[Solution Code (Trinket)](https://trinket.io/python/b80dc7987f)
+[Solution Code (PickCode)](https://app.pickcode.io/project/cmsghwdfp0bynzk40hjfk3vuf)
 
 This activity will reinforce students’ knowledge of coordinate points and positioning on the canvas. Some calculations will be needed in order to get the rectangles in the corner. Have some present their work and explain their solutions to the rest of the class.
 
@@ -184,15 +184,15 @@ This activity will reinforce students’ knowledge of coordinate points and posi
 * Students should duplicate their previous sketch so that they don’t have to code one from scratch and keep a copy of their original sketch.
 * Have some present their work and explain their solutions to the rest of the class.
 
-[Possible Solution](https://trinket.io/python/b80dc7987f)
+[Possible Solution](https://app.pickcode.io/project/cmsghwdfp0bynzk40hjfk3vuf)
 
 ### Draw Your Robot (\~10 minutes)
 
 **NB**_: This can also be a take home project_
 
-Draw in Processing.py the robot that you made on graph paper. Start by opening the [Blank Sketch with Mouse Coordinates](https://trinket.io/python/db10a38077) and click 'Remix' to make a copy - remember to rename and save your file so it lives in your account forever!
+Draw in Processing.py the robot that you made on graph paper. Start by opening the [Blank Sketch with Mouse Coordinates](https://app.pickcode.io/project/cmsgg4g9906vszk40aq17efjs) and click 'Remix' to make a copy - remember to rename and save your file so it lives in your account forever!
 
-Students who are still having trouble with positioning can use this [starter sketch (Trinket)](https://trinket.io/python/63f86b3413) that contains the following:
+Students who are still having trouble with positioning can use this [starter sketch (PickCode)](https://app.pickcode.io/project/cmsghyce108yah2zxq7ohq35c) that contains the following:
 
 * Mouse canvas position indicator (x, y)
 * Adaptable grid
