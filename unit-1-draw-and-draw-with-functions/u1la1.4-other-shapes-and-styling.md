@@ -56,9 +56,9 @@ _This timing will depend on how comfortable with documentation and coding your s
 * [Basic Shapes Reference ](https://drive.google.com/file/d/0Byk7AxhPkTEJWWdUeVFteXFrT2M/view?resourcekey=0-9VnPTi4HT8fBU7uDd065lg)(Written for p5.js, but many key components are the same)
 * [Processing.py Reference Sheet](https://py.processing.org/reference/)
 * [Blank Reference Sheet Worksheet](https://docs.google.com/document/d/1DQvWNCJaGxc90KLN7ohWrHnh7jJdCHb1WPdplc2NcuA/copy)
-* [Blank Project w/ Coordinate Text](https://trinket.io/library/trinkets/db10a38077) (Trinket)
+* [Blank Project w/ Coordinate Text](https://app.pickcode.io/project/cmsgg4g9906vszk40aq17efjs) (PickCode)
 * [Arcs and Other Shapes](https://youtu.be/svEcjSUZ6ME) (Youtube Video)
-* [Styling Shapes](https://youtu.be/3HWNJakPlS4) (Youtube Video) | [Starter Code](https://trinket.io/python/79ede85278) (Trinket)
+* [Styling Shapes](https://youtu.be/3HWNJakPlS4) (Youtube Video) | [Starter Code](https://app.pickcode.io/project/cmshnci982fash2zxasiblmu3) (PickCode)
 
 ### Assessments
 
@@ -204,7 +204,7 @@ Ask students to try to create a few more arcs before you move on to the next sec
 
 We can now make many shapes, but they all look fairly plain, so it's time to give them some style! Give students about 5-7 minutes to go into the reference sheet and find definitions for `fill()`, `stroke()`, and `strokeWeight()`. Once they're done, it's time for a code along.
 
-Ask students to duplicate/fork the [starter code.](https://trinket.io/python/79ede85278) Begin by demonstrating fill() and changing the first shape to black:
+Ask students to duplicate/fork the [starter code.](https://app.pickcode.io/project/cmshnci982fash2zxasiblmu3) Begin by demonstrating fill() and changing the first shape to black:
 
 ```python
 fill(0)
