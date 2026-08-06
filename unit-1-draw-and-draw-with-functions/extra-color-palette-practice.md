@@ -43,7 +43,7 @@ This entirely optional lesson serves as an extra 'at bat' for students who need 
 
 ### Resources
 
-* Color Palette Starter Code ([Trinket](https://trinket.io/python/3869478aa2))
+* Color Palette Starter Code ([PickCode](https://app.pickcode.io/project/cmshqna8z3diwzk40fi5g66sr)
 * [Adobe Color Picker](https://color.adobe.com/create/color-wheel/)
 * Some Fine Art: [1](https://www.nga.gov/content/dam/ngaweb/Education/rothko/1950scombo.jpg) | [2](https://sep.yimg.com/ay/artbook/jackson-pollock-108.gif) | [3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5f2EGOyqXcs9mWQO6OP7-GaMuaxaqLVsFmCsH6dVLbn23aLf9Q) | [4](http://www.skny.com/media/cache/resolve/500x500\_fit/56d5695ecfaf342a038b4568/d9ebd8038de6676c169fd6d47dce7cc2.jpeg) | [5](https://rtlln1kraz3heqyqi5ac19ce-wpengine.netdna-ssl.com/wp-content/uploads/2014/06/Eliasson-Yourrainbowpanorama-2011-CreditStudioOlafurEliasson-300x240.jpg) | [6](https://www.moma.org/media/W1siZiIsIjIwMzU0MCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=52bcb4c10cb106be) | [7](https://news.artnet.com/app/news-upload/2018/03/PA\_NPG\_18\_57-M-Obama-R-2-768x921@2x-854x1024.jpg) | [8](https://guyhepner.com/wp-content/uploads/2015/04/JeanMichelBasquiatErnokEstatePrint.png) (For reference: Mark Rothko, Jackson Pollock, Frida Kahlo, Kehinde Willey, Olafur Eliasson, Mondrian, Amy Sherald, Jean-Michel Basquiat)
 
@@ -88,7 +88,7 @@ Explain that as students begin using color in their work, they will need to star
 
 Introduce Adobe Color Picker and briefly show students some of the different color options. (Located on the left) The RGB values are shown beneath each color, and palettes can be clicked/dragged customized.
 
-After the introduction, students need an opportunity to practice and play. Ask students to make a copy of the Color Palette Starter Code ([Trinket](https://trinket.io/python/3869478aa2)) and explain that they will be using Adobe Color Picker to choose a palette. They will then decide which color will be the most used in a design, followed by the second most used, and then the accent colors (at the bottom) which will be used sparingly.
+After the introduction, students need an opportunity to practice and play. Ask students to make a copy of the Color Palette Starter Code ([PickCode](https://app.pickcode.io/project/cmshqna8z3diwzk40fi5g66sr)) and explain that they will be using Adobe Color Picker to choose a palette. They will then decide which color will be the most used in a design, followed by the second most used, and then the accent colors (at the bottom) which will be used sparingly.
 
 ### Create a Colorful Design (15 - 20 minutes)
 
