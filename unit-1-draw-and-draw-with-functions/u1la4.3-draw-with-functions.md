@@ -48,7 +48,7 @@ _Review:_
 ### Resources
 
 * [Draw with Functions](https://youtu.be/iaKjQI2FPHE) (Youtube Video)
-* Lesson Starter Code ([Trinket](https://trinket.io/python/57a789a162))
+* Lesson Starter Code ([PickCode](https://app.pickcode.io/project/cmshrx83a3ooxzk40xkryzhsf))
 
 ### Assessments
 
@@ -64,7 +64,7 @@ _Review:_
 
 ### Do Now/Warm Up (\~5 minutes)
 
-Display link to starter code ([Trinket](https://trinket.io/python/57a789a162)) and ask students to duplicate the code so they can be ready to begin the lesson. If you would like, this is also a great place to put an SEL check, like asking students to complete a mood meter, journal, or otherwise react to how their day or week is going.
+Display link to starter code ([PickCode](https://app.pickcode.io/project/cmshrx83a3ooxzk40xkryzhsf)) and ask students to duplicate the code so they can be ready to begin the lesson. If you would like, this is also a great place to put an SEL check, like asking students to complete a mood meter, journal, or otherwise react to how their day or week is going.
 
 ### Code Along: Happy Face (\~15 - 20 minutes)
 
