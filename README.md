@@ -40,8 +40,8 @@ _Python-specific resources coming soon - the following all refer to the V. 1.0 J
 ### Additional Tools
 
 * [Codepen](https://codepen.io/): A front end web editor with cool examples (although mostly not p5)
-* [Repl.it:](https://repl.it/) An online web editor for any language with classroom tools
 * [PickCode.io](https://pickcode.io): The recommended ERMA-approved web editor that supports the Processing.py library
+* [StriveMath Trinket](https://trinket.strivemath.org/): A free, online editor that supports multiple programming languages (*Not yet ERMA-approved, do not have students log in if you use this platform*)
 
 ### Communities
 
