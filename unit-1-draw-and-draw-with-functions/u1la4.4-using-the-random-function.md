@@ -46,7 +46,7 @@ This lesson's goals are three-fold: first, to get students used to the idea of r
 
 ### Resources
 
-* Do Now && Lesson Starter Code ([Trinket](https://trinket.io/python/5bb4793361))
+* Do Now && Lesson Starter Code ([PickCode](https://app.pickcode.io/project/cmshs03bs2whuh2zx7k11tkpz))
 * [Using the Random Function](https://youtu.be/9b-2Gga9Qn8) (Youtube Video)
 * [Coding Train: Random Function](https://www.youtube.com/watch?v=POn4cZ0jL-o) (Youtube Video) NEED PYTHON VERSION
 
@@ -65,7 +65,7 @@ This lesson's goals are three-fold: first, to get students used to the idea of r
 
 ### Do Now/Warm Up (\~5 - 10 minutes)
 
-Share students on the Do Now Starter Code ([Trinket](https://trinket.io/python/5bb4793361)). Ask them to duplicate and then create both a `creepFace()` and `weirdFace()` function. Each should accept an argument to control the x position and y position of the entire emoji. Students should call their function to ensure it works!
+Share students on the Do Now Starter Code ([PickCode](https://app.pickcode.io/project/cmshs03bs2whuh2zx7k11tkpz)). Ask them to duplicate and then create both a `creepFace()` and `weirdFace()` function. Each should accept an argument to control the x position and y position of the entire emoji. Students should call their function to ensure it works!
 
 **NB:** _You can ask every student to complete both as part of a longer do now, or choose to have them pair program. You could also have half the class complete one while half does the other, and then ask a student from each group to share so that they all have all the code before moving on._
 
