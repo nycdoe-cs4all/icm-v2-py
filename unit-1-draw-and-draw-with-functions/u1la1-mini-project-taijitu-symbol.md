@@ -36,7 +36,7 @@ Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/s
 
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>p5.js Generated Taijitu Symbol on grey background</p></figcaption></figure>
 
-[Exemplar Solution](https://trinket.io/library/trinkets/2d90da2360) created by CS4All Pathfinder
+[Exemplar Solution](https://app.pickcode.io/project/cmshnrkym2rdozk406mmhqevx) created by CS4All Pathfinder
 
 ### Culturally Responsive Best Practice
 
