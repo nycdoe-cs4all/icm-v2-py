@@ -49,8 +49,8 @@ _No new vocabulary is introduced in this mini-project._
 
 ### Resources
 
-* [Unicode](http://unicode.org/consortium/consort.html) [Website](http://unicode.org/consortium/consort.html)
-* [Emoji Day](https://youtu.be/AT6o\_ThXq7g) [Video](https://youtu.be/AT6o\_ThXq7g)
+* [Unicode Website](http://unicode.org/consortium/consort.html)
+* [Emoji Day Video](https://youtu.be/AT6o\_ThXq7g)
 
 ### Project Launch (\~5 - 8 minutes)
 
@@ -81,7 +81,7 @@ For this project, each student will be tasked with creating a custom emoji using
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p><strong>Sample emoji and paragraph</strong></p></figcaption></figure>
 
-[**Exemplar Project**](https://trinket.io/library/trinkets/6c6db9cb37) created by CS4All Pathfinder Intern: _"This emoji is an alien. His name is Allen the Alien, but his friends usually call him Al. He was created using a human programming language called Python, and using elipses, rectangles, and a variety of colors. Al says, "bleep blorp goodbye class!""_
+[**Exemplar Project**](https://app.pickcode.io/project/cmshrfbpx3jrfzk40inuu2nt6) created by CS4All Pathfinder Intern: _"This emoji is an alien. His name is Allen the Alien, but his friends usually call him Al. He was created using a human programming language called Python, and using elipses, rectangles, and a variety of colors. Al says, "bleep blorp goodbye class!""_
 
 Please note that your program, while it should house the function that draws your emoji, should have _several_ displaying on the canvas because you have called your function several times. Your emoji should also utilize color!
 
