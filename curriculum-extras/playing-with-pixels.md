@@ -45,8 +45,8 @@ Students will be able to:
 
 ### Resources
 
-* [Starter Code](https://trinket.strivemath.org/python/dlb96033c03c) (StriveMath/Trinket)
-* [Completed Sample Code](https://trinket.strivemath.org/python/77efdcb7d6) (StriveMath/Trinket)
+* [Starter Code](https://app.pickcode.io/project/cmsgc0f5j5ywr7pc5zy0ikgr4) (PickCode)
+* [Completed Sample Code](https://app.pickcode.io/project/cmsgc0f5j5ywr7pc5zy0ikgr4) (PickCode)
 * [loadPixels()](https://py.processing.org/reference/loadPixels.html) and [get()](https://py.processing.org/reference/PVector\_get.html) (Processing.py Reference Sheet)
 
 ### Do Now/Warm Up (\~3-5 minutes)
