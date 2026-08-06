@@ -57,9 +57,8 @@ There are many wonderful examples of color theory at work in our world. A useful
 
 ### Resources
 
-* RGB Partner Practice Starter Code ([Trinket](https://trinket.io/python/615538d496))
-* RGB Independent Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/hX-nR7Q6o) | [repl.it](https://replit.com/@qrtnycs4all/U1LA32-Intro-to-Color-fill-Independent-Practice#script.js))
-* HSB Color Application Practice ([Trinket](https://trinket.io/python/eafc6104db))
+* RGB Partner Practice Starter Code ([PickCode](https://app.pickcode.io/project/cmshnuwqf2rt7zk4006ov5zu7))
+* HSB Color Application Practice ([PickCode](https://app.pickcode.io/project/cmsho2c8o2so2zk40yok3ew9s))
 * [HSB Color System](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
 * [Colors with RGB and HSB in Python](https://youtu.be/EsIuDE4Ey\_E) (Youtube Video)
 * [HSB Color Mode](https://youtu.be/lt1lDp2aFLQ) - JavaScript Version (Youtube Video)
@@ -121,7 +120,7 @@ Pretty cool, right? But what if we want more specific colors? We can, of course,
 
 ### RGB Colors Pair Programming (\~10 - 15 minutes)
 
-Students will work with partners to complete the RGB Partner Practice Starter Code ([Trinket](https://trinket.io/python/615538d496)). One partner will duplicate/fork the code. They will then take turns driving/navigating each row, giving a different stroke and fill color to each ellipse. At the end of their row, they switch roles.
+Students will work with partners to complete the RGB Partner Practice Starter Code ([PickCode](https://app.pickcode.io/project/cmshnuwqf2rt7zk4006ov5zu7)). One partner will duplicate/fork the code. They will then take turns driving/navigating each row, giving a different stroke and fill color to each ellipse. At the end of their row, they switch roles.
 
 If time permits, allow students time to share as this is the first time they've had to get excited about colors!
 
@@ -175,7 +174,7 @@ They can read more about `colorMode()` and its optional settings in the [Process
 
 ### HSB Colors Pair Programming (\~10 - 15 minutes)
 
-This is a _very_ similar activity to what students did for RGB, but now they are using HSB values. Ask one partner to make a copy of the HSB Color Application Practice ([Trinket](https://trinket.io/python/eafc6104db)) starter code, which should look familiar. Note it now has a line to change the color mode!
+This is a _very_ similar activity to what students did for RGB, but now they are using HSB values. Ask one partner to make a copy of the HSB Color Application Practice ([PickCode](https://app.pickcode.io/project/cmsho2c8o2so2zk40yok3ew9s)) starter code, which should look familiar. Note it now has a line to change the color mode!
 
 In a similar protocol to before, one partner will take the role of driver and one will navigate to complete the first line, giving each ellipse its own stroke and fill color. Challenge students to avoid using color pickers this time since they can intuit most HSB colors. (If they do need to use color pickers, make sure they are using the HSB or HSV values.)
 
