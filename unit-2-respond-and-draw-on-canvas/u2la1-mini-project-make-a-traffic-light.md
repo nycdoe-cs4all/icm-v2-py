@@ -49,7 +49,7 @@ _**No new vocabulary is introduced in this project.**_
 
 * [Traffic Light Mini Project Launch ](https://youtu.be/mJa7Np5xfPo)(Youtube Video)&#x20;
 * [Traffic Light Planning Help](https://youtu.be/nVwejBOIyBU) (Youtube Video)
-* Blank Editor ([Trinket](https://trinket.io/library/trinkets/db10a38077))
+* Blank Editor ([PickCode](https://app.pickcode.io/project/cmsgg4g9906vszk40aq17efjs))
 
 ### Assessments
 
@@ -85,9 +85,9 @@ This project will most likely take multiple days for students to complete. To gi
 
 ### Sample Output:
 
-[**Exemplar Project (Mild/Medium)**](https://trinket.io/library/trinkets/82e7c96f17) created by CS4All Pathfinder Intern
+[**Exemplar Project (Mild)**](https://app.pickcode.io/project/cmsj8b3nd6l1kzk40l1p9h5pk) created by CS4All Pathfinder Intern
 
-[**Exemplar Project** **(Spicy)**](https://trinket.io/library/trinkets/ddd0f50faf) created by CS4All Pathfinder Intern.
+[**Exemplar Project** **(Medium)**](https://app.pickcode.io/project/cmsj8cz9s6l25zk40riedcvzn) created by CS4All Pathfinder Intern.
 
 ### Culturally Responsive Best Practices
 
