@@ -58,7 +58,7 @@ Students should be able to:
 * [Pseudocode Conditionals Worksheet](https://docs.google.com/document/d/17LyXObvxcdjTDSCO8O5r3nWQV2TXEFS3lEg\_xMRtiPs/copy)
 * [Pseudocode Conditionals](https://youtu.be/1CJaGL9dQBA) (Youtube Video)&#x20;
   * **NB**: _This pseudocode walkthrough is based off of JavaScript, but your worksheet will reflect Python syntax._
-* Conditionals Off Canvas Starter Code ([Trinket](https://trinket.io/python/19a09d8f12))
+* Conditionals Off Canvas Starter Code ([PickCode](https://app.pickcode.io/project/cmsj8gcjt5dxuh2zxoksldbbz))
 
 ### Assessments
 
@@ -115,7 +115,7 @@ Much like when writing functions, the indentations - or _white space_ - is very 
 
 ### Conditionals Off Canvas (20 - 30 minutes)
 
-Share students on the Conditionals Off Canvas Starter Code ([Trinket](https://trinket.io/python/19a09d8f12)) and direct them to make a copy that they can save.
+Share students on the Conditionals Off Canvas Starter Code ([PickCode](https://app.pickcode.io/project/cmsj8gcjt5dxuh2zxoksldbbz)) and direct them to make a copy that they can save.
 
 Explain that this starter code wil lnot use the canvas and will run entirely behind the scenes, in the console. There are already some variables created with values as well as prompts for what students will be doing. Complete the noted code along with students to create code that will say 'I love your music!' if `theName` says Beyonce. For all other names, make it say 'Nice to meet you!'. The finished result should look like this:
 
