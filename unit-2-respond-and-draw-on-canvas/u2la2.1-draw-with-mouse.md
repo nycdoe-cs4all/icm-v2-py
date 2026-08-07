@@ -50,7 +50,7 @@ Students will be able to:
 
 ### Resources
 
-* Lesson Starter Code ([Trinket](https://trinket.io/python/c2a59291d6))
+* Lesson Starter Code ([PickCode](https://app.pickcode.io/project/cmsj9f8ha5fgih2zx8p508x16))
 * [Draw with Mouse and Dictionaries](https://youtu.be/ucEG2wjoY-c) (Youtube Video)
 * [Python Dictionaries](https://www.w3schools.com/python/python\_dictionaries.asp) (W3 Schools)
 * [Python Dictionaries](https://www.youtube.com/watch?v=daefaLgNkw0\&ab\_channel=CoreySchafer) (Youtube Video)
@@ -71,7 +71,7 @@ Ask students to recall the difference between the setup() and draw() functions a
 
 ### Draw with Mouse (10 - 20 minutes)
 
-Start students with the Lesson Starter Code ([Trinket](https://trinket.io/python/c2a59291d6)) which they should duplicate into their own accounts. Structure this section as a code along - ask students to first hit play, and they should notice that something interesting happens.
+Start students with the Lesson Starter Code ([PickCode](https://app.pickcode.io/project/cmsj9f8ha5fgih2zx8p508x16)) which they should duplicate into their own accounts. Structure this section as a code along - ask students to first hit play, and they should notice that something interesting happens.
 
 So far we have been drawing static images: they don't change over time. But one of the exciting things about drawing computationally is that we can make our drawings dynamic: we can have them change over time and respond to what the user does, or to some other kind of input.
 
