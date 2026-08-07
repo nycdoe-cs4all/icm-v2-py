@@ -52,10 +52,10 @@ _**7-8.CT.8** Develop or remix a program that reffectively combiens or or more c
 ### Resources
 
 * [Elif Off Canvas](https://youtu.be/fho5kqqD-ac) (Youtube Video)
-* Elif Off the Canvas Starter Code ([Trinket](https://trinket.io/python/2eb97c3299))
+* Elif Off the Canvas Starter Code ([PickCode](https://app.pickcode.io/project/cmsj8q9ks6l69zk40jba5dfb8))
 * [Conditionals on the Canvas](https://youtu.be/p60e7Gkql8k) (Youtube Video)
-* Conditionals on the Canvas Starter Code ([Trinket](https://trinket.io/library/trinkets/c53d1a0b5b))
-* Do Now Starter Code ([Trinket](https://trinket.io/python/1e78390475))
+* Conditionals on the Canvas Starter Code ([PickCode](https://app.pickcode.io/project/cmsj8yioc5eqoh2zx4n9ogvap))
+* Do Now Starter Code ([PickCode](https://app.pickcode.io/project/cmsj934hv6lp2zk4081uvv8er))
 
 ### Assessments
 
@@ -71,7 +71,7 @@ _**7-8.CT.8** Develop or remix a program that reffectively combiens or or more c
 
 ### Do Now/Warm Up (5 - 10 minutes)
 
-Find the bug and add comments explaining the solution in the following Do Now Starter Code ([Trinket](https://trinket.io/python/1e78390475)).
+Find the bug and add comments explaining the solution in the following Do Now Starter Code ([PickCode](https://app.pickcode.io/project/cmsj934hv6lp2zk4081uvv8er)).
 
 Ask students to debug the sketch in order to change the color of the rectangle. There are 2 bugs 1) if statement is missing a curly bracket { 2) rect() must be written after the if statement.
 
@@ -84,7 +84,7 @@ Ask Students to share out their solutions and explanations.
 
 ### Elif Off the Canvas (15 - 25 minutes)
 
-Ask students to open and duplicate the Elif Off the Canvas Starter Code ([Trinket](https://trinket.io/python/2eb97c3299)). Explain to students the existence of an 'else if' statement, which in Python is written as 'elif,' and its purpose in a program. We can use 'elif' to add more possible outcomes to our sketches. Since there are often more than two possible conditions that we want to work with, we can instruct the program to perform different tasks based on a range of conditions.
+Ask students to open and duplicate the Elif Off the Canvas Starter Code ([PickCode](https://app.pickcode.io/project/cmsj8q9ks6l69zk40jba5dfb8)). Explain to students the existence of an 'else if' statement, which in Python is written as 'elif,' and its purpose in a program. We can use 'elif' to add more possible outcomes to our sketches. Since there are often more than two possible conditions that we want to work with, we can instruct the program to perform different tasks based on a range of conditions.
 
 I might want to tell someone that if it's cold they should wear a coat, but I also may want to say:
 
@@ -124,7 +124,7 @@ Control flow is very important here because else if will check for multiple cond
 
 ### Elif On Canvas Lesson (15 - 30 minutes)
 
-Next, students will move to working with conditionals on the canvas. This should be an easy extension to what they were doing before, except now the variables they make will change values to adjust what is happening on the canvas. Ask students to duplicate the Conditionals on the Canvas Starter Code ([Trinket](https://trinket.io/library/trinkets/c53d1a0b5b)).
+Next, students will move to working with conditionals on the canvas. This should be an easy extension to what they were doing before, except now the variables they make will change values to adjust what is happening on the canvas. Ask students to duplicate the Conditionals on the Canvas Starter Code ([PickCode](https://app.pickcode.io/project/cmsj8yioc5eqoh2zx4n9ogvap)).
 
 Walk students through how to create a variable to control the fill of their circle, and then write a conditional that will change the value of that variable based on mouse position. Once you are done, the conditional for this section should look like the following:
 
