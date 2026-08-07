@@ -54,7 +54,7 @@ _**7-8.CT.8** Develop or remix a program that effectively combines one or more c
 
 ### Resources
 
-* And/Or Starter Code ([Trinket](https://trinket.io/python/e0b5c2fe4d))
+* And/Or Starter Code ([PickCode](https://app.pickcode.io/project/cmsj9k6r85fqxh2zx1pziej75))
 * [Logical Operators on Canvas](https://youtu.be/0kyuc5hNIbE) (Youtube Video)
 
 ### Assessments
@@ -94,7 +94,7 @@ The “do now” should give students a solid understanding of AND, and OR. Info
 
 For this code-along, be sure to explain the purpose of each expression that is written between 'and' and 'or.' This will model the thinking behind using logical operators to create buttons. Refer to the chart to show how each condition can be satisfied.
 
-Ask students to make a copy of the And/Or Starter Code ([Trinket](https://trinket.io/python/e0b5c2fe4d)). Students will be writing conditionals to change the background color when the mouse is in each different quadrant; note that the _entire_ background will be changing, and not each individual quadrant, which can be a sticking point for students.
+Ask students to make a copy of the And/Or Starter Code ([PickCode](https://app.pickcode.io/project/cmsj9k6r85fqxh2zx1pziej75)). Students will be writing conditionals to change the background color when the mouse is in each different quadrant; note that the _entire_ background will be changing, and not each individual quadrant, which can be a sticking point for students.
 
 Begin by asking students to explore the canvas, specifically moving their mouse into each quadrant and reporting what they notice about the x and y values when they are in each area.
 
